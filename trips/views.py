@@ -1,5 +1,6 @@
 import logging
 
+from drf_spectacular.utils import OpenApiExample, OpenApiResponse, extend_schema
 from rest_framework import status
 from rest_framework.request import Request
 from rest_framework.response import Response
@@ -7,7 +8,13 @@ from rest_framework.views import APIView
 
 from .hos_calculator import HOSTripCalculator
 from .ors_client import ORSError, geocode, get_route
-from .serializers import TripRequestSerializer
+from .serializers import (
+    ErrorResponseSerializer,
+    HealthResponseSerializer,
+    TripPlanResponseSerializer,
+    TripRequestSerializer,
+    ValidationErrorResponseSerializer,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -15,6 +22,11 @@ logger = logging.getLogger(__name__)
 class HealthCheckView(APIView):
     """GET /api/health/ - Simple health check endpoint for deployment verification."""
 
+    @extend_schema(
+        tags=["health"],
+        summary="Health check",
+        responses={200: HealthResponseSerializer},
+    )
     def get(self, request: Request) -> Response:
         return Response({"status": "ok"}, status=status.HTTP_200_OK)
 
@@ -27,6 +39,38 @@ class TripPlanView(APIView):
     and returns the full itinerary with log sheets.
     """
 
+    @extend_schema(
+        tags=["trips"],
+        summary="Plan a trip with FMCSA HOS",
+        request=TripRequestSerializer,
+        responses={
+            200: OpenApiResponse(response=TripPlanResponseSerializer),
+            400: OpenApiResponse(
+                response=ValidationErrorResponseSerializer,
+                description="Validation error in request payload.",
+            ),
+            502: OpenApiResponse(
+                response=ErrorResponseSerializer,
+                description="Upstream ORS geocoding/routing failure.",
+            ),
+            500: OpenApiResponse(
+                response=ErrorResponseSerializer,
+                description="Unexpected internal trip calculation failure.",
+            ),
+        },
+        examples=[
+            OpenApiExample(
+                "Trip request",
+                value={
+                    "current_location": "Chicago, IL",
+                    "pickup_location": "Detroit, MI",
+                    "dropoff_location": "Nashville, TN",
+                    "current_cycle_used": 20,
+                },
+                request_only=True,
+            )
+        ],
+    )
     def post(self, request: Request) -> Response:
         serializer = TripRequestSerializer(data=request.data)
         if not serializer.is_valid():
