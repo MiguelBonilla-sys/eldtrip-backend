@@ -1,0 +1,8002 @@
+[
+  {
+    "city": "New York",
+    "state": "New York",
+    "label": "New York, New York",
+    "population": 8405837,
+    "lat": 40.7127837,
+    "lng": -74.00594129999999
+  },
+  {
+    "city": "Los Angeles",
+    "state": "California",
+    "label": "Los Angeles, California",
+    "population": 3884307,
+    "lat": 34.0522342,
+    "lng": -118.24368490000002
+  },
+  {
+    "city": "Chicago",
+    "state": "Illinois",
+    "label": "Chicago, Illinois",
+    "population": 2718782,
+    "lat": 41.8781136,
+    "lng": -87.62979820000001
+  },
+  {
+    "city": "Houston",
+    "state": "Texas",
+    "label": "Houston, Texas",
+    "population": 2195914,
+    "lat": 29.7604267,
+    "lng": -95.36980279999999
+  },
+  {
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "label": "Philadelphia, Pennsylvania",
+    "population": 1553165,
+    "lat": 39.9525839,
+    "lng": -75.1652215
+  },
+  {
+    "city": "Phoenix",
+    "state": "Arizona",
+    "label": "Phoenix, Arizona",
+    "population": 1513367,
+    "lat": 33.4483771,
+    "lng": -112.07403729999999
+  },
+  {
+    "city": "San Antonio",
+    "state": "Texas",
+    "label": "San Antonio, Texas",
+    "population": 1409019,
+    "lat": 29.4241219,
+    "lng": -98.4936282
+  },
+  {
+    "city": "San Diego",
+    "state": "California",
+    "label": "San Diego, California",
+    "population": 1355896,
+    "lat": 32.715738,
+    "lng": -117.1610838
+  },
+  {
+    "city": "Dallas",
+    "state": "Texas",
+    "label": "Dallas, Texas",
+    "population": 1257676,
+    "lat": 32.7766642,
+    "lng": -96.7969879
+  },
+  {
+    "city": "San Jose",
+    "state": "California",
+    "label": "San Jose, California",
+    "population": 998537,
+    "lat": 37.338208200000004,
+    "lng": -121.88632859999998
+  },
+  {
+    "city": "Austin",
+    "state": "Texas",
+    "label": "Austin, Texas",
+    "population": 885400,
+    "lat": 30.267153000000004,
+    "lng": -97.7430608
+  },
+  {
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "label": "Indianapolis, Indiana",
+    "population": 843393,
+    "lat": 39.768403,
+    "lng": -86.158068
+  },
+  {
+    "city": "Jacksonville",
+    "state": "Florida",
+    "label": "Jacksonville, Florida",
+    "population": 842583,
+    "lat": 30.3321838,
+    "lng": -81.655651
+  },
+  {
+    "city": "San Francisco",
+    "state": "California",
+    "label": "San Francisco, California",
+    "population": 837442,
+    "lat": 37.7749295,
+    "lng": -122.4194155
+  },
+  {
+    "city": "Columbus",
+    "state": "Ohio",
+    "label": "Columbus, Ohio",
+    "population": 822553,
+    "lat": 39.9611755,
+    "lng": -82.9987942
+  },
+  {
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "label": "Charlotte, North Carolina",
+    "population": 792862,
+    "lat": 35.2270869,
+    "lng": -80.8431267
+  },
+  {
+    "city": "Fort Worth",
+    "state": "Texas",
+    "label": "Fort Worth, Texas",
+    "population": 792727,
+    "lat": 32.7554883,
+    "lng": -97.3307658
+  },
+  {
+    "city": "Detroit",
+    "state": "Michigan",
+    "label": "Detroit, Michigan",
+    "population": 688701,
+    "lat": 42.331427000000005,
+    "lng": -83.0457538
+  },
+  {
+    "city": "El Paso",
+    "state": "Texas",
+    "label": "El Paso, Texas",
+    "population": 674433,
+    "lat": 31.7775757,
+    "lng": -106.44245590000001
+  },
+  {
+    "city": "Memphis",
+    "state": "Tennessee",
+    "label": "Memphis, Tennessee",
+    "population": 653450,
+    "lat": 35.1495343,
+    "lng": -90.0489801
+  },
+  {
+    "city": "Seattle",
+    "state": "Washington",
+    "label": "Seattle, Washington",
+    "population": 652405,
+    "lat": 47.6062095,
+    "lng": -122.33207079999998
+  },
+  {
+    "city": "Denver",
+    "state": "Colorado",
+    "label": "Denver, Colorado",
+    "population": 649495,
+    "lat": 39.739235799999996,
+    "lng": -104.990251
+  },
+  {
+    "city": "Washington",
+    "state": "District of Columbia",
+    "label": "Washington, District of Columbia",
+    "population": 646449,
+    "lat": 38.9071923,
+    "lng": -77.03687070000001
+  },
+  {
+    "city": "Boston",
+    "state": "Massachusetts",
+    "label": "Boston, Massachusetts",
+    "population": 645966,
+    "lat": 42.360082500000004,
+    "lng": -71.0588801
+  },
+  {
+    "city": "Nashville",
+    "state": "Tennessee",
+    "label": "Nashville, Tennessee",
+    "population": 634464,
+    "lat": 36.1626638,
+    "lng": -86.78160159999999
+  },
+  {
+    "city": "Baltimore",
+    "state": "Maryland",
+    "label": "Baltimore, Maryland",
+    "population": 622104,
+    "lat": 39.2903848,
+    "lng": -76.6121893
+  },
+  {
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "label": "Oklahoma City, Oklahoma",
+    "population": 610613,
+    "lat": 35.4675602,
+    "lng": -97.5164276
+  },
+  {
+    "city": "Louisville",
+    "state": "Kentucky",
+    "label": "Louisville, Kentucky",
+    "population": 609893,
+    "lat": 38.252664700000004,
+    "lng": -85.7584557
+  },
+  {
+    "city": "Portland",
+    "state": "Oregon",
+    "label": "Portland, Oregon",
+    "population": 609456,
+    "lat": 45.523062200000005,
+    "lng": -122.67648159999999
+  },
+  {
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "label": "Las Vegas, Nevada",
+    "population": 603488,
+    "lat": 36.169941200000004,
+    "lng": -115.13982959999998
+  },
+  {
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "label": "Milwaukee, Wisconsin",
+    "population": 599164,
+    "lat": 43.0389025,
+    "lng": -87.9064736
+  },
+  {
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "label": "Albuquerque, New Mexico",
+    "population": 556495,
+    "lat": 35.0853336,
+    "lng": -106.6055534
+  },
+  {
+    "city": "Tucson",
+    "state": "Arizona",
+    "label": "Tucson, Arizona",
+    "population": 526116,
+    "lat": 32.2217429,
+    "lng": -110.926479
+  },
+  {
+    "city": "Fresno",
+    "state": "California",
+    "label": "Fresno, California",
+    "population": 509924,
+    "lat": 36.7468422,
+    "lng": -119.7725868
+  },
+  {
+    "city": "Sacramento",
+    "state": "California",
+    "label": "Sacramento, California",
+    "population": 479686,
+    "lat": 38.5815719,
+    "lng": -121.49439960000001
+  },
+  {
+    "city": "Long Beach",
+    "state": "California",
+    "label": "Long Beach, California",
+    "population": 469428,
+    "lat": 33.770050399999995,
+    "lng": -118.1937395
+  },
+  {
+    "city": "Kansas City",
+    "state": "Missouri",
+    "label": "Kansas City, Missouri",
+    "population": 467007,
+    "lat": 39.0997265,
+    "lng": -94.5785667
+  },
+  {
+    "city": "Mesa",
+    "state": "Arizona",
+    "label": "Mesa, Arizona",
+    "population": 457587,
+    "lat": 33.4151843,
+    "lng": -111.83147240000001
+  },
+  {
+    "city": "Virginia Beach",
+    "state": "Virginia",
+    "label": "Virginia Beach, Virginia",
+    "population": 448479,
+    "lat": 36.8529263,
+    "lng": -75.977985
+  },
+  {
+    "city": "Atlanta",
+    "state": "Georgia",
+    "label": "Atlanta, Georgia",
+    "population": 447841,
+    "lat": 33.7489954,
+    "lng": -84.3879824
+  },
+  {
+    "city": "Colorado Springs",
+    "state": "Colorado",
+    "label": "Colorado Springs, Colorado",
+    "population": 439886,
+    "lat": 38.8338816,
+    "lng": -104.82136340000001
+  },
+  {
+    "city": "Omaha",
+    "state": "Nebraska",
+    "label": "Omaha, Nebraska",
+    "population": 434353,
+    "lat": 41.25236339999999,
+    "lng": -95.99798829999999
+  },
+  {
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "label": "Raleigh, North Carolina",
+    "population": 431746,
+    "lat": 35.7795897,
+    "lng": -78.6381787
+  },
+  {
+    "city": "Miami",
+    "state": "Florida",
+    "label": "Miami, Florida",
+    "population": 417650,
+    "lat": 25.7616798,
+    "lng": -80.1917902
+  },
+  {
+    "city": "Oakland",
+    "state": "California",
+    "label": "Oakland, California",
+    "population": 406253,
+    "lat": 37.8043637,
+    "lng": -122.27111370000002
+  },
+  {
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "label": "Minneapolis, Minnesota",
+    "population": 400070,
+    "lat": 44.977753,
+    "lng": -93.2650108
+  },
+  {
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "label": "Tulsa, Oklahoma",
+    "population": 398121,
+    "lat": 36.1539816,
+    "lng": -95.992775
+  },
+  {
+    "city": "Cleveland",
+    "state": "Ohio",
+    "label": "Cleveland, Ohio",
+    "population": 390113,
+    "lat": 41.499320000000004,
+    "lng": -81.6943605
+  },
+  {
+    "city": "Wichita",
+    "state": "Kansas",
+    "label": "Wichita, Kansas",
+    "population": 386552,
+    "lat": 37.688889,
+    "lng": -97.336111
+  },
+  {
+    "city": "Arlington",
+    "state": "Texas",
+    "label": "Arlington, Texas",
+    "population": 379577,
+    "lat": 32.735687,
+    "lng": -97.10806559999999
+  },
+  {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "label": "New Orleans, Louisiana",
+    "population": 378715,
+    "lat": 29.9510658,
+    "lng": -90.0715323
+  },
+  {
+    "city": "Bakersfield",
+    "state": "California",
+    "label": "Bakersfield, California",
+    "population": 363630,
+    "lat": 35.3732921,
+    "lng": -119.0187125
+  },
+  {
+    "city": "Tampa",
+    "state": "Florida",
+    "label": "Tampa, Florida",
+    "population": 352957,
+    "lat": 27.950575,
+    "lng": -82.4571776
+  },
+  {
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "label": "Honolulu, Hawaii",
+    "population": 347884,
+    "lat": 21.3069444,
+    "lng": -157.8583333
+  },
+  {
+    "city": "Aurora",
+    "state": "Colorado",
+    "label": "Aurora, Colorado",
+    "population": 345803,
+    "lat": 39.729431899999994,
+    "lng": -104.8319195
+  },
+  {
+    "city": "Anaheim",
+    "state": "California",
+    "label": "Anaheim, California",
+    "population": 345012,
+    "lat": 33.8352932,
+    "lng": -117.91450359999999
+  },
+  {
+    "city": "Santa Ana",
+    "state": "California",
+    "label": "Santa Ana, California",
+    "population": 334227,
+    "lat": 33.7455731,
+    "lng": -117.8678338
+  },
+  {
+    "city": "St. Louis",
+    "state": "Missouri",
+    "label": "St. Louis, Missouri",
+    "population": 318416,
+    "lat": 38.6270025,
+    "lng": -90.1994042
+  },
+  {
+    "city": "Riverside",
+    "state": "California",
+    "label": "Riverside, California",
+    "population": 316619,
+    "lat": 33.9533487,
+    "lng": -117.3961564
+  },
+  {
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "label": "Corpus Christi, Texas",
+    "population": 316381,
+    "lat": 27.800582799999997,
+    "lng": -97.396381
+  },
+  {
+    "city": "Lexington-Fayette",
+    "state": "Kentucky",
+    "label": "Lexington-Fayette, Kentucky",
+    "population": 308428,
+    "lat": 38.040583700000006,
+    "lng": -84.50371640000002
+  },
+  {
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "label": "Pittsburgh, Pennsylvania",
+    "population": 305841,
+    "lat": 40.440624799999995,
+    "lng": -79.9958864
+  },
+  {
+    "city": "Anchorage",
+    "state": "Alaska",
+    "label": "Anchorage, Alaska",
+    "population": 300950,
+    "lat": 61.2180556,
+    "lng": -149.90027780000003
+  },
+  {
+    "city": "Stockton",
+    "state": "California",
+    "label": "Stockton, California",
+    "population": 298118,
+    "lat": 37.9577016,
+    "lng": -121.29077959999998
+  },
+  {
+    "city": "Cincinnati",
+    "state": "Ohio",
+    "label": "Cincinnati, Ohio",
+    "population": 297517,
+    "lat": 39.103118200000004,
+    "lng": -84.5120196
+  },
+  {
+    "city": "St. Paul",
+    "state": "Minnesota",
+    "label": "St. Paul, Minnesota",
+    "population": 294873,
+    "lat": 44.953702899999996,
+    "lng": -93.0899578
+  },
+  {
+    "city": "Toledo",
+    "state": "Ohio",
+    "label": "Toledo, Ohio",
+    "population": 282313,
+    "lat": 41.6639383,
+    "lng": -83.555212
+  },
+  {
+    "city": "Greensboro",
+    "state": "North Carolina",
+    "label": "Greensboro, North Carolina",
+    "population": 279639,
+    "lat": 36.072635399999996,
+    "lng": -79.79197540000001
+  },
+  {
+    "city": "Newark",
+    "state": "New Jersey",
+    "label": "Newark, New Jersey",
+    "population": 278427,
+    "lat": 40.735657,
+    "lng": -74.1723667
+  },
+  {
+    "city": "Plano",
+    "state": "Texas",
+    "label": "Plano, Texas",
+    "population": 274409,
+    "lat": 33.0198431,
+    "lng": -96.6988856
+  },
+  {
+    "city": "Henderson",
+    "state": "Nevada",
+    "label": "Henderson, Nevada",
+    "population": 270811,
+    "lat": 36.0395247,
+    "lng": -114.9817213
+  },
+  {
+    "city": "Lincoln",
+    "state": "Nebraska",
+    "label": "Lincoln, Nebraska",
+    "population": 268738,
+    "lat": 40.8257625,
+    "lng": -96.6851982
+  },
+  {
+    "city": "Buffalo",
+    "state": "New York",
+    "label": "Buffalo, New York",
+    "population": 258959,
+    "lat": 42.8864468,
+    "lng": -78.8783689
+  },
+  {
+    "city": "Jersey City",
+    "state": "New Jersey",
+    "label": "Jersey City, New Jersey",
+    "population": 257342,
+    "lat": 40.7281575,
+    "lng": -74.0776417
+  },
+  {
+    "city": "Chula Vista",
+    "state": "California",
+    "label": "Chula Vista, California",
+    "population": 256780,
+    "lat": 32.6400541,
+    "lng": -117.0841955
+  },
+  {
+    "city": "Fort Wayne",
+    "state": "Indiana",
+    "label": "Fort Wayne, Indiana",
+    "population": 256496,
+    "lat": 41.079273,
+    "lng": -85.13935129999999
+  },
+  {
+    "city": "Orlando",
+    "state": "Florida",
+    "label": "Orlando, Florida",
+    "population": 255483,
+    "lat": 28.5383355,
+    "lng": -81.3792365
+  },
+  {
+    "city": "St. Petersburg",
+    "state": "Florida",
+    "label": "St. Petersburg, Florida",
+    "population": 249688,
+    "lat": 27.773056,
+    "lng": -82.64
+  },
+  {
+    "city": "Chandler",
+    "state": "Arizona",
+    "label": "Chandler, Arizona",
+    "population": 249146,
+    "lat": 33.3061605,
+    "lng": -111.8412502
+  },
+  {
+    "city": "Laredo",
+    "state": "Texas",
+    "label": "Laredo, Texas",
+    "population": 248142,
+    "lat": 27.530567100000003,
+    "lng": -99.48032409999999
+  },
+  {
+    "city": "Norfolk",
+    "state": "Virginia",
+    "label": "Norfolk, Virginia",
+    "population": 246139,
+    "lat": 36.8507689,
+    "lng": -76.28587259999999
+  },
+  {
+    "city": "Durham",
+    "state": "North Carolina",
+    "label": "Durham, North Carolina",
+    "population": 245475,
+    "lat": 35.99403289999999,
+    "lng": -78.898619
+  },
+  {
+    "city": "Madison",
+    "state": "Wisconsin",
+    "label": "Madison, Wisconsin",
+    "population": 243344,
+    "lat": 43.07305170000001,
+    "lng": -89.4012302
+  },
+  {
+    "city": "Lubbock",
+    "state": "Texas",
+    "label": "Lubbock, Texas",
+    "population": 239538,
+    "lat": 33.5778631,
+    "lng": -101.85516650000001
+  },
+  {
+    "city": "Irvine",
+    "state": "California",
+    "label": "Irvine, California",
+    "population": 236716,
+    "lat": 33.6839473,
+    "lng": -117.79469420000001
+  },
+  {
+    "city": "Winston-Salem",
+    "state": "North Carolina",
+    "label": "Winston-Salem, North Carolina",
+    "population": 236441,
+    "lat": 36.0998596,
+    "lng": -80.24421600000001
+  },
+  {
+    "city": "Glendale",
+    "state": "Arizona",
+    "label": "Glendale, Arizona",
+    "population": 234632,
+    "lat": 33.538652299999995,
+    "lng": -112.18598659999999
+  },
+  {
+    "city": "Garland",
+    "state": "Texas",
+    "label": "Garland, Texas",
+    "population": 234566,
+    "lat": 32.912624,
+    "lng": -96.6388833
+  },
+  {
+    "city": "Hialeah",
+    "state": "Florida",
+    "label": "Hialeah, Florida",
+    "population": 233394,
+    "lat": 25.8575963,
+    "lng": -80.2781057
+  },
+  {
+    "city": "Reno",
+    "state": "Nevada",
+    "label": "Reno, Nevada",
+    "population": 233294,
+    "lat": 39.529632899999996,
+    "lng": -119.8138027
+  },
+  {
+    "city": "Chesapeake",
+    "state": "Virginia",
+    "label": "Chesapeake, Virginia",
+    "population": 230571,
+    "lat": 36.7682088,
+    "lng": -76.2874927
+  },
+  {
+    "city": "Gilbert",
+    "state": "Arizona",
+    "label": "Gilbert, Arizona",
+    "population": 229972,
+    "lat": 33.3528264,
+    "lng": -111.789027
+  },
+  {
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "label": "Baton Rouge, Louisiana",
+    "population": 229426,
+    "lat": 30.458282899999997,
+    "lng": -91.1403196
+  },
+  {
+    "city": "Irving",
+    "state": "Texas",
+    "label": "Irving, Texas",
+    "population": 228653,
+    "lat": 32.814017699999994,
+    "lng": -96.9488945
+  },
+  {
+    "city": "Scottsdale",
+    "state": "Arizona",
+    "label": "Scottsdale, Arizona",
+    "population": 226918,
+    "lat": 33.494170399999994,
+    "lng": -111.9260519
+  },
+  {
+    "city": "North Las Vegas",
+    "state": "Nevada",
+    "label": "North Las Vegas, Nevada",
+    "population": 226877,
+    "lat": 36.1988592,
+    "lng": -115.1175013
+  },
+  {
+    "city": "Fremont",
+    "state": "California",
+    "label": "Fremont, California",
+    "population": 224922,
+    "lat": 37.548269700000006,
+    "lng": -121.98857190000001
+  },
+  {
+    "city": "Boise City",
+    "state": "Idaho",
+    "label": "Boise City, Idaho",
+    "population": 214237,
+    "lat": 43.6187102,
+    "lng": -116.2146068
+  },
+  {
+    "city": "Richmond",
+    "state": "Virginia",
+    "label": "Richmond, Virginia",
+    "population": 214114,
+    "lat": 37.540724600000004,
+    "lng": -77.4360481
+  },
+  {
+    "city": "San Bernardino",
+    "state": "California",
+    "label": "San Bernardino, California",
+    "population": 213708,
+    "lat": 34.1083449,
+    "lng": -117.2897652
+  },
+  {
+    "city": "Birmingham",
+    "state": "Alabama",
+    "label": "Birmingham, Alabama",
+    "population": 212113,
+    "lat": 33.5206608,
+    "lng": -86.80249
+  },
+  {
+    "city": "Spokane",
+    "state": "Washington",
+    "label": "Spokane, Washington",
+    "population": 210721,
+    "lat": 47.6587802,
+    "lng": -117.4260466
+  },
+  {
+    "city": "Rochester",
+    "state": "New York",
+    "label": "Rochester, New York",
+    "population": 210358,
+    "lat": 43.16103,
+    "lng": -77.61092190000001
+  },
+  {
+    "city": "Des Moines",
+    "state": "Iowa",
+    "label": "Des Moines, Iowa",
+    "population": 207510,
+    "lat": 41.600544799999994,
+    "lng": -93.6091064
+  },
+  {
+    "city": "Modesto",
+    "state": "California",
+    "label": "Modesto, California",
+    "population": 204933,
+    "lat": 37.6390972,
+    "lng": -120.99687820000001
+  },
+  {
+    "city": "Fayetteville",
+    "state": "North Carolina",
+    "label": "Fayetteville, North Carolina",
+    "population": 204408,
+    "lat": 35.0526641,
+    "lng": -78.87835849999999
+  },
+  {
+    "city": "Tacoma",
+    "state": "Washington",
+    "label": "Tacoma, Washington",
+    "population": 203446,
+    "lat": 47.252876799999996,
+    "lng": -122.4442906
+  },
+  {
+    "city": "Oxnard",
+    "state": "California",
+    "label": "Oxnard, California",
+    "population": 203007,
+    "lat": 34.1975048,
+    "lng": -119.17705159999998
+  },
+  {
+    "city": "Fontana",
+    "state": "California",
+    "label": "Fontana, California",
+    "population": 203003,
+    "lat": 34.0922335,
+    "lng": -117.435048
+  },
+  {
+    "city": "Columbus",
+    "state": "Georgia",
+    "label": "Columbus, Georgia",
+    "population": 202824,
+    "lat": 32.4609764,
+    "lng": -84.9877094
+  },
+  {
+    "city": "Montgomery",
+    "state": "Alabama",
+    "label": "Montgomery, Alabama",
+    "population": 201332,
+    "lat": 32.366805199999995,
+    "lng": -86.2999689
+  },
+  {
+    "city": "Moreno Valley",
+    "state": "California",
+    "label": "Moreno Valley, California",
+    "population": 201175,
+    "lat": 33.9424658,
+    "lng": -117.2296717
+  },
+  {
+    "city": "Shreveport",
+    "state": "Louisiana",
+    "label": "Shreveport, Louisiana",
+    "population": 200327,
+    "lat": 32.5251516,
+    "lng": -93.75017890000001
+  },
+  {
+    "city": "Aurora",
+    "state": "Illinois",
+    "label": "Aurora, Illinois",
+    "population": 199963,
+    "lat": 41.7605849,
+    "lng": -88.3200715
+  },
+  {
+    "city": "Yonkers",
+    "state": "New York",
+    "label": "Yonkers, New York",
+    "population": 199766,
+    "lat": 40.9312099,
+    "lng": -73.8987469
+  },
+  {
+    "city": "Akron",
+    "state": "Ohio",
+    "label": "Akron, Ohio",
+    "population": 198100,
+    "lat": 41.081444700000006,
+    "lng": -81.51900529999999
+  },
+  {
+    "city": "Huntington Beach",
+    "state": "California",
+    "label": "Huntington Beach, California",
+    "population": 197575,
+    "lat": 33.660297,
+    "lng": -117.99922649999999
+  },
+  {
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "label": "Little Rock, Arkansas",
+    "population": 197357,
+    "lat": 34.7464809,
+    "lng": -92.2895948
+  },
+  {
+    "city": "Augusta-Richmond County",
+    "state": "Georgia",
+    "label": "Augusta-Richmond County, Georgia",
+    "population": 197350,
+    "lat": 33.4734978,
+    "lng": -82.0105148
+  },
+  {
+    "city": "Amarillo",
+    "state": "Texas",
+    "label": "Amarillo, Texas",
+    "population": 196429,
+    "lat": 35.2219971,
+    "lng": -101.8312969
+  },
+  {
+    "city": "Glendale",
+    "state": "California",
+    "label": "Glendale, California",
+    "population": 196021,
+    "lat": 34.1425078,
+    "lng": -118.255075
+  },
+  {
+    "city": "Mobile",
+    "state": "Alabama",
+    "label": "Mobile, Alabama",
+    "population": 194899,
+    "lat": 30.6953657,
+    "lng": -88.0398912
+  },
+  {
+    "city": "Grand Rapids",
+    "state": "Michigan",
+    "label": "Grand Rapids, Michigan",
+    "population": 192294,
+    "lat": 42.9633599,
+    "lng": -85.6680863
+  },
+  {
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "label": "Salt Lake City, Utah",
+    "population": 191180,
+    "lat": 40.760779299999996,
+    "lng": -111.89104740000002
+  },
+  {
+    "city": "Tallahassee",
+    "state": "Florida",
+    "label": "Tallahassee, Florida",
+    "population": 186411,
+    "lat": 30.4382559,
+    "lng": -84.2807329
+  },
+  {
+    "city": "Huntsville",
+    "state": "Alabama",
+    "label": "Huntsville, Alabama",
+    "population": 186254,
+    "lat": 34.730368799999994,
+    "lng": -86.5861037
+  },
+  {
+    "city": "Grand Prairie",
+    "state": "Texas",
+    "label": "Grand Prairie, Texas",
+    "population": 183372,
+    "lat": 32.7459645,
+    "lng": -96.99778459999999
+  },
+  {
+    "city": "Knoxville",
+    "state": "Tennessee",
+    "label": "Knoxville, Tennessee",
+    "population": 183270,
+    "lat": 35.96063839999999,
+    "lng": -83.9207392
+  },
+  {
+    "city": "Worcester",
+    "state": "Massachusetts",
+    "label": "Worcester, Massachusetts",
+    "population": 182544,
+    "lat": 42.262593200000005,
+    "lng": -71.8022934
+  },
+  {
+    "city": "Newport News",
+    "state": "Virginia",
+    "label": "Newport News, Virginia",
+    "population": 182020,
+    "lat": 37.087082099999996,
+    "lng": -76.4730122
+  },
+  {
+    "city": "Brownsville",
+    "state": "Texas",
+    "label": "Brownsville, Texas",
+    "population": 181860,
+    "lat": 25.9017472,
+    "lng": -97.4974838
+  },
+  {
+    "city": "Overland Park",
+    "state": "Kansas",
+    "label": "Overland Park, Kansas",
+    "population": 181260,
+    "lat": 38.9822282,
+    "lng": -94.6707917
+  },
+  {
+    "city": "Santa Clarita",
+    "state": "California",
+    "label": "Santa Clarita, California",
+    "population": 179590,
+    "lat": 34.3916641,
+    "lng": -118.54258600000001
+  },
+  {
+    "city": "Providence",
+    "state": "Rhode Island",
+    "label": "Providence, Rhode Island",
+    "population": 177994,
+    "lat": 41.8239891,
+    "lng": -71.4128343
+  },
+  {
+    "city": "Garden Grove",
+    "state": "California",
+    "label": "Garden Grove, California",
+    "population": 175140,
+    "lat": 33.773905299999996,
+    "lng": -117.9414477
+  },
+  {
+    "city": "Chattanooga",
+    "state": "Tennessee",
+    "label": "Chattanooga, Tennessee",
+    "population": 173366,
+    "lat": 35.0456297,
+    "lng": -85.3096801
+  },
+  {
+    "city": "Oceanside",
+    "state": "California",
+    "label": "Oceanside, California",
+    "population": 172794,
+    "lat": 33.1958696,
+    "lng": -117.3794834
+  },
+  {
+    "city": "Jackson",
+    "state": "Mississippi",
+    "label": "Jackson, Mississippi",
+    "population": 172638,
+    "lat": 32.298757300000005,
+    "lng": -90.1848103
+  },
+  {
+    "city": "Fort Lauderdale",
+    "state": "Florida",
+    "label": "Fort Lauderdale, Florida",
+    "population": 172389,
+    "lat": 26.122438600000002,
+    "lng": -80.13731740000001
+  },
+  {
+    "city": "Santa Rosa",
+    "state": "California",
+    "label": "Santa Rosa, California",
+    "population": 171990,
+    "lat": 38.440428999999995,
+    "lng": -122.7140548
+  },
+  {
+    "city": "Rancho Cucamonga",
+    "state": "California",
+    "label": "Rancho Cucamonga, California",
+    "population": 171386,
+    "lat": 34.1063989,
+    "lng": -117.5931084
+  },
+  {
+    "city": "Port St. Lucie",
+    "state": "Florida",
+    "label": "Port St. Lucie, Florida",
+    "population": 171016,
+    "lat": 27.273049199999996,
+    "lng": -80.3582261
+  },
+  {
+    "city": "Tempe",
+    "state": "Arizona",
+    "label": "Tempe, Arizona",
+    "population": 168228,
+    "lat": 33.4255104,
+    "lng": -111.9400054
+  },
+  {
+    "city": "Ontario",
+    "state": "California",
+    "label": "Ontario, California",
+    "population": 167500,
+    "lat": 34.0633443,
+    "lng": -117.65088759999999
+  },
+  {
+    "city": "Vancouver",
+    "state": "Washington",
+    "label": "Vancouver, Washington",
+    "population": 167405,
+    "lat": 45.6387281,
+    "lng": -122.6614861
+  },
+  {
+    "city": "Cape Coral",
+    "state": "Florida",
+    "label": "Cape Coral, Florida",
+    "population": 165831,
+    "lat": 26.5628537,
+    "lng": -81.94953309999998
+  },
+  {
+    "city": "Sioux Falls",
+    "state": "South Dakota",
+    "label": "Sioux Falls, South Dakota",
+    "population": 164676,
+    "lat": 43.5445959,
+    "lng": -96.73110340000001
+  },
+  {
+    "city": "Springfield",
+    "state": "Missouri",
+    "label": "Springfield, Missouri",
+    "population": 164122,
+    "lat": 37.20895720000001,
+    "lng": -93.2922989
+  },
+  {
+    "city": "Peoria",
+    "state": "Arizona",
+    "label": "Peoria, Arizona",
+    "population": 162592,
+    "lat": 33.5805955,
+    "lng": -112.23737790000001
+  },
+  {
+    "city": "Pembroke Pines",
+    "state": "Florida",
+    "label": "Pembroke Pines, Florida",
+    "population": 162329,
+    "lat": 26.007765,
+    "lng": -80.2962555
+  },
+  {
+    "city": "Elk Grove",
+    "state": "California",
+    "label": "Elk Grove, California",
+    "population": 161007,
+    "lat": 38.4087993,
+    "lng": -121.37161780000001
+  },
+  {
+    "city": "Salem",
+    "state": "Oregon",
+    "label": "Salem, Oregon",
+    "population": 160614,
+    "lat": 44.9428975,
+    "lng": -123.03509629999999
+  },
+  {
+    "city": "Lancaster",
+    "state": "California",
+    "label": "Lancaster, California",
+    "population": 159523,
+    "lat": 34.6867846,
+    "lng": -118.1541632
+  },
+  {
+    "city": "Corona",
+    "state": "California",
+    "label": "Corona, California",
+    "population": 159503,
+    "lat": 33.8752935,
+    "lng": -117.56643840000001
+  },
+  {
+    "city": "Eugene",
+    "state": "Oregon",
+    "label": "Eugene, Oregon",
+    "population": 159190,
+    "lat": 44.0520691,
+    "lng": -123.08675359999998
+  },
+  {
+    "city": "Palmdale",
+    "state": "California",
+    "label": "Palmdale, California",
+    "population": 157161,
+    "lat": 34.5794343,
+    "lng": -118.11646129999998
+  },
+  {
+    "city": "Salinas",
+    "state": "California",
+    "label": "Salinas, California",
+    "population": 155662,
+    "lat": 36.6777372,
+    "lng": -121.6555013
+  },
+  {
+    "city": "Springfield",
+    "state": "Massachusetts",
+    "label": "Springfield, Massachusetts",
+    "population": 153703,
+    "lat": 42.1014831,
+    "lng": -72.589811
+  },
+  {
+    "city": "Pasadena",
+    "state": "Texas",
+    "label": "Pasadena, Texas",
+    "population": 152735,
+    "lat": 29.6910625,
+    "lng": -95.2091006
+  },
+  {
+    "city": "Fort Collins",
+    "state": "Colorado",
+    "label": "Fort Collins, Colorado",
+    "population": 152061,
+    "lat": 40.5852602,
+    "lng": -105.084423
+  },
+  {
+    "city": "Hayward",
+    "state": "California",
+    "label": "Hayward, California",
+    "population": 151574,
+    "lat": 37.6688205,
+    "lng": -122.08079640000001
+  },
+  {
+    "city": "Pomona",
+    "state": "California",
+    "label": "Pomona, California",
+    "population": 151348,
+    "lat": 34.055103,
+    "lng": -117.7499909
+  },
+  {
+    "city": "Cary",
+    "state": "North Carolina",
+    "label": "Cary, North Carolina",
+    "population": 151088,
+    "lat": 35.791540000000005,
+    "lng": -78.78111690000001
+  },
+  {
+    "city": "Rockford",
+    "state": "Illinois",
+    "label": "Rockford, Illinois",
+    "population": 150251,
+    "lat": 42.2711311,
+    "lng": -89.09399520000001
+  },
+  {
+    "city": "Alexandria",
+    "state": "Virginia",
+    "label": "Alexandria, Virginia",
+    "population": 148892,
+    "lat": 38.804835499999996,
+    "lng": -77.0469214
+  },
+  {
+    "city": "Escondido",
+    "state": "California",
+    "label": "Escondido, California",
+    "population": 148738,
+    "lat": 33.1192068,
+    "lng": -117.086421
+  },
+  {
+    "city": "McKinney",
+    "state": "Texas",
+    "label": "McKinney, Texas",
+    "population": 148559,
+    "lat": 33.197246500000006,
+    "lng": -96.6397822
+  },
+  {
+    "city": "Kansas City",
+    "state": "Kansas",
+    "label": "Kansas City, Kansas",
+    "population": 148483,
+    "lat": 39.114053000000006,
+    "lng": -94.6274636
+  },
+  {
+    "city": "Joliet",
+    "state": "Illinois",
+    "label": "Joliet, Illinois",
+    "population": 147806,
+    "lat": 41.525031,
+    "lng": -88.0817251
+  },
+  {
+    "city": "Sunnyvale",
+    "state": "California",
+    "label": "Sunnyvale, California",
+    "population": 147559,
+    "lat": 37.368829999999996,
+    "lng": -122.03634960000001
+  },
+  {
+    "city": "Torrance",
+    "state": "California",
+    "label": "Torrance, California",
+    "population": 147478,
+    "lat": 33.835849200000006,
+    "lng": -118.34062879999999
+  },
+  {
+    "city": "Bridgeport",
+    "state": "Connecticut",
+    "label": "Bridgeport, Connecticut",
+    "population": 147216,
+    "lat": 41.18654779999999,
+    "lng": -73.1951767
+  },
+  {
+    "city": "Lakewood",
+    "state": "Colorado",
+    "label": "Lakewood, Colorado",
+    "population": 147214,
+    "lat": 39.7047095,
+    "lng": -105.08137340000002
+  },
+  {
+    "city": "Hollywood",
+    "state": "Florida",
+    "label": "Hollywood, Florida",
+    "population": 146526,
+    "lat": 26.0112014,
+    "lng": -80.1494901
+  },
+  {
+    "city": "Paterson",
+    "state": "New Jersey",
+    "label": "Paterson, New Jersey",
+    "population": 145948,
+    "lat": 40.916765399999996,
+    "lng": -74.171811
+  },
+  {
+    "city": "Naperville",
+    "state": "Illinois",
+    "label": "Naperville, Illinois",
+    "population": 144864,
+    "lat": 41.7508391,
+    "lng": -88.15353520000001
+  },
+  {
+    "city": "Syracuse",
+    "state": "New York",
+    "label": "Syracuse, New York",
+    "population": 144669,
+    "lat": 43.0481221,
+    "lng": -76.1474244
+  },
+  {
+    "city": "Mesquite",
+    "state": "Texas",
+    "label": "Mesquite, Texas",
+    "population": 143484,
+    "lat": 32.7667955,
+    "lng": -96.5991593
+  },
+  {
+    "city": "Dayton",
+    "state": "Ohio",
+    "label": "Dayton, Ohio",
+    "population": 143355,
+    "lat": 39.758947799999994,
+    "lng": -84.1916069
+  },
+  {
+    "city": "Savannah",
+    "state": "Georgia",
+    "label": "Savannah, Georgia",
+    "population": 142772,
+    "lat": 32.0835407,
+    "lng": -81.0998342
+  },
+  {
+    "city": "Clarksville",
+    "state": "Tennessee",
+    "label": "Clarksville, Tennessee",
+    "population": 142357,
+    "lat": 36.5297706,
+    "lng": -87.3594528
+  },
+  {
+    "city": "Orange",
+    "state": "California",
+    "label": "Orange, California",
+    "population": 139969,
+    "lat": 33.787794399999996,
+    "lng": -117.8531119
+  },
+  {
+    "city": "Pasadena",
+    "state": "California",
+    "label": "Pasadena, California",
+    "population": 139731,
+    "lat": 34.1477849,
+    "lng": -118.1445155
+  },
+  {
+    "city": "Fullerton",
+    "state": "California",
+    "label": "Fullerton, California",
+    "population": 138981,
+    "lat": 33.8703596,
+    "lng": -117.9242966
+  },
+  {
+    "city": "Killeen",
+    "state": "Texas",
+    "label": "Killeen, Texas",
+    "population": 137147,
+    "lat": 31.117119399999996,
+    "lng": -97.7277959
+  },
+  {
+    "city": "Frisco",
+    "state": "Texas",
+    "label": "Frisco, Texas",
+    "population": 136791,
+    "lat": 33.1506744,
+    "lng": -96.82361159999999
+  },
+  {
+    "city": "Hampton",
+    "state": "Virginia",
+    "label": "Hampton, Virginia",
+    "population": 136699,
+    "lat": 37.0298687,
+    "lng": -76.3452218
+  },
+  {
+    "city": "McAllen",
+    "state": "Texas",
+    "label": "McAllen, Texas",
+    "population": 136639,
+    "lat": 26.203407100000003,
+    "lng": -98.2300124
+  },
+  {
+    "city": "Warren",
+    "state": "Michigan",
+    "label": "Warren, Michigan",
+    "population": 134873,
+    "lat": 42.5144566,
+    "lng": -83.01465259999999
+  },
+  {
+    "city": "Bellevue",
+    "state": "Washington",
+    "label": "Bellevue, Washington",
+    "population": 133992,
+    "lat": 47.610377,
+    "lng": -122.20067859999999
+  },
+  {
+    "city": "West Valley City",
+    "state": "Utah",
+    "label": "West Valley City, Utah",
+    "population": 133579,
+    "lat": 40.691613200000006,
+    "lng": -112.00105009999999
+  },
+  {
+    "city": "Columbia",
+    "state": "South Carolina",
+    "label": "Columbia, South Carolina",
+    "population": 133358,
+    "lat": 34.0007104,
+    "lng": -81.0348144
+  },
+  {
+    "city": "Olathe",
+    "state": "Kansas",
+    "label": "Olathe, Kansas",
+    "population": 131885,
+    "lat": 38.8813958,
+    "lng": -94.8191285
+  },
+  {
+    "city": "Sterling Heights",
+    "state": "Michigan",
+    "label": "Sterling Heights, Michigan",
+    "population": 131224,
+    "lat": 42.5803122,
+    "lng": -83.0302033
+  },
+  {
+    "city": "New Haven",
+    "state": "Connecticut",
+    "label": "New Haven, Connecticut",
+    "population": 130660,
+    "lat": 41.308274,
+    "lng": -72.9278835
+  },
+  {
+    "city": "Miramar",
+    "state": "Florida",
+    "label": "Miramar, Florida",
+    "population": 130288,
+    "lat": 25.9860762,
+    "lng": -80.3035602
+  },
+  {
+    "city": "Waco",
+    "state": "Texas",
+    "label": "Waco, Texas",
+    "population": 129030,
+    "lat": 31.549333,
+    "lng": -97.1466695
+  },
+  {
+    "city": "Thousand Oaks",
+    "state": "California",
+    "label": "Thousand Oaks, California",
+    "population": 128731,
+    "lat": 34.1705609,
+    "lng": -118.83759369999999
+  },
+  {
+    "city": "Cedar Rapids",
+    "state": "Iowa",
+    "label": "Cedar Rapids, Iowa",
+    "population": 128429,
+    "lat": 41.9778795,
+    "lng": -91.66562320000001
+  },
+  {
+    "city": "Charleston",
+    "state": "South Carolina",
+    "label": "Charleston, South Carolina",
+    "population": 127999,
+    "lat": 32.776474900000004,
+    "lng": -79.9310512
+  },
+  {
+    "city": "Visalia",
+    "state": "California",
+    "label": "Visalia, California",
+    "population": 127763,
+    "lat": 36.330228399999996,
+    "lng": -119.2920585
+  },
+  {
+    "city": "Topeka",
+    "state": "Kansas",
+    "label": "Topeka, Kansas",
+    "population": 127679,
+    "lat": 39.055823499999995,
+    "lng": -95.6890185
+  },
+  {
+    "city": "Elizabeth",
+    "state": "New Jersey",
+    "label": "Elizabeth, New Jersey",
+    "population": 127558,
+    "lat": 40.6639916,
+    "lng": -74.2107006
+  },
+  {
+    "city": "Gainesville",
+    "state": "Florida",
+    "label": "Gainesville, Florida",
+    "population": 127488,
+    "lat": 29.6516344,
+    "lng": -82.3248262
+  },
+  {
+    "city": "Thornton",
+    "state": "Colorado",
+    "label": "Thornton, Colorado",
+    "population": 127359,
+    "lat": 39.8680412,
+    "lng": -104.9719243
+  },
+  {
+    "city": "Roseville",
+    "state": "California",
+    "label": "Roseville, California",
+    "population": 127035,
+    "lat": 38.752123499999996,
+    "lng": -121.28800590000002
+  },
+  {
+    "city": "Carrollton",
+    "state": "Texas",
+    "label": "Carrollton, Texas",
+    "population": 126700,
+    "lat": 32.975641499999995,
+    "lng": -96.88996359999999
+  },
+  {
+    "city": "Coral Springs",
+    "state": "Florida",
+    "label": "Coral Springs, Florida",
+    "population": 126604,
+    "lat": 26.271192,
+    "lng": -80.27060440000001
+  },
+  {
+    "city": "Stamford",
+    "state": "Connecticut",
+    "label": "Stamford, Connecticut",
+    "population": 126456,
+    "lat": 41.0534302,
+    "lng": -73.53873409999999
+  },
+  {
+    "city": "Simi Valley",
+    "state": "California",
+    "label": "Simi Valley, California",
+    "population": 126181,
+    "lat": 34.2694474,
+    "lng": -118.78148200000001
+  },
+  {
+    "city": "Concord",
+    "state": "California",
+    "label": "Concord, California",
+    "population": 125880,
+    "lat": 37.9779776,
+    "lng": -122.0310733
+  },
+  {
+    "city": "Hartford",
+    "state": "Connecticut",
+    "label": "Hartford, Connecticut",
+    "population": 125017,
+    "lat": 41.7637111,
+    "lng": -72.6850932
+  },
+  {
+    "city": "Kent",
+    "state": "Washington",
+    "label": "Kent, Washington",
+    "population": 124435,
+    "lat": 47.380933500000005,
+    "lng": -122.23484309999999
+  },
+  {
+    "city": "Lafayette",
+    "state": "Louisiana",
+    "label": "Lafayette, Louisiana",
+    "population": 124276,
+    "lat": 30.2240897,
+    "lng": -92.0198427
+  },
+  {
+    "city": "Midland",
+    "state": "Texas",
+    "label": "Midland, Texas",
+    "population": 123933,
+    "lat": 31.9973456,
+    "lng": -102.0779146
+  },
+  {
+    "city": "Surprise",
+    "state": "Arizona",
+    "label": "Surprise, Arizona",
+    "population": 123546,
+    "lat": 33.62923370000001,
+    "lng": -112.36792790000001
+  },
+  {
+    "city": "Denton",
+    "state": "Texas",
+    "label": "Denton, Texas",
+    "population": 123099,
+    "lat": 33.2148412,
+    "lng": -97.13306829999999
+  },
+  {
+    "city": "Victorville",
+    "state": "California",
+    "label": "Victorville, California",
+    "population": 121096,
+    "lat": 34.5362184,
+    "lng": -117.29276409999999
+  },
+  {
+    "city": "Evansville",
+    "state": "Indiana",
+    "label": "Evansville, Indiana",
+    "population": 120310,
+    "lat": 37.9715592,
+    "lng": -87.5710898
+  },
+  {
+    "city": "Santa Clara",
+    "state": "California",
+    "label": "Santa Clara, California",
+    "population": 120245,
+    "lat": 37.354107899999995,
+    "lng": -121.9552356
+  },
+  {
+    "city": "Abilene",
+    "state": "Texas",
+    "label": "Abilene, Texas",
+    "population": 120099,
+    "lat": 32.4487364,
+    "lng": -99.7331439
+  },
+  {
+    "city": "Athens-Clarke County",
+    "state": "Georgia",
+    "label": "Athens-Clarke County, Georgia",
+    "population": 119980,
+    "lat": 33.9519347,
+    "lng": -83.357567
+  },
+  {
+    "city": "Vallejo",
+    "state": "California",
+    "label": "Vallejo, California",
+    "population": 118837,
+    "lat": 38.1040864,
+    "lng": -122.25663670000002
+  },
+  {
+    "city": "Allentown",
+    "state": "Pennsylvania",
+    "label": "Allentown, Pennsylvania",
+    "population": 118577,
+    "lat": 40.6084305,
+    "lng": -75.4901833
+  },
+  {
+    "city": "Norman",
+    "state": "Oklahoma",
+    "label": "Norman, Oklahoma",
+    "population": 118197,
+    "lat": 35.222566799999996,
+    "lng": -97.4394777
+  },
+  {
+    "city": "Beaumont",
+    "state": "Texas",
+    "label": "Beaumont, Texas",
+    "population": 117796,
+    "lat": 30.080174,
+    "lng": -94.12655620000001
+  },
+  {
+    "city": "Independence",
+    "state": "Missouri",
+    "label": "Independence, Missouri",
+    "population": 117240,
+    "lat": 39.0911161,
+    "lng": -94.4155068
+  },
+  {
+    "city": "Murfreesboro",
+    "state": "Tennessee",
+    "label": "Murfreesboro, Tennessee",
+    "population": 117044,
+    "lat": 35.8456213,
+    "lng": -86.39027
+  },
+  {
+    "city": "Ann Arbor",
+    "state": "Michigan",
+    "label": "Ann Arbor, Michigan",
+    "population": 117025,
+    "lat": 42.2808256,
+    "lng": -83.7430378
+  },
+  {
+    "city": "Springfield",
+    "state": "Illinois",
+    "label": "Springfield, Illinois",
+    "population": 117006,
+    "lat": 39.7817213,
+    "lng": -89.6501481
+  },
+  {
+    "city": "Berkeley",
+    "state": "California",
+    "label": "Berkeley, California",
+    "population": 116768,
+    "lat": 37.87159260000001,
+    "lng": -122.272747
+  },
+  {
+    "city": "Peoria",
+    "state": "Illinois",
+    "label": "Peoria, Illinois",
+    "population": 116513,
+    "lat": 40.6936488,
+    "lng": -89.58898640000001
+  },
+  {
+    "city": "Provo",
+    "state": "Utah",
+    "label": "Provo, Utah",
+    "population": 116288,
+    "lat": 40.233843799999995,
+    "lng": -111.6585337
+  },
+  {
+    "city": "El Monte",
+    "state": "California",
+    "label": "El Monte, California",
+    "population": 115708,
+    "lat": 34.0686206,
+    "lng": -118.02756670000001
+  },
+  {
+    "city": "Columbia",
+    "state": "Missouri",
+    "label": "Columbia, Missouri",
+    "population": 115276,
+    "lat": 38.95170529999999,
+    "lng": -92.33407240000001
+  },
+  {
+    "city": "Lansing",
+    "state": "Michigan",
+    "label": "Lansing, Michigan",
+    "population": 113972,
+    "lat": 42.732535,
+    "lng": -84.55553470000001
+  },
+  {
+    "city": "Fargo",
+    "state": "North Dakota",
+    "label": "Fargo, North Dakota",
+    "population": 113658,
+    "lat": 46.8771863,
+    "lng": -96.78980340000001
+  },
+  {
+    "city": "Downey",
+    "state": "California",
+    "label": "Downey, California",
+    "population": 113242,
+    "lat": 33.9401088,
+    "lng": -118.13315929999999
+  },
+  {
+    "city": "Costa Mesa",
+    "state": "California",
+    "label": "Costa Mesa, California",
+    "population": 112174,
+    "lat": 33.6411316,
+    "lng": -117.9186689
+  },
+  {
+    "city": "Wilmington",
+    "state": "North Carolina",
+    "label": "Wilmington, North Carolina",
+    "population": 112067,
+    "lat": 34.2257255,
+    "lng": -77.9447102
+  },
+  {
+    "city": "Arvada",
+    "state": "Colorado",
+    "label": "Arvada, Colorado",
+    "population": 111707,
+    "lat": 39.802764399999994,
+    "lng": -105.08748419999999
+  },
+  {
+    "city": "Inglewood",
+    "state": "California",
+    "label": "Inglewood, California",
+    "population": 111542,
+    "lat": 33.9616801,
+    "lng": -118.3531311
+  },
+  {
+    "city": "Miami Gardens",
+    "state": "Florida",
+    "label": "Miami Gardens, Florida",
+    "population": 111378,
+    "lat": 25.942037699999997,
+    "lng": -80.2456045
+  },
+  {
+    "city": "Carlsbad",
+    "state": "California",
+    "label": "Carlsbad, California",
+    "population": 110972,
+    "lat": 33.158093300000004,
+    "lng": -117.3505939
+  },
+  {
+    "city": "Westminster",
+    "state": "Colorado",
+    "label": "Westminster, Colorado",
+    "population": 110945,
+    "lat": 39.836652799999996,
+    "lng": -105.03720459999998
+  },
+  {
+    "city": "Rochester",
+    "state": "Minnesota",
+    "label": "Rochester, Minnesota",
+    "population": 110742,
+    "lat": 44.0121221,
+    "lng": -92.4801989
+  },
+  {
+    "city": "Odessa",
+    "state": "Texas",
+    "label": "Odessa, Texas",
+    "population": 110720,
+    "lat": 31.8456816,
+    "lng": -102.3676431
+  },
+  {
+    "city": "Manchester",
+    "state": "New Hampshire",
+    "label": "Manchester, New Hampshire",
+    "population": 110378,
+    "lat": 42.995639700000005,
+    "lng": -71.4547891
+  },
+  {
+    "city": "Elgin",
+    "state": "Illinois",
+    "label": "Elgin, Illinois",
+    "population": 110145,
+    "lat": 42.035408399999994,
+    "lng": -88.2825668
+  },
+  {
+    "city": "West Jordan",
+    "state": "Utah",
+    "label": "West Jordan, Utah",
+    "population": 110077,
+    "lat": 40.6096698,
+    "lng": -111.9391031
+  },
+  {
+    "city": "Round Rock",
+    "state": "Texas",
+    "label": "Round Rock, Texas",
+    "population": 109821,
+    "lat": 30.508255100000003,
+    "lng": -97.678896
+  },
+  {
+    "city": "Clearwater",
+    "state": "Florida",
+    "label": "Clearwater, Florida",
+    "population": 109703,
+    "lat": 27.9658533,
+    "lng": -82.8001026
+  },
+  {
+    "city": "Waterbury",
+    "state": "Connecticut",
+    "label": "Waterbury, Connecticut",
+    "population": 109676,
+    "lat": 41.558152500000006,
+    "lng": -73.0514965
+  },
+  {
+    "city": "Gresham",
+    "state": "Oregon",
+    "label": "Gresham, Oregon",
+    "population": 109397,
+    "lat": 45.5001357,
+    "lng": -122.43020130000001
+  },
+  {
+    "city": "Fairfield",
+    "state": "California",
+    "label": "Fairfield, California",
+    "population": 109320,
+    "lat": 38.2493581,
+    "lng": -122.03996629999999
+  },
+  {
+    "city": "Billings",
+    "state": "Montana",
+    "label": "Billings, Montana",
+    "population": 109059,
+    "lat": 45.783285600000006,
+    "lng": -108.50069040000001
+  },
+  {
+    "city": "Lowell",
+    "state": "Massachusetts",
+    "label": "Lowell, Massachusetts",
+    "population": 108861,
+    "lat": 42.633424700000006,
+    "lng": -71.3161718
+  },
+  {
+    "city": "San Buenaventura (Ventura)",
+    "state": "California",
+    "label": "San Buenaventura (Ventura), California",
+    "population": 108817,
+    "lat": 34.274646000000004,
+    "lng": -119.22903159999998
+  },
+  {
+    "city": "Pueblo",
+    "state": "Colorado",
+    "label": "Pueblo, Colorado",
+    "population": 108249,
+    "lat": 38.2544472,
+    "lng": -104.60914090000001
+  },
+  {
+    "city": "High Point",
+    "state": "North Carolina",
+    "label": "High Point, North Carolina",
+    "population": 107741,
+    "lat": 35.955692299999995,
+    "lng": -80.0053176
+  },
+  {
+    "city": "West Covina",
+    "state": "California",
+    "label": "West Covina, California",
+    "population": 107740,
+    "lat": 34.0686208,
+    "lng": -117.93895259999998
+  },
+  {
+    "city": "Richmond",
+    "state": "California",
+    "label": "Richmond, California",
+    "population": 107571,
+    "lat": 37.9357576,
+    "lng": -122.3477486
+  },
+  {
+    "city": "Murrieta",
+    "state": "California",
+    "label": "Murrieta, California",
+    "population": 107479,
+    "lat": 33.553914299999995,
+    "lng": -117.21392320000001
+  },
+  {
+    "city": "Cambridge",
+    "state": "Massachusetts",
+    "label": "Cambridge, Massachusetts",
+    "population": 107289,
+    "lat": 42.373615799999996,
+    "lng": -71.10973349999999
+  },
+  {
+    "city": "Antioch",
+    "state": "California",
+    "label": "Antioch, California",
+    "population": 107100,
+    "lat": 38.0049214,
+    "lng": -121.80578899999999
+  },
+  {
+    "city": "Temecula",
+    "state": "California",
+    "label": "Temecula, California",
+    "population": 106780,
+    "lat": 33.4936391,
+    "lng": -117.14836480000001
+  },
+  {
+    "city": "Norwalk",
+    "state": "California",
+    "label": "Norwalk, California",
+    "population": 106589,
+    "lat": 33.9022367,
+    "lng": -118.08173300000001
+  },
+  {
+    "city": "Centennial",
+    "state": "Colorado",
+    "label": "Centennial, Colorado",
+    "population": 106114,
+    "lat": 39.5807452,
+    "lng": -104.87717260000001
+  },
+  {
+    "city": "Everett",
+    "state": "Washington",
+    "label": "Everett, Washington",
+    "population": 105370,
+    "lat": 47.9789848,
+    "lng": -122.2020794
+  },
+  {
+    "city": "Wichita Falls",
+    "state": "Texas",
+    "label": "Wichita Falls, Texas",
+    "population": 104898,
+    "lat": 33.913708500000006,
+    "lng": -98.49338730000001
+  },
+  {
+    "city": "Palm Bay",
+    "state": "Florida",
+    "label": "Palm Bay, Florida",
+    "population": 104898,
+    "lat": 28.034462100000006,
+    "lng": -80.5886646
+  },
+  {
+    "city": "Green Bay",
+    "state": "Wisconsin",
+    "label": "Green Bay, Wisconsin",
+    "population": 104779,
+    "lat": 44.519159,
+    "lng": -88.019826
+  },
+  {
+    "city": "Daly City",
+    "state": "California",
+    "label": "Daly City, California",
+    "population": 104739,
+    "lat": 37.687924100000004,
+    "lng": -122.47020790000002
+  },
+  {
+    "city": "Burbank",
+    "state": "California",
+    "label": "Burbank, California",
+    "population": 104709,
+    "lat": 34.18083920000001,
+    "lng": -118.30896609999998
+  },
+  {
+    "city": "Richardson",
+    "state": "Texas",
+    "label": "Richardson, Texas",
+    "population": 104475,
+    "lat": 32.948333500000004,
+    "lng": -96.72985190000001
+  },
+  {
+    "city": "Pompano Beach",
+    "state": "Florida",
+    "label": "Pompano Beach, Florida",
+    "population": 104410,
+    "lat": 26.2378597,
+    "lng": -80.1247667
+  },
+  {
+    "city": "North Charleston",
+    "state": "South Carolina",
+    "label": "North Charleston, South Carolina",
+    "population": 104054,
+    "lat": 32.8546197,
+    "lng": -79.9748103
+  },
+  {
+    "city": "Broken Arrow",
+    "state": "Oklahoma",
+    "label": "Broken Arrow, Oklahoma",
+    "population": 103500,
+    "lat": 36.060949,
+    "lng": -95.7974526
+  },
+  {
+    "city": "Boulder",
+    "state": "Colorado",
+    "label": "Boulder, Colorado",
+    "population": 103166,
+    "lat": 40.0149856,
+    "lng": -105.2705456
+  },
+  {
+    "city": "West Palm Beach",
+    "state": "Florida",
+    "label": "West Palm Beach, Florida",
+    "population": 102436,
+    "lat": 26.7153424,
+    "lng": -80.0533746
+  },
+  {
+    "city": "Santa Maria",
+    "state": "California",
+    "label": "Santa Maria, California",
+    "population": 102216,
+    "lat": 34.953033700000006,
+    "lng": -120.43571909999999
+  },
+  {
+    "city": "El Cajon",
+    "state": "California",
+    "label": "El Cajon, California",
+    "population": 102211,
+    "lat": 32.7947731,
+    "lng": -116.96252690000001
+  },
+  {
+    "city": "Davenport",
+    "state": "Iowa",
+    "label": "Davenport, Iowa",
+    "population": 102157,
+    "lat": 41.5236437,
+    "lng": -90.57763670000001
+  },
+  {
+    "city": "Rialto",
+    "state": "California",
+    "label": "Rialto, California",
+    "population": 101910,
+    "lat": 34.1064001,
+    "lng": -117.37032350000001
+  },
+  {
+    "city": "Las Cruces",
+    "state": "New Mexico",
+    "label": "Las Cruces, New Mexico",
+    "population": 101324,
+    "lat": 32.3199396,
+    "lng": -106.7636538
+  },
+  {
+    "city": "San Mateo",
+    "state": "California",
+    "label": "San Mateo, California",
+    "population": 101128,
+    "lat": 37.562991700000005,
+    "lng": -122.32552539999999
+  },
+  {
+    "city": "Lewisville",
+    "state": "Texas",
+    "label": "Lewisville, Texas",
+    "population": 101074,
+    "lat": 33.046233,
+    "lng": -96.994174
+  },
+  {
+    "city": "South Bend",
+    "state": "Indiana",
+    "label": "South Bend, Indiana",
+    "population": 100886,
+    "lat": 41.676354499999995,
+    "lng": -86.25198979999999
+  },
+  {
+    "city": "Lakeland",
+    "state": "Florida",
+    "label": "Lakeland, Florida",
+    "population": 100710,
+    "lat": 28.039465399999997,
+    "lng": -81.9498042
+  },
+  {
+    "city": "Erie",
+    "state": "Pennsylvania",
+    "label": "Erie, Pennsylvania",
+    "population": 100671,
+    "lat": 42.1292241,
+    "lng": -80.085059
+  },
+  {
+    "city": "Tyler",
+    "state": "Texas",
+    "label": "Tyler, Texas",
+    "population": 100223,
+    "lat": 32.351260100000005,
+    "lng": -95.3010624
+  },
+  {
+    "city": "Pearland",
+    "state": "Texas",
+    "label": "Pearland, Texas",
+    "population": 100065,
+    "lat": 29.5635666,
+    "lng": -95.2860474
+  },
+  {
+    "city": "College Station",
+    "state": "Texas",
+    "label": "College Station, Texas",
+    "population": 100050,
+    "lat": 30.627977,
+    "lng": -96.3344068
+  },
+  {
+    "city": "Kenosha",
+    "state": "Wisconsin",
+    "label": "Kenosha, Wisconsin",
+    "population": 99889,
+    "lat": 42.5847425,
+    "lng": -87.8211854
+  },
+  {
+    "city": "Sandy Springs",
+    "state": "Georgia",
+    "label": "Sandy Springs, Georgia",
+    "population": 99770,
+    "lat": 33.9304352,
+    "lng": -84.3733147
+  },
+  {
+    "city": "Clovis",
+    "state": "California",
+    "label": "Clovis, California",
+    "population": 99769,
+    "lat": 36.8252277,
+    "lng": -119.70291940000001
+  },
+  {
+    "city": "Flint",
+    "state": "Michigan",
+    "label": "Flint, Michigan",
+    "population": 99763,
+    "lat": 43.012527399999996,
+    "lng": -83.6874562
+  },
+  {
+    "city": "Roanoke",
+    "state": "Virginia",
+    "label": "Roanoke, Virginia",
+    "population": 98465,
+    "lat": 37.270970399999996,
+    "lng": -79.9414266
+  },
+  {
+    "city": "Albany",
+    "state": "New York",
+    "label": "Albany, New York",
+    "population": 98424,
+    "lat": 42.65257929999999,
+    "lng": -73.7562317
+  },
+  {
+    "city": "Jurupa Valley",
+    "state": "California",
+    "label": "Jurupa Valley, California",
+    "population": 98030,
+    "lat": 33.9971974,
+    "lng": -117.48548020000001
+  },
+  {
+    "city": "Compton",
+    "state": "California",
+    "label": "Compton, California",
+    "population": 97877,
+    "lat": 33.8958492,
+    "lng": -118.2200712
+  },
+  {
+    "city": "San Angelo",
+    "state": "Texas",
+    "label": "San Angelo, Texas",
+    "population": 97492,
+    "lat": 31.4637723,
+    "lng": -100.4370375
+  },
+  {
+    "city": "Hillsboro",
+    "state": "Oregon",
+    "label": "Hillsboro, Oregon",
+    "population": 97368,
+    "lat": 45.5228939,
+    "lng": -122.989827
+  },
+  {
+    "city": "Lawton",
+    "state": "Oklahoma",
+    "label": "Lawton, Oklahoma",
+    "population": 97151,
+    "lat": 34.6035669,
+    "lng": -98.3959291
+  },
+  {
+    "city": "Renton",
+    "state": "Washington",
+    "label": "Renton, Washington",
+    "population": 97003,
+    "lat": 47.4828776,
+    "lng": -122.21706609999998
+  },
+  {
+    "city": "Vista",
+    "state": "California",
+    "label": "Vista, California",
+    "population": 96929,
+    "lat": 33.2000368,
+    "lng": -117.2425355
+  },
+  {
+    "city": "Davie",
+    "state": "Florida",
+    "label": "Davie, Florida",
+    "population": 96830,
+    "lat": 26.076478299999998,
+    "lng": -80.2521157
+  },
+  {
+    "city": "Greeley",
+    "state": "Colorado",
+    "label": "Greeley, Colorado",
+    "population": 96539,
+    "lat": 40.42331420000001,
+    "lng": -104.7091322
+  },
+  {
+    "city": "Mission Viejo",
+    "state": "California",
+    "label": "Mission Viejo, California",
+    "population": 96346,
+    "lat": 33.6000232,
+    "lng": -117.67199529999999
+  },
+  {
+    "city": "Portsmouth",
+    "state": "Virginia",
+    "label": "Portsmouth, Virginia",
+    "population": 96205,
+    "lat": 36.835425799999996,
+    "lng": -76.29827420000001
+  },
+  {
+    "city": "Dearborn",
+    "state": "Michigan",
+    "label": "Dearborn, Michigan",
+    "population": 95884,
+    "lat": 42.3222599,
+    "lng": -83.1763145
+  },
+  {
+    "city": "South Gate",
+    "state": "California",
+    "label": "South Gate, California",
+    "population": 95677,
+    "lat": 33.954737,
+    "lng": -118.21201609999999
+  },
+  {
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "label": "Tuscaloosa, Alabama",
+    "population": 95334,
+    "lat": 33.2098407,
+    "lng": -87.5691735
+  },
+  {
+    "city": "Livonia",
+    "state": "Michigan",
+    "label": "Livonia, Michigan",
+    "population": 95208,
+    "lat": 42.36837,
+    "lng": -83.3527097
+  },
+  {
+    "city": "New Bedford",
+    "state": "Massachusetts",
+    "label": "New Bedford, Massachusetts",
+    "population": 95078,
+    "lat": 41.6362152,
+    "lng": -70.934205
+  },
+  {
+    "city": "Vacaville",
+    "state": "California",
+    "label": "Vacaville, California",
+    "population": 94275,
+    "lat": 38.3565773,
+    "lng": -121.98774440000001
+  },
+  {
+    "city": "Brockton",
+    "state": "Massachusetts",
+    "label": "Brockton, Massachusetts",
+    "population": 94089,
+    "lat": 42.083433500000005,
+    "lng": -71.0183787
+  },
+  {
+    "city": "Roswell",
+    "state": "Georgia",
+    "label": "Roswell, Georgia",
+    "population": 94034,
+    "lat": 34.0232431,
+    "lng": -84.36155550000001
+  },
+  {
+    "city": "Beaverton",
+    "state": "Oregon",
+    "label": "Beaverton, Oregon",
+    "population": 93542,
+    "lat": 45.487062,
+    "lng": -122.8037102
+  },
+  {
+    "city": "Quincy",
+    "state": "Massachusetts",
+    "label": "Quincy, Massachusetts",
+    "population": 93494,
+    "lat": 42.25287720000001,
+    "lng": -71.0022705
+  },
+  {
+    "city": "Sparks",
+    "state": "Nevada",
+    "label": "Sparks, Nevada",
+    "population": 93282,
+    "lat": 39.5349112,
+    "lng": -119.7526886
+  },
+  {
+    "city": "Yakima",
+    "state": "Washington",
+    "label": "Yakima, Washington",
+    "population": 93257,
+    "lat": 46.6020711,
+    "lng": -120.5058987
+  },
+  {
+    "city": "Lee's Summit",
+    "state": "Missouri",
+    "label": "Lee's Summit, Missouri",
+    "population": 93184,
+    "lat": 38.9108408,
+    "lng": -94.3821724
+  },
+  {
+    "city": "Federal Way",
+    "state": "Washington",
+    "label": "Federal Way, Washington",
+    "population": 92734,
+    "lat": 47.3223221,
+    "lng": -122.3126222
+  },
+  {
+    "city": "Carson",
+    "state": "California",
+    "label": "Carson, California",
+    "population": 92599,
+    "lat": 33.8316745,
+    "lng": -118.28169299999999
+  },
+  {
+    "city": "Santa Monica",
+    "state": "California",
+    "label": "Santa Monica, California",
+    "population": 92472,
+    "lat": 34.01945429999999,
+    "lng": -118.4911912
+  },
+  {
+    "city": "Hesperia",
+    "state": "California",
+    "label": "Hesperia, California",
+    "population": 92147,
+    "lat": 34.4263886,
+    "lng": -117.3008784
+  },
+  {
+    "city": "Allen",
+    "state": "Texas",
+    "label": "Allen, Texas",
+    "population": 92020,
+    "lat": 33.1031744,
+    "lng": -96.6705503
+  },
+  {
+    "city": "Rio Rancho",
+    "state": "New Mexico",
+    "label": "Rio Rancho, New Mexico",
+    "population": 91956,
+    "lat": 35.2327544,
+    "lng": -106.66304369999999
+  },
+  {
+    "city": "Yuma",
+    "state": "Arizona",
+    "label": "Yuma, Arizona",
+    "population": 91923,
+    "lat": 32.6926512,
+    "lng": -114.62769159999999
+  },
+  {
+    "city": "Westminster",
+    "state": "California",
+    "label": "Westminster, California",
+    "population": 91739,
+    "lat": 33.7513419,
+    "lng": -117.99399209999999
+  },
+  {
+    "city": "Orem",
+    "state": "Utah",
+    "label": "Orem, Utah",
+    "population": 91648,
+    "lat": 40.2968979,
+    "lng": -111.69464750000002
+  },
+  {
+    "city": "Lynn",
+    "state": "Massachusetts",
+    "label": "Lynn, Massachusetts",
+    "population": 91589,
+    "lat": 42.466763,
+    "lng": -70.9494938
+  },
+  {
+    "city": "Redding",
+    "state": "California",
+    "label": "Redding, California",
+    "population": 91119,
+    "lat": 40.5865396,
+    "lng": -122.3916754
+  },
+  {
+    "city": "Spokane Valley",
+    "state": "Washington",
+    "label": "Spokane Valley, Washington",
+    "population": 91113,
+    "lat": 47.6732281,
+    "lng": -117.2393748
+  },
+  {
+    "city": "Miami Beach",
+    "state": "Florida",
+    "label": "Miami Beach, Florida",
+    "population": 91026,
+    "lat": 25.790654,
+    "lng": -80.1300455
+  },
+  {
+    "city": "League City",
+    "state": "Texas",
+    "label": "League City, Texas",
+    "population": 90983,
+    "lat": 29.5074538,
+    "lng": -95.0949303
+  },
+  {
+    "city": "Lawrence",
+    "state": "Kansas",
+    "label": "Lawrence, Kansas",
+    "population": 90811,
+    "lat": 38.971668900000004,
+    "lng": -95.23525009999999
+  },
+  {
+    "city": "Santa Barbara",
+    "state": "California",
+    "label": "Santa Barbara, California",
+    "population": 90412,
+    "lat": 34.4208305,
+    "lng": -119.69819009999999
+  },
+  {
+    "city": "Plantation",
+    "state": "Florida",
+    "label": "Plantation, Florida",
+    "population": 90268,
+    "lat": 26.1275862,
+    "lng": -80.23310359999999
+  },
+  {
+    "city": "Sandy",
+    "state": "Utah",
+    "label": "Sandy, Utah",
+    "population": 90231,
+    "lat": 40.564978100000005,
+    "lng": -111.8389726
+  },
+  {
+    "city": "Sunrise",
+    "state": "Florida",
+    "label": "Sunrise, Florida",
+    "population": 90116,
+    "lat": 26.1669711,
+    "lng": -80.25659499999999
+  },
+  {
+    "city": "Macon",
+    "state": "Georgia",
+    "label": "Macon, Georgia",
+    "population": 89981,
+    "lat": 32.8406946,
+    "lng": -83.6324022
+  },
+  {
+    "city": "Longmont",
+    "state": "Colorado",
+    "label": "Longmont, Colorado",
+    "population": 89919,
+    "lat": 40.167206799999995,
+    "lng": -105.10192749999999
+  },
+  {
+    "city": "Boca Raton",
+    "state": "Florida",
+    "label": "Boca Raton, Florida",
+    "population": 89407,
+    "lat": 26.3683064,
+    "lng": -80.1289321
+  },
+  {
+    "city": "San Marcos",
+    "state": "California",
+    "label": "San Marcos, California",
+    "population": 89387,
+    "lat": 33.1433723,
+    "lng": -117.1661449
+  },
+  {
+    "city": "Greenville",
+    "state": "North Carolina",
+    "label": "Greenville, North Carolina",
+    "population": 89130,
+    "lat": 35.612660999999996,
+    "lng": -77.3663538
+  },
+  {
+    "city": "Waukegan",
+    "state": "Illinois",
+    "label": "Waukegan, Illinois",
+    "population": 88826,
+    "lat": 42.3636331,
+    "lng": -87.84479379999999
+  },
+  {
+    "city": "Fall River",
+    "state": "Massachusetts",
+    "label": "Fall River, Massachusetts",
+    "population": 88697,
+    "lat": 41.7014912,
+    "lng": -71.1550451
+  },
+  {
+    "city": "Chico",
+    "state": "California",
+    "label": "Chico, California",
+    "population": 88077,
+    "lat": 39.728494399999995,
+    "lng": -121.8374777
+  },
+  {
+    "city": "Newton",
+    "state": "Massachusetts",
+    "label": "Newton, Massachusetts",
+    "population": 87971,
+    "lat": 42.337041299999996,
+    "lng": -71.2092214
+  },
+  {
+    "city": "San Leandro",
+    "state": "California",
+    "label": "San Leandro, California",
+    "population": 87965,
+    "lat": 37.7249296,
+    "lng": -122.1560768
+  },
+  {
+    "city": "Reading",
+    "state": "Pennsylvania",
+    "label": "Reading, Pennsylvania",
+    "population": 87893,
+    "lat": 40.335648299999995,
+    "lng": -75.9268747
+  },
+  {
+    "city": "Norwalk",
+    "state": "Connecticut",
+    "label": "Norwalk, Connecticut",
+    "population": 87776,
+    "lat": 41.117744,
+    "lng": -73.4081575
+  },
+  {
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "label": "Fort Smith, Arkansas",
+    "population": 87650,
+    "lat": 35.385924200000005,
+    "lng": -94.39854749999999
+  },
+  {
+    "city": "Newport Beach",
+    "state": "California",
+    "label": "Newport Beach, California",
+    "population": 87273,
+    "lat": 33.6189101,
+    "lng": -117.9289469
+  },
+  {
+    "city": "Asheville",
+    "state": "North Carolina",
+    "label": "Asheville, North Carolina",
+    "population": 87236,
+    "lat": 35.5950581,
+    "lng": -82.5514869
+  },
+  {
+    "city": "Nashua",
+    "state": "New Hampshire",
+    "label": "Nashua, New Hampshire",
+    "population": 87137,
+    "lat": 42.7653662,
+    "lng": -71.467566
+  },
+  {
+    "city": "Edmond",
+    "state": "Oklahoma",
+    "label": "Edmond, Oklahoma",
+    "population": 87004,
+    "lat": 35.6528323,
+    "lng": -97.4780954
+  },
+  {
+    "city": "Whittier",
+    "state": "California",
+    "label": "Whittier, California",
+    "population": 86635,
+    "lat": 33.97917929999999,
+    "lng": -118.032844
+  },
+  {
+    "city": "Nampa",
+    "state": "Idaho",
+    "label": "Nampa, Idaho",
+    "population": 86518,
+    "lat": 43.5407172,
+    "lng": -116.5634624
+  },
+  {
+    "city": "Bloomington",
+    "state": "Minnesota",
+    "label": "Bloomington, Minnesota",
+    "population": 86319,
+    "lat": 44.840798,
+    "lng": -93.29827990000001
+  },
+  {
+    "city": "Deltona",
+    "state": "Florida",
+    "label": "Deltona, Florida",
+    "population": 86290,
+    "lat": 28.9005446,
+    "lng": -81.2636738
+  },
+  {
+    "city": "Hawthorne",
+    "state": "California",
+    "label": "Hawthorne, California",
+    "population": 86199,
+    "lat": 33.9164032,
+    "lng": -118.35257479999999
+  },
+  {
+    "city": "Duluth",
+    "state": "Minnesota",
+    "label": "Duluth, Minnesota",
+    "population": 86128,
+    "lat": 46.7866719,
+    "lng": -92.10048520000001
+  },
+  {
+    "city": "Carmel",
+    "state": "Indiana",
+    "label": "Carmel, Indiana",
+    "population": 85927,
+    "lat": 39.978371,
+    "lng": -86.1180435
+  },
+  {
+    "city": "Suffolk",
+    "state": "Virginia",
+    "label": "Suffolk, Virginia",
+    "population": 85728,
+    "lat": 36.7282054,
+    "lng": -76.5835621
+  },
+  {
+    "city": "Clifton",
+    "state": "New Jersey",
+    "label": "Clifton, New Jersey",
+    "population": 85390,
+    "lat": 40.858432799999996,
+    "lng": -74.16375529999999
+  },
+  {
+    "city": "Citrus Heights",
+    "state": "California",
+    "label": "Citrus Heights, California",
+    "population": 85285,
+    "lat": 38.7071247,
+    "lng": -121.2810611
+  },
+  {
+    "city": "Livermore",
+    "state": "California",
+    "label": "Livermore, California",
+    "population": 85156,
+    "lat": 37.6818745,
+    "lng": -121.7680088
+  },
+  {
+    "city": "Tracy",
+    "state": "California",
+    "label": "Tracy, California",
+    "population": 84691,
+    "lat": 37.7396513,
+    "lng": -121.42522269999999
+  },
+  {
+    "city": "Alhambra",
+    "state": "California",
+    "label": "Alhambra, California",
+    "population": 84577,
+    "lat": 34.095287,
+    "lng": -118.1270146
+  },
+  {
+    "city": "Kirkland",
+    "state": "Washington",
+    "label": "Kirkland, Washington",
+    "population": 84430,
+    "lat": 47.6814875,
+    "lng": -122.20873529999999
+  },
+  {
+    "city": "Trenton",
+    "state": "New Jersey",
+    "label": "Trenton, New Jersey",
+    "population": 84349,
+    "lat": 40.2170534,
+    "lng": -74.74293840000001
+  },
+  {
+    "city": "Ogden",
+    "state": "Utah",
+    "label": "Ogden, Utah",
+    "population": 84249,
+    "lat": 41.223,
+    "lng": -111.9738304
+  },
+  {
+    "city": "Hoover",
+    "state": "Alabama",
+    "label": "Hoover, Alabama",
+    "population": 84126,
+    "lat": 33.405386699999994,
+    "lng": -86.8113781
+  },
+  {
+    "city": "Cicero",
+    "state": "Illinois",
+    "label": "Cicero, Illinois",
+    "population": 84103,
+    "lat": 41.8455877,
+    "lng": -87.7539448
+  },
+  {
+    "city": "Fishers",
+    "state": "Indiana",
+    "label": "Fishers, Indiana",
+    "population": 83891,
+    "lat": 39.95675479999999,
+    "lng": -86.01335
+  },
+  {
+    "city": "Sugar Land",
+    "state": "Texas",
+    "label": "Sugar Land, Texas",
+    "population": 83860,
+    "lat": 29.6196787,
+    "lng": -95.6349463
+  },
+  {
+    "city": "Danbury",
+    "state": "Connecticut",
+    "label": "Danbury, Connecticut",
+    "population": 83684,
+    "lat": 41.394816999999996,
+    "lng": -73.45401109999999
+  },
+  {
+    "city": "Meridian",
+    "state": "Idaho",
+    "label": "Meridian, Idaho",
+    "population": 83596,
+    "lat": 43.61210870000001,
+    "lng": -116.39151310000001
+  },
+  {
+    "city": "Indio",
+    "state": "California",
+    "label": "Indio, California",
+    "population": 83539,
+    "lat": 33.7205771,
+    "lng": -116.2155619
+  },
+  {
+    "city": "Concord",
+    "state": "North Carolina",
+    "label": "Concord, North Carolina",
+    "population": 83506,
+    "lat": 35.4087517,
+    "lng": -80.579511
+  },
+  {
+    "city": "Menifee",
+    "state": "California",
+    "label": "Menifee, California",
+    "population": 83447,
+    "lat": 33.6971468,
+    "lng": -117.185294
+  },
+  {
+    "city": "Champaign",
+    "state": "Illinois",
+    "label": "Champaign, Illinois",
+    "population": 83424,
+    "lat": 40.116420399999996,
+    "lng": -88.2433829
+  },
+  {
+    "city": "Buena Park",
+    "state": "California",
+    "label": "Buena Park, California",
+    "population": 82882,
+    "lat": 33.867514299999996,
+    "lng": -117.99811809999999
+  },
+  {
+    "city": "Troy",
+    "state": "Michigan",
+    "label": "Troy, Michigan",
+    "population": 82821,
+    "lat": 42.6064095,
+    "lng": -83.1497751
+  },
+  {
+    "city": "O'Fallon",
+    "state": "Missouri",
+    "label": "O'Fallon, Missouri",
+    "population": 82809,
+    "lat": 38.8106075,
+    "lng": -90.6998477
+  },
+  {
+    "city": "Johns Creek",
+    "state": "Georgia",
+    "label": "Johns Creek, Georgia",
+    "population": 82788,
+    "lat": 34.0289259,
+    "lng": -84.19857900000001
+  },
+  {
+    "city": "Bellingham",
+    "state": "Washington",
+    "label": "Bellingham, Washington",
+    "population": 82631,
+    "lat": 48.74908,
+    "lng": -122.4781473
+  },
+  {
+    "city": "Westland",
+    "state": "Michigan",
+    "label": "Westland, Michigan",
+    "population": 82578,
+    "lat": 42.324203999999995,
+    "lng": -83.400211
+  },
+  {
+    "city": "Bloomington",
+    "state": "Indiana",
+    "label": "Bloomington, Indiana",
+    "population": 82575,
+    "lat": 39.165325,
+    "lng": -86.5263857
+  },
+  {
+    "city": "Sioux City",
+    "state": "Iowa",
+    "label": "Sioux City, Iowa",
+    "population": 82459,
+    "lat": 42.4999942,
+    "lng": -96.4003069
+  },
+  {
+    "city": "Warwick",
+    "state": "Rhode Island",
+    "label": "Warwick, Rhode Island",
+    "population": 81971,
+    "lat": 41.700100899999995,
+    "lng": -71.4161671
+  },
+  {
+    "city": "Hemet",
+    "state": "California",
+    "label": "Hemet, California",
+    "population": 81750,
+    "lat": 33.7475203,
+    "lng": -116.97196840000001
+  },
+  {
+    "city": "Longview",
+    "state": "Texas",
+    "label": "Longview, Texas",
+    "population": 81443,
+    "lat": 32.5007037,
+    "lng": -94.74048909999999
+  },
+  {
+    "city": "Farmington Hills",
+    "state": "Michigan",
+    "label": "Farmington Hills, Michigan",
+    "population": 81295,
+    "lat": 42.4989936,
+    "lng": -83.3677168
+  },
+  {
+    "city": "Bend",
+    "state": "Oregon",
+    "label": "Bend, Oregon",
+    "population": 81236,
+    "lat": 44.058172799999994,
+    "lng": -121.31530959999999
+  },
+  {
+    "city": "Lakewood",
+    "state": "California",
+    "label": "Lakewood, California",
+    "population": 81121,
+    "lat": 33.853626899999995,
+    "lng": -118.13395630000001
+  },
+  {
+    "city": "Merced",
+    "state": "California",
+    "label": "Merced, California",
+    "population": 81102,
+    "lat": 37.3021632,
+    "lng": -120.48296770000002
+  },
+  {
+    "city": "Mission",
+    "state": "Texas",
+    "label": "Mission, Texas",
+    "population": 81050,
+    "lat": 26.2159066,
+    "lng": -98.3252932
+  },
+  {
+    "city": "Chino",
+    "state": "California",
+    "label": "Chino, California",
+    "population": 80988,
+    "lat": 34.0122346,
+    "lng": -117.68894399999999
+  },
+  {
+    "city": "Redwood City",
+    "state": "California",
+    "label": "Redwood City, California",
+    "population": 80872,
+    "lat": 37.4852152,
+    "lng": -122.2363548
+  },
+  {
+    "city": "Edinburg",
+    "state": "Texas",
+    "label": "Edinburg, Texas",
+    "population": 80836,
+    "lat": 26.3017374,
+    "lng": -98.1633432
+  },
+  {
+    "city": "Cranston",
+    "state": "Rhode Island",
+    "label": "Cranston, Rhode Island",
+    "population": 80566,
+    "lat": 41.7798226,
+    "lng": -71.4372796
+  },
+  {
+    "city": "Parma",
+    "state": "Ohio",
+    "label": "Parma, Ohio",
+    "population": 80429,
+    "lat": 41.404774200000006,
+    "lng": -81.72290859999998
+  },
+  {
+    "city": "New Rochelle",
+    "state": "New York",
+    "label": "New Rochelle, New York",
+    "population": 79446,
+    "lat": 40.9114882,
+    "lng": -73.78235490000002
+  },
+  {
+    "city": "Lake Forest",
+    "state": "California",
+    "label": "Lake Forest, California",
+    "population": 79312,
+    "lat": 33.6469661,
+    "lng": -117.689218
+  },
+  {
+    "city": "Napa",
+    "state": "California",
+    "label": "Napa, California",
+    "population": 79068,
+    "lat": 38.2975381,
+    "lng": -122.28686499999999
+  },
+  {
+    "city": "Hammond",
+    "state": "Indiana",
+    "label": "Hammond, Indiana",
+    "population": 78967,
+    "lat": 41.583368799999995,
+    "lng": -87.5000412
+  },
+  {
+    "city": "Fayetteville",
+    "state": "Arkansas",
+    "label": "Fayetteville, Arkansas",
+    "population": 78960,
+    "lat": 36.0625795,
+    "lng": -94.1574263
+  },
+  {
+    "city": "Bloomington",
+    "state": "Illinois",
+    "label": "Bloomington, Illinois",
+    "population": 78902,
+    "lat": 40.4842027,
+    "lng": -88.9936873
+  },
+  {
+    "city": "Avondale",
+    "state": "Arizona",
+    "label": "Avondale, Arizona",
+    "population": 78822,
+    "lat": 33.4355977,
+    "lng": -112.3496021
+  },
+  {
+    "city": "Somerville",
+    "state": "Massachusetts",
+    "label": "Somerville, Massachusetts",
+    "population": 78804,
+    "lat": 42.3875968,
+    "lng": -71.0994968
+  },
+  {
+    "city": "Palm Coast",
+    "state": "Florida",
+    "label": "Palm Coast, Florida",
+    "population": 78740,
+    "lat": 29.584452399999996,
+    "lng": -81.2078699
+  },
+  {
+    "city": "Bryan",
+    "state": "Texas",
+    "label": "Bryan, Texas",
+    "population": 78709,
+    "lat": 30.674364299999997,
+    "lng": -96.3699632
+  },
+  {
+    "city": "Gary",
+    "state": "Indiana",
+    "label": "Gary, Indiana",
+    "population": 78450,
+    "lat": 41.5933696,
+    "lng": -87.3464271
+  },
+  {
+    "city": "Largo",
+    "state": "Florida",
+    "label": "Largo, Florida",
+    "population": 78409,
+    "lat": 27.909466499999997,
+    "lng": -82.7873244
+  },
+  {
+    "city": "Brooklyn Park",
+    "state": "Minnesota",
+    "label": "Brooklyn Park, Minnesota",
+    "population": 78373,
+    "lat": 45.0941315,
+    "lng": -93.3563405
+  },
+  {
+    "city": "Tustin",
+    "state": "California",
+    "label": "Tustin, California",
+    "population": 78327,
+    "lat": 33.7458511,
+    "lng": -117.82616599999999
+  },
+  {
+    "city": "Racine",
+    "state": "Wisconsin",
+    "label": "Racine, Wisconsin",
+    "population": 78199,
+    "lat": 42.7261309,
+    "lng": -87.78285229999999
+  },
+  {
+    "city": "Deerfield Beach",
+    "state": "Florida",
+    "label": "Deerfield Beach, Florida",
+    "population": 78041,
+    "lat": 26.318412300000002,
+    "lng": -80.0997657
+  },
+  {
+    "city": "Lynchburg",
+    "state": "Virginia",
+    "label": "Lynchburg, Virginia",
+    "population": 78014,
+    "lat": 37.4137536,
+    "lng": -79.1422464
+  },
+  {
+    "city": "Mountain View",
+    "state": "California",
+    "label": "Mountain View, California",
+    "population": 77846,
+    "lat": 37.3860517,
+    "lng": -122.08385109999999
+  },
+  {
+    "city": "Medford",
+    "state": "Oregon",
+    "label": "Medford, Oregon",
+    "population": 77677,
+    "lat": 42.3265152,
+    "lng": -122.8755949
+  },
+  {
+    "city": "Lawrence",
+    "state": "Massachusetts",
+    "label": "Lawrence, Massachusetts",
+    "population": 77657,
+    "lat": 42.7070354,
+    "lng": -71.1631137
+  },
+  {
+    "city": "Bellflower",
+    "state": "California",
+    "label": "Bellflower, California",
+    "population": 77593,
+    "lat": 33.881681799999996,
+    "lng": -118.1170117
+  },
+  {
+    "city": "Melbourne",
+    "state": "Florida",
+    "label": "Melbourne, Florida",
+    "population": 77508,
+    "lat": 28.0836269,
+    "lng": -80.6081089
+  },
+  {
+    "city": "St. Joseph",
+    "state": "Missouri",
+    "label": "St. Joseph, Missouri",
+    "population": 77147,
+    "lat": 39.767457799999995,
+    "lng": -94.846681
+  },
+  {
+    "city": "Camden",
+    "state": "New Jersey",
+    "label": "Camden, New Jersey",
+    "population": 76903,
+    "lat": 39.9259463,
+    "lng": -75.1196199
+  },
+  {
+    "city": "St. George",
+    "state": "Utah",
+    "label": "St. George, Utah",
+    "population": 76817,
+    "lat": 37.0965278,
+    "lng": -113.5684164
+  },
+  {
+    "city": "Kennewick",
+    "state": "Washington",
+    "label": "Kennewick, Washington",
+    "population": 76762,
+    "lat": 46.2112458,
+    "lng": -119.1372338
+  },
+  {
+    "city": "Baldwin Park",
+    "state": "California",
+    "label": "Baldwin Park, California",
+    "population": 76635,
+    "lat": 34.0852868,
+    "lng": -117.96089779999998
+  },
+  {
+    "city": "Chino Hills",
+    "state": "California",
+    "label": "Chino Hills, California",
+    "population": 76572,
+    "lat": 33.989818799999995,
+    "lng": -117.7325848
+  },
+  {
+    "city": "Alameda",
+    "state": "California",
+    "label": "Alameda, California",
+    "population": 76419,
+    "lat": 37.7652065,
+    "lng": -122.2416355
+  },
+  {
+    "city": "Albany",
+    "state": "Georgia",
+    "label": "Albany, Georgia",
+    "population": 76185,
+    "lat": 31.578507399999996,
+    "lng": -84.155741
+  },
+  {
+    "city": "Arlington Heights",
+    "state": "Illinois",
+    "label": "Arlington Heights, Illinois",
+    "population": 75994,
+    "lat": 42.0883603,
+    "lng": -87.9806265
+  },
+  {
+    "city": "Scranton",
+    "state": "Pennsylvania",
+    "label": "Scranton, Pennsylvania",
+    "population": 75806,
+    "lat": 41.408969,
+    "lng": -75.66241219999999
+  },
+  {
+    "city": "Evanston",
+    "state": "Illinois",
+    "label": "Evanston, Illinois",
+    "population": 75570,
+    "lat": 42.0450722,
+    "lng": -87.6876969
+  },
+  {
+    "city": "Kalamazoo",
+    "state": "Michigan",
+    "label": "Kalamazoo, Michigan",
+    "population": 75548,
+    "lat": 42.291706899999994,
+    "lng": -85.5872286
+  },
+  {
+    "city": "Baytown",
+    "state": "Texas",
+    "label": "Baytown, Texas",
+    "population": 75418,
+    "lat": 29.735504700000003,
+    "lng": -94.97742740000001
+  },
+  {
+    "city": "Upland",
+    "state": "California",
+    "label": "Upland, California",
+    "population": 75413,
+    "lat": 34.09751,
+    "lng": -117.64838759999999
+  },
+  {
+    "city": "Springdale",
+    "state": "Arkansas",
+    "label": "Springdale, Arkansas",
+    "population": 75229,
+    "lat": 36.18674420000001,
+    "lng": -94.1288141
+  },
+  {
+    "city": "Bethlehem",
+    "state": "Pennsylvania",
+    "label": "Bethlehem, Pennsylvania",
+    "population": 75018,
+    "lat": 40.6259316,
+    "lng": -75.3704579
+  },
+  {
+    "city": "Schaumburg",
+    "state": "Illinois",
+    "label": "Schaumburg, Illinois",
+    "population": 74907,
+    "lat": 42.0333607,
+    "lng": -88.0834059
+  },
+  {
+    "city": "Mount Pleasant",
+    "state": "South Carolina",
+    "label": "Mount Pleasant, South Carolina",
+    "population": 74885,
+    "lat": 32.8323225,
+    "lng": -79.82842579999999
+  },
+  {
+    "city": "Auburn",
+    "state": "Washington",
+    "label": "Auburn, Washington",
+    "population": 74860,
+    "lat": 47.307322799999994,
+    "lng": -122.22845320000002
+  },
+  {
+    "city": "Decatur",
+    "state": "Illinois",
+    "label": "Decatur, Illinois",
+    "population": 74710,
+    "lat": 39.84031470000001,
+    "lng": -88.9548001
+  },
+  {
+    "city": "San Ramon",
+    "state": "California",
+    "label": "San Ramon, California",
+    "population": 74513,
+    "lat": 37.7799273,
+    "lng": -121.9780153
+  },
+  {
+    "city": "Pleasanton",
+    "state": "California",
+    "label": "Pleasanton, California",
+    "population": 74110,
+    "lat": 37.6624312,
+    "lng": -121.8746789
+  },
+  {
+    "city": "Wyoming",
+    "state": "Michigan",
+    "label": "Wyoming, Michigan",
+    "population": 74100,
+    "lat": 42.9133602,
+    "lng": -85.7053085
+  },
+  {
+    "city": "Lake Charles",
+    "state": "Louisiana",
+    "label": "Lake Charles, Louisiana",
+    "population": 74024,
+    "lat": 30.226594899999995,
+    "lng": -93.21737579999999
+  },
+  {
+    "city": "Plymouth",
+    "state": "Minnesota",
+    "label": "Plymouth, Minnesota",
+    "population": 73987,
+    "lat": 45.01051939999999,
+    "lng": -93.4555093
+  },
+  {
+    "city": "Bolingbrook",
+    "state": "Illinois",
+    "label": "Bolingbrook, Illinois",
+    "population": 73936,
+    "lat": 41.6986416,
+    "lng": -88.0683955
+  },
+  {
+    "city": "Pharr",
+    "state": "Texas",
+    "label": "Pharr, Texas",
+    "population": 73790,
+    "lat": 26.1947962,
+    "lng": -98.1836216
+  },
+  {
+    "city": "Appleton",
+    "state": "Wisconsin",
+    "label": "Appleton, Wisconsin",
+    "population": 73596,
+    "lat": 44.2619309,
+    "lng": -88.4153847
+  },
+  {
+    "city": "Gastonia",
+    "state": "North Carolina",
+    "label": "Gastonia, North Carolina",
+    "population": 73209,
+    "lat": 35.262082,
+    "lng": -81.1873005
+  },
+  {
+    "city": "Folsom",
+    "state": "California",
+    "label": "Folsom, California",
+    "population": 73098,
+    "lat": 38.6779591,
+    "lng": -121.17605829999998
+  },
+  {
+    "city": "Southfield",
+    "state": "Michigan",
+    "label": "Southfield, Michigan",
+    "population": 73006,
+    "lat": 42.473368799999996,
+    "lng": -83.2218731
+  },
+  {
+    "city": "Rochester Hills",
+    "state": "Michigan",
+    "label": "Rochester Hills, Michigan",
+    "population": 72952,
+    "lat": 42.6583661,
+    "lng": -83.14993220000001
+  },
+  {
+    "city": "New Britain",
+    "state": "Connecticut",
+    "label": "New Britain, Connecticut",
+    "population": 72939,
+    "lat": 41.6612104,
+    "lng": -72.77954190000001
+  },
+  {
+    "city": "Goodyear",
+    "state": "Arizona",
+    "label": "Goodyear, Arizona",
+    "population": 72864,
+    "lat": 33.4353394,
+    "lng": -112.3576567
+  },
+  {
+    "city": "Canton",
+    "state": "Ohio",
+    "label": "Canton, Ohio",
+    "population": 72535,
+    "lat": 40.7989473,
+    "lng": -81.378447
+  },
+  {
+    "city": "Warner Robins",
+    "state": "Georgia",
+    "label": "Warner Robins, Georgia",
+    "population": 72531,
+    "lat": 32.6130007,
+    "lng": -83.624201
+  },
+  {
+    "city": "Union City",
+    "state": "California",
+    "label": "Union City, California",
+    "population": 72528,
+    "lat": 37.59339179999999,
+    "lng": -122.0438298
+  },
+  {
+    "city": "Perris",
+    "state": "California",
+    "label": "Perris, California",
+    "population": 72326,
+    "lat": 33.7825194,
+    "lng": -117.22864779999999
+  },
+  {
+    "city": "Manteca",
+    "state": "California",
+    "label": "Manteca, California",
+    "population": 71948,
+    "lat": 37.797427299999995,
+    "lng": -121.21605259999998
+  },
+  {
+    "city": "Iowa City",
+    "state": "Iowa",
+    "label": "Iowa City, Iowa",
+    "population": 71591,
+    "lat": 41.6611277,
+    "lng": -91.5301683
+  },
+  {
+    "city": "Jonesboro",
+    "state": "Arkansas",
+    "label": "Jonesboro, Arkansas",
+    "population": 71551,
+    "lat": 35.8422967,
+    "lng": -90.704279
+  },
+  {
+    "city": "Wilmington",
+    "state": "Delaware",
+    "label": "Wilmington, Delaware",
+    "population": 71525,
+    "lat": 39.7390721,
+    "lng": -75.5397878
+  },
+  {
+    "city": "Lynwood",
+    "state": "California",
+    "label": "Lynwood, California",
+    "population": 71371,
+    "lat": 33.930293,
+    "lng": -118.21146029999998
+  },
+  {
+    "city": "Loveland",
+    "state": "Colorado",
+    "label": "Loveland, Colorado",
+    "population": 71334,
+    "lat": 40.397761200000005,
+    "lng": -105.0749801
+  },
+  {
+    "city": "Pawtucket",
+    "state": "Rhode Island",
+    "label": "Pawtucket, Rhode Island",
+    "population": 71172,
+    "lat": 41.878710999999996,
+    "lng": -71.38255579999999
+  },
+  {
+    "city": "Boynton Beach",
+    "state": "Florida",
+    "label": "Boynton Beach, Florida",
+    "population": 71097,
+    "lat": 26.531786600000004,
+    "lng": -80.0905465
+  },
+  {
+    "city": "Waukesha",
+    "state": "Wisconsin",
+    "label": "Waukesha, Wisconsin",
+    "population": 71016,
+    "lat": 43.0116784,
+    "lng": -88.2314813
+  },
+  {
+    "city": "Gulfport",
+    "state": "Mississippi",
+    "label": "Gulfport, Mississippi",
+    "population": 71012,
+    "lat": 30.367419800000004,
+    "lng": -89.0928155
+  },
+  {
+    "city": "Apple Valley",
+    "state": "California",
+    "label": "Apple Valley, California",
+    "population": 70924,
+    "lat": 34.5008311,
+    "lng": -117.18587590000001
+  },
+  {
+    "city": "Passaic",
+    "state": "New Jersey",
+    "label": "Passaic, New Jersey",
+    "population": 70868,
+    "lat": 40.8567662,
+    "lng": -74.12847640000001
+  },
+  {
+    "city": "Rapid City",
+    "state": "South Dakota",
+    "label": "Rapid City, South Dakota",
+    "population": 70812,
+    "lat": 44.0805434,
+    "lng": -103.2310149
+  },
+  {
+    "city": "Layton",
+    "state": "Utah",
+    "label": "Layton, Utah",
+    "population": 70790,
+    "lat": 41.0602216,
+    "lng": -111.9710529
+  },
+  {
+    "city": "Lafayette",
+    "state": "Indiana",
+    "label": "Lafayette, Indiana",
+    "population": 70373,
+    "lat": 40.4167022,
+    "lng": -86.8752869
+  },
+  {
+    "city": "Turlock",
+    "state": "California",
+    "label": "Turlock, California",
+    "population": 70365,
+    "lat": 37.494656799999994,
+    "lng": -120.84659409999999
+  },
+  {
+    "city": "Muncie",
+    "state": "Indiana",
+    "label": "Muncie, Indiana",
+    "population": 70316,
+    "lat": 40.1933767,
+    "lng": -85.3863599
+  },
+  {
+    "city": "Temple",
+    "state": "Texas",
+    "label": "Temple, Texas",
+    "population": 70190,
+    "lat": 31.0982344,
+    "lng": -97.342782
+  },
+  {
+    "city": "Missouri City",
+    "state": "Texas",
+    "label": "Missouri City, Texas",
+    "population": 70185,
+    "lat": 29.6185669,
+    "lng": -95.5377215
+  },
+  {
+    "city": "Redlands",
+    "state": "California",
+    "label": "Redlands, California",
+    "population": 69999,
+    "lat": 34.055569299999995,
+    "lng": -117.1825381
+  },
+  {
+    "city": "Santa Fe",
+    "state": "New Mexico",
+    "label": "Santa Fe, New Mexico",
+    "population": 69976,
+    "lat": 35.686975200000006,
+    "lng": -105.937799
+  },
+  {
+    "city": "Lauderhill",
+    "state": "Florida",
+    "label": "Lauderhill, Florida",
+    "population": 69813,
+    "lat": 26.1403635,
+    "lng": -80.2133808
+  },
+  {
+    "city": "Milpitas",
+    "state": "California",
+    "label": "Milpitas, California",
+    "population": 69783,
+    "lat": 37.4323341,
+    "lng": -121.8995741
+  },
+  {
+    "city": "Palatine",
+    "state": "Illinois",
+    "label": "Palatine, Illinois",
+    "population": 69350,
+    "lat": 42.1103041,
+    "lng": -88.03424
+  },
+  {
+    "city": "Missoula",
+    "state": "Montana",
+    "label": "Missoula, Montana",
+    "population": 69122,
+    "lat": 46.8787176,
+    "lng": -113.99658600000001
+  },
+  {
+    "city": "Rock Hill",
+    "state": "South Carolina",
+    "label": "Rock Hill, South Carolina",
+    "population": 69103,
+    "lat": 34.9248667,
+    "lng": -81.02507840000001
+  },
+  {
+    "city": "Jacksonville",
+    "state": "North Carolina",
+    "label": "Jacksonville, North Carolina",
+    "population": 69079,
+    "lat": 34.7540524,
+    "lng": -77.43024140000001
+  },
+  {
+    "city": "Franklin",
+    "state": "Tennessee",
+    "label": "Franklin, Tennessee",
+    "population": 68886,
+    "lat": 35.9250637,
+    "lng": -86.86888990000001
+  },
+  {
+    "city": "Flagstaff",
+    "state": "Arizona",
+    "label": "Flagstaff, Arizona",
+    "population": 68667,
+    "lat": 35.1982836,
+    "lng": -111.651302
+  },
+  {
+    "city": "Flower Mound",
+    "state": "Texas",
+    "label": "Flower Mound, Texas",
+    "population": 68609,
+    "lat": 33.0145673,
+    "lng": -97.0969552
+  },
+  {
+    "city": "Weston",
+    "state": "Florida",
+    "label": "Weston, Florida",
+    "population": 68388,
+    "lat": 26.100365399999998,
+    "lng": -80.3997748
+  },
+  {
+    "city": "Waterloo",
+    "state": "Iowa",
+    "label": "Waterloo, Iowa",
+    "population": 68366,
+    "lat": 42.492785999999995,
+    "lng": -92.3425775
+  },
+  {
+    "city": "Union City",
+    "state": "New Jersey",
+    "label": "Union City, New Jersey",
+    "population": 68247,
+    "lat": 40.697589799999996,
+    "lng": -74.2631635
+  },
+  {
+    "city": "Mount Vernon",
+    "state": "New York",
+    "label": "Mount Vernon, New York",
+    "population": 68224,
+    "lat": 40.9125992,
+    "lng": -73.8370786
+  },
+  {
+    "city": "Fort Myers",
+    "state": "Florida",
+    "label": "Fort Myers, Florida",
+    "population": 68190,
+    "lat": 26.640628000000003,
+    "lng": -81.87230840000001
+  },
+  {
+    "city": "Dothan",
+    "state": "Alabama",
+    "label": "Dothan, Alabama",
+    "population": 68001,
+    "lat": 31.223231300000002,
+    "lng": -85.39048879999999
+  },
+  {
+    "city": "Rancho Cordova",
+    "state": "California",
+    "label": "Rancho Cordova, California",
+    "population": 67911,
+    "lat": 38.5890723,
+    "lng": -121.302728
+  },
+  {
+    "city": "Redondo Beach",
+    "state": "California",
+    "label": "Redondo Beach, California",
+    "population": 67815,
+    "lat": 33.8491816,
+    "lng": -118.3884078
+  },
+  {
+    "city": "Jackson",
+    "state": "Tennessee",
+    "label": "Jackson, Tennessee",
+    "population": 67685,
+    "lat": 35.6145169,
+    "lng": -88.8139469
+  },
+  {
+    "city": "Pasco",
+    "state": "Washington",
+    "label": "Pasco, Washington",
+    "population": 67599,
+    "lat": 46.239579299999995,
+    "lng": -119.10056570000002
+  },
+  {
+    "city": "St. Charles",
+    "state": "Missouri",
+    "label": "St. Charles, Missouri",
+    "population": 67569,
+    "lat": 38.7881062,
+    "lng": -90.4974359
+  },
+  {
+    "city": "Eau Claire",
+    "state": "Wisconsin",
+    "label": "Eau Claire, Wisconsin",
+    "population": 67545,
+    "lat": 44.811349,
+    "lng": -91.4984941
+  },
+  {
+    "city": "North Richland Hills",
+    "state": "Texas",
+    "label": "North Richland Hills, Texas",
+    "population": 67317,
+    "lat": 32.8342952,
+    "lng": -97.22890290000001
+  },
+  {
+    "city": "Bismarck",
+    "state": "North Dakota",
+    "label": "Bismarck, North Dakota",
+    "population": 67034,
+    "lat": 46.808326799999996,
+    "lng": -100.7837392
+  },
+  {
+    "city": "Yorba Linda",
+    "state": "California",
+    "label": "Yorba Linda, California",
+    "population": 67032,
+    "lat": 33.888625899999994,
+    "lng": -117.8131125
+  },
+  {
+    "city": "Kenner",
+    "state": "Louisiana",
+    "label": "Kenner, Louisiana",
+    "population": 66975,
+    "lat": 29.9940924,
+    "lng": -90.2417434
+  },
+  {
+    "city": "Walnut Creek",
+    "state": "California",
+    "label": "Walnut Creek, California",
+    "population": 66900,
+    "lat": 37.9100783,
+    "lng": -122.06518190000001
+  },
+  {
+    "city": "Frederick",
+    "state": "Maryland",
+    "label": "Frederick, Maryland",
+    "population": 66893,
+    "lat": 39.414268799999995,
+    "lng": -77.41054090000002
+  },
+  {
+    "city": "Oshkosh",
+    "state": "Wisconsin",
+    "label": "Oshkosh, Wisconsin",
+    "population": 66778,
+    "lat": 44.024706200000004,
+    "lng": -88.5426136
+  },
+  {
+    "city": "Pittsburg",
+    "state": "California",
+    "label": "Pittsburg, California",
+    "population": 66695,
+    "lat": 38.027976200000005,
+    "lng": -121.88468059999998
+  },
+  {
+    "city": "Palo Alto",
+    "state": "California",
+    "label": "Palo Alto, California",
+    "population": 66642,
+    "lat": 37.441883399999995,
+    "lng": -122.14301950000001
+  },
+  {
+    "city": "Bossier City",
+    "state": "Louisiana",
+    "label": "Bossier City, Louisiana",
+    "population": 66333,
+    "lat": 32.5159852,
+    "lng": -93.7321228
+  },
+  {
+    "city": "Portland",
+    "state": "Maine",
+    "label": "Portland, Maine",
+    "population": 66318,
+    "lat": 43.661471,
+    "lng": -70.2553259
+  },
+  {
+    "city": "St. Cloud",
+    "state": "Minnesota",
+    "label": "St. Cloud, Minnesota",
+    "population": 66297,
+    "lat": 45.5579451,
+    "lng": -94.1632404
+  },
+  {
+    "city": "Davis",
+    "state": "California",
+    "label": "Davis, California",
+    "population": 66205,
+    "lat": 38.5449065,
+    "lng": -121.74051670000001
+  },
+  {
+    "city": "South San Francisco",
+    "state": "California",
+    "label": "South San Francisco, California",
+    "population": 66174,
+    "lat": 37.654656,
+    "lng": -122.40774979999999
+  },
+  {
+    "city": "Camarillo",
+    "state": "California",
+    "label": "Camarillo, California",
+    "population": 66086,
+    "lat": 34.216393700000005,
+    "lng": -119.0376023
+  },
+  {
+    "city": "North Little Rock",
+    "state": "Arkansas",
+    "label": "North Little Rock, Arkansas",
+    "population": 66075,
+    "lat": 34.769535999999995,
+    "lng": -92.2670941
+  },
+  {
+    "city": "Schenectady",
+    "state": "New York",
+    "label": "Schenectady, New York",
+    "population": 65902,
+    "lat": 42.8142432,
+    "lng": -73.93956870000001
+  },
+  {
+    "city": "Gaithersburg",
+    "state": "Maryland",
+    "label": "Gaithersburg, Maryland",
+    "population": 65690,
+    "lat": 39.143440600000005,
+    "lng": -77.2013705
+  },
+  {
+    "city": "Harlingen",
+    "state": "Texas",
+    "label": "Harlingen, Texas",
+    "population": 65665,
+    "lat": 26.190630600000002,
+    "lng": -97.69610259999999
+  },
+  {
+    "city": "Woodbury",
+    "state": "Minnesota",
+    "label": "Woodbury, Minnesota",
+    "population": 65656,
+    "lat": 44.923855200000006,
+    "lng": -92.9593797
+  },
+  {
+    "city": "Eagan",
+    "state": "Minnesota",
+    "label": "Eagan, Minnesota",
+    "population": 65453,
+    "lat": 44.804132200000005,
+    "lng": -93.1668858
+  },
+  {
+    "city": "Yuba City",
+    "state": "California",
+    "label": "Yuba City, California",
+    "population": 65416,
+    "lat": 39.1404477,
+    "lng": -121.6169108
+  },
+  {
+    "city": "Maple Grove",
+    "state": "Minnesota",
+    "label": "Maple Grove, Minnesota",
+    "population": 65415,
+    "lat": 45.072464200000006,
+    "lng": -93.4557877
+  },
+  {
+    "city": "Youngstown",
+    "state": "Ohio",
+    "label": "Youngstown, Ohio",
+    "population": 65184,
+    "lat": 41.0997803,
+    "lng": -80.6495194
+  },
+  {
+    "city": "Skokie",
+    "state": "Illinois",
+    "label": "Skokie, Illinois",
+    "population": 65176,
+    "lat": 42.0324025,
+    "lng": -87.7416246
+  },
+  {
+    "city": "Kissimmee",
+    "state": "Florida",
+    "label": "Kissimmee, Florida",
+    "population": 65173,
+    "lat": 28.291955699999995,
+    "lng": -81.40757099999999
+  },
+  {
+    "city": "Johnson City",
+    "state": "Tennessee",
+    "label": "Johnson City, Tennessee",
+    "population": 65123,
+    "lat": 36.3134397,
+    "lng": -82.35347270000001
+  },
+  {
+    "city": "Victoria",
+    "state": "Texas",
+    "label": "Victoria, Texas",
+    "population": 65098,
+    "lat": 28.805267399999998,
+    "lng": -97.00359820000001
+  },
+  {
+    "city": "San Clemente",
+    "state": "California",
+    "label": "San Clemente, California",
+    "population": 65040,
+    "lat": 33.4269728,
+    "lng": -117.6119925
+  },
+  {
+    "city": "Bayonne",
+    "state": "New Jersey",
+    "label": "Bayonne, New Jersey",
+    "population": 65028,
+    "lat": 40.6687141,
+    "lng": -74.11430909999999
+  },
+  {
+    "city": "Laguna Niguel",
+    "state": "California",
+    "label": "Laguna Niguel, California",
+    "population": 64652,
+    "lat": 33.5225261,
+    "lng": -117.70755259999999
+  },
+  {
+    "city": "East Orange",
+    "state": "New Jersey",
+    "label": "East Orange, New Jersey",
+    "population": 64544,
+    "lat": 40.767323,
+    "lng": -74.20486770000001
+  },
+  {
+    "city": "Shawnee",
+    "state": "Kansas",
+    "label": "Shawnee, Kansas",
+    "population": 64323,
+    "lat": 39.0228485,
+    "lng": -94.7151865
+  },
+  {
+    "city": "Homestead",
+    "state": "Florida",
+    "label": "Homestead, Florida",
+    "population": 64079,
+    "lat": 25.468722399999997,
+    "lng": -80.4775569
+  },
+  {
+    "city": "Rockville",
+    "state": "Maryland",
+    "label": "Rockville, Maryland",
+    "population": 64072,
+    "lat": 39.0839973,
+    "lng": -77.1527578
+  },
+  {
+    "city": "Delray Beach",
+    "state": "Florida",
+    "label": "Delray Beach, Florida",
+    "population": 64072,
+    "lat": 26.4614625,
+    "lng": -80.07282009999999
+  },
+  {
+    "city": "Janesville",
+    "state": "Wisconsin",
+    "label": "Janesville, Wisconsin",
+    "population": 63820,
+    "lat": 42.6827885,
+    "lng": -89.01872220000001
+  },
+  {
+    "city": "Conway",
+    "state": "Arkansas",
+    "label": "Conway, Arkansas",
+    "population": 63816,
+    "lat": 35.0886963,
+    "lng": -92.44210109999999
+  },
+  {
+    "city": "Pico Rivera",
+    "state": "California",
+    "label": "Pico Rivera, California",
+    "population": 63771,
+    "lat": 33.9830688,
+    "lng": -118.09673500000001
+  },
+  {
+    "city": "Lorain",
+    "state": "Ohio",
+    "label": "Lorain, Ohio",
+    "population": 63710,
+    "lat": 41.452819,
+    "lng": -82.18237459999999
+  },
+  {
+    "city": "Montebello",
+    "state": "California",
+    "label": "Montebello, California",
+    "population": 63495,
+    "lat": 34.0165053,
+    "lng": -118.11375349999999
+  },
+  {
+    "city": "Lodi",
+    "state": "California",
+    "label": "Lodi, California",
+    "population": 63338,
+    "lat": 38.1341477,
+    "lng": -121.27221940000001
+  },
+  {
+    "city": "New Braunfels",
+    "state": "Texas",
+    "label": "New Braunfels, Texas",
+    "population": 63279,
+    "lat": 29.7030024,
+    "lng": -98.1244531
+  },
+  {
+    "city": "Marysville",
+    "state": "Washington",
+    "label": "Marysville, Washington",
+    "population": 63269,
+    "lat": 48.0517637,
+    "lng": -122.1770818
+  },
+  {
+    "city": "Tamarac",
+    "state": "Florida",
+    "label": "Tamarac, Florida",
+    "population": 63155,
+    "lat": 26.2128609,
+    "lng": -80.2497707
+  },
+  {
+    "city": "Madera",
+    "state": "California",
+    "label": "Madera, California",
+    "population": 63105,
+    "lat": 36.961335600000005,
+    "lng": -120.0607176
+  },
+  {
+    "city": "Conroe",
+    "state": "Texas",
+    "label": "Conroe, Texas",
+    "population": 63032,
+    "lat": 30.311876899999998,
+    "lng": -95.4560512
+  },
+  {
+    "city": "Santa Cruz",
+    "state": "California",
+    "label": "Santa Cruz, California",
+    "population": 62864,
+    "lat": 36.9741171,
+    "lng": -122.0307963
+  },
+  {
+    "city": "Eden Prairie",
+    "state": "Minnesota",
+    "label": "Eden Prairie, Minnesota",
+    "population": 62603,
+    "lat": 44.8546856,
+    "lng": -93.470786
+  },
+  {
+    "city": "Cheyenne",
+    "state": "Wyoming",
+    "label": "Cheyenne, Wyoming",
+    "population": 62448,
+    "lat": 41.1399814,
+    "lng": -104.8202462
+  },
+  {
+    "city": "Daytona Beach",
+    "state": "Florida",
+    "label": "Daytona Beach, Florida",
+    "population": 62316,
+    "lat": 29.2108147,
+    "lng": -81.02283309999999
+  },
+  {
+    "city": "Alpharetta",
+    "state": "Georgia",
+    "label": "Alpharetta, Georgia",
+    "population": 62298,
+    "lat": 34.07537620000001,
+    "lng": -84.2940899
+  },
+  {
+    "city": "Hamilton",
+    "state": "Ohio",
+    "label": "Hamilton, Ohio",
+    "population": 62258,
+    "lat": 39.3995008,
+    "lng": -84.5613355
+  },
+  {
+    "city": "Waltham",
+    "state": "Massachusetts",
+    "label": "Waltham, Massachusetts",
+    "population": 62227,
+    "lat": 42.376485200000005,
+    "lng": -71.2356113
+  },
+  {
+    "city": "Coon Rapids",
+    "state": "Minnesota",
+    "label": "Coon Rapids, Minnesota",
+    "population": 62103,
+    "lat": 45.1732394,
+    "lng": -93.30300629999999
+  },
+  {
+    "city": "Haverhill",
+    "state": "Massachusetts",
+    "label": "Haverhill, Massachusetts",
+    "population": 62088,
+    "lat": 42.7762015,
+    "lng": -71.0772796
+  },
+  {
+    "city": "Council Bluffs",
+    "state": "Iowa",
+    "label": "Council Bluffs, Iowa",
+    "population": 61969,
+    "lat": 41.2619444,
+    "lng": -95.8608333
+  },
+  {
+    "city": "Taylor",
+    "state": "Michigan",
+    "label": "Taylor, Michigan",
+    "population": 61817,
+    "lat": 42.240871999999996,
+    "lng": -83.2696509
+  },
+  {
+    "city": "Utica",
+    "state": "New York",
+    "label": "Utica, New York",
+    "population": 61808,
+    "lat": 43.100903,
+    "lng": -75.232664
+  },
+  {
+    "city": "Ames",
+    "state": "Iowa",
+    "label": "Ames, Iowa",
+    "population": 61792,
+    "lat": 42.034721999999995,
+    "lng": -93.62
+  },
+  {
+    "city": "La Habra",
+    "state": "California",
+    "label": "La Habra, California",
+    "population": 61653,
+    "lat": 33.9319578,
+    "lng": -117.94617340000002
+  },
+  {
+    "city": "Encinitas",
+    "state": "California",
+    "label": "Encinitas, California",
+    "population": 61588,
+    "lat": 33.0369867,
+    "lng": -117.2919818
+  },
+  {
+    "city": "Bowling Green",
+    "state": "Kentucky",
+    "label": "Bowling Green, Kentucky",
+    "population": 61488,
+    "lat": 36.9685219,
+    "lng": -86.48080429999999
+  },
+  {
+    "city": "Burnsville",
+    "state": "Minnesota",
+    "label": "Burnsville, Minnesota",
+    "population": 61434,
+    "lat": 44.7677424,
+    "lng": -93.27772259999999
+  },
+  {
+    "city": "Greenville",
+    "state": "South Carolina",
+    "label": "Greenville, South Carolina",
+    "population": 61397,
+    "lat": 34.8526176,
+    "lng": -82.3940104
+  },
+  {
+    "city": "West Des Moines",
+    "state": "Iowa",
+    "label": "West Des Moines, Iowa",
+    "population": 61255,
+    "lat": 41.5772115,
+    "lng": -93.711332
+  },
+  {
+    "city": "Cedar Park",
+    "state": "Texas",
+    "label": "Cedar Park, Texas",
+    "population": 61238,
+    "lat": 30.505197999999996,
+    "lng": -97.82028879999999
+  },
+  {
+    "city": "Tulare",
+    "state": "California",
+    "label": "Tulare, California",
+    "population": 61170,
+    "lat": 36.20772879999999,
+    "lng": -119.3473379
+  },
+  {
+    "city": "Monterey Park",
+    "state": "California",
+    "label": "Monterey Park, California",
+    "population": 61085,
+    "lat": 34.0625106,
+    "lng": -118.1228476
+  },
+  {
+    "city": "Vineland",
+    "state": "New Jersey",
+    "label": "Vineland, New Jersey",
+    "population": 61050,
+    "lat": 39.4863773,
+    "lng": -75.0259637
+  },
+  {
+    "city": "Terre Haute",
+    "state": "Indiana",
+    "label": "Terre Haute, Indiana",
+    "population": 61025,
+    "lat": 39.4667034,
+    "lng": -87.4139092
+  },
+  {
+    "city": "North Miami",
+    "state": "Florida",
+    "label": "North Miami, Florida",
+    "population": 61007,
+    "lat": 25.890094899999998,
+    "lng": -80.18671379999999
+  },
+  {
+    "city": "Mansfield",
+    "state": "Texas",
+    "label": "Mansfield, Texas",
+    "population": 60872,
+    "lat": 32.5631924,
+    "lng": -97.1416768
+  },
+  {
+    "city": "West Allis",
+    "state": "Wisconsin",
+    "label": "West Allis, Wisconsin",
+    "population": 60697,
+    "lat": 43.0166806,
+    "lng": -88.0070315
+  },
+  {
+    "city": "Bristol",
+    "state": "Connecticut",
+    "label": "Bristol, Connecticut",
+    "population": 60568,
+    "lat": 41.6717648,
+    "lng": -72.9492703
+  },
+  {
+    "city": "Taylorsville",
+    "state": "Utah",
+    "label": "Taylorsville, Utah",
+    "population": 60519,
+    "lat": 40.667724799999995,
+    "lng": -111.93882579999999
+  },
+  {
+    "city": "Malden",
+    "state": "Massachusetts",
+    "label": "Malden, Massachusetts",
+    "population": 60509,
+    "lat": 42.4250964,
+    "lng": -71.066163
+  },
+  {
+    "city": "Meriden",
+    "state": "Connecticut",
+    "label": "Meriden, Connecticut",
+    "population": 60456,
+    "lat": 41.5381535,
+    "lng": -72.8070435
+  },
+  {
+    "city": "Blaine",
+    "state": "Minnesota",
+    "label": "Blaine, Minnesota",
+    "population": 60407,
+    "lat": 45.1607987,
+    "lng": -93.2349489
+  },
+  {
+    "city": "Wellington",
+    "state": "Florida",
+    "label": "Wellington, Florida",
+    "population": 60202,
+    "lat": 26.6617635,
+    "lng": -80.2683571
+  },
+  {
+    "city": "Cupertino",
+    "state": "California",
+    "label": "Cupertino, California",
+    "population": 60189,
+    "lat": 37.322997799999996,
+    "lng": -122.03218229999999
+  },
+  {
+    "city": "Springfield",
+    "state": "Oregon",
+    "label": "Springfield, Oregon",
+    "population": 60177,
+    "lat": 44.0462362,
+    "lng": -123.02202890000001
+  },
+  {
+    "city": "Rogers",
+    "state": "Arkansas",
+    "label": "Rogers, Arkansas",
+    "population": 60112,
+    "lat": 36.3320196,
+    "lng": -94.1185366
+  },
+  {
+    "city": "St. Clair Shores",
+    "state": "Michigan",
+    "label": "St. Clair Shores, Michigan",
+    "population": 60070,
+    "lat": 42.4974085,
+    "lng": -82.8963604
+  },
+  {
+    "city": "Gardena",
+    "state": "California",
+    "label": "Gardena, California",
+    "population": 59957,
+    "lat": 33.8883487,
+    "lng": -118.30896240000001
+  },
+  {
+    "city": "Pontiac",
+    "state": "Michigan",
+    "label": "Pontiac, Michigan",
+    "population": 59887,
+    "lat": 42.6389216,
+    "lng": -83.2910468
+  },
+  {
+    "city": "National City",
+    "state": "California",
+    "label": "National City, California",
+    "population": 59834,
+    "lat": 32.6781085,
+    "lng": -117.0991967
+  },
+  {
+    "city": "Grand Junction",
+    "state": "Colorado",
+    "label": "Grand Junction, Colorado",
+    "population": 59778,
+    "lat": 39.0638705,
+    "lng": -108.5506486
+  },
+  {
+    "city": "Rocklin",
+    "state": "California",
+    "label": "Rocklin, California",
+    "population": 59738,
+    "lat": 38.7907339,
+    "lng": -121.2357828
+  },
+  {
+    "city": "Chapel Hill",
+    "state": "North Carolina",
+    "label": "Chapel Hill, North Carolina",
+    "population": 59635,
+    "lat": 35.913199600000006,
+    "lng": -79.05584449999999
+  },
+  {
+    "city": "Casper",
+    "state": "Wyoming",
+    "label": "Casper, Wyoming",
+    "population": 59628,
+    "lat": 42.866632,
+    "lng": -106.31308100000001
+  },
+  {
+    "city": "Broomfield",
+    "state": "Colorado",
+    "label": "Broomfield, Colorado",
+    "population": 59471,
+    "lat": 39.9205411,
+    "lng": -105.0866504
+  },
+  {
+    "city": "Petaluma",
+    "state": "California",
+    "label": "Petaluma, California",
+    "population": 59440,
+    "lat": 38.232417,
+    "lng": -122.6366524
+  },
+  {
+    "city": "South Jordan",
+    "state": "Utah",
+    "label": "South Jordan, Utah",
+    "population": 59366,
+    "lat": 40.5621704,
+    "lng": -111.929658
+  },
+  {
+    "city": "Springfield",
+    "state": "Ohio",
+    "label": "Springfield, Ohio",
+    "population": 59357,
+    "lat": 39.9242266,
+    "lng": -83.8088171
+  },
+  {
+    "city": "Great Falls",
+    "state": "Montana",
+    "label": "Great Falls, Montana",
+    "population": 59351,
+    "lat": 47.4941836,
+    "lng": -111.2833449
+  },
+  {
+    "city": "Lancaster",
+    "state": "Pennsylvania",
+    "label": "Lancaster, Pennsylvania",
+    "population": 59325,
+    "lat": 40.0378755,
+    "lng": -76.3055144
+  },
+  {
+    "city": "North Port",
+    "state": "Florida",
+    "label": "North Port, Florida",
+    "population": 59212,
+    "lat": 27.044224,
+    "lng": -82.23592540000001
+  },
+  {
+    "city": "Lakewood",
+    "state": "Washington",
+    "label": "Lakewood, Washington",
+    "population": 59097,
+    "lat": 47.1717649,
+    "lng": -122.51845800000001
+  },
+  {
+    "city": "Marietta",
+    "state": "Georgia",
+    "label": "Marietta, Georgia",
+    "population": 59089,
+    "lat": 33.952602,
+    "lng": -84.5499327
+  },
+  {
+    "city": "San Rafael",
+    "state": "California",
+    "label": "San Rafael, California",
+    "population": 58994,
+    "lat": 37.9735346,
+    "lng": -122.5310874
+  },
+  {
+    "city": "Royal Oak",
+    "state": "Michigan",
+    "label": "Royal Oak, Michigan",
+    "population": 58946,
+    "lat": 42.4894801,
+    "lng": -83.1446485
+  },
+  {
+    "city": "Des Plaines",
+    "state": "Illinois",
+    "label": "Des Plaines, Illinois",
+    "population": 58918,
+    "lat": 42.03336229999999,
+    "lng": -87.88339909999999
+  },
+  {
+    "city": "Huntington Park",
+    "state": "California",
+    "label": "Huntington Park, California",
+    "population": 58879,
+    "lat": 33.981681200000004,
+    "lng": -118.22507250000001
+  },
+  {
+    "city": "La Mesa",
+    "state": "California",
+    "label": "La Mesa, California",
+    "population": 58642,
+    "lat": 32.7678287,
+    "lng": -117.02308390000002
+  },
+  {
+    "city": "Orland Park",
+    "state": "Illinois",
+    "label": "Orland Park, Illinois",
+    "population": 58590,
+    "lat": 41.6303103,
+    "lng": -87.8539425
+  },
+  {
+    "city": "Auburn",
+    "state": "Alabama",
+    "label": "Auburn, Alabama",
+    "population": 58582,
+    "lat": 32.6098566,
+    "lng": -85.48078249999999
+  },
+  {
+    "city": "Lakeville",
+    "state": "Minnesota",
+    "label": "Lakeville, Minnesota",
+    "population": 58562,
+    "lat": 44.6496868,
+    "lng": -93.24271999999999
+  },
+  {
+    "city": "Owensboro",
+    "state": "Kentucky",
+    "label": "Owensboro, Kentucky",
+    "population": 58416,
+    "lat": 37.771907399999996,
+    "lng": -87.1111676
+  },
+  {
+    "city": "Moore",
+    "state": "Oklahoma",
+    "label": "Moore, Oklahoma",
+    "population": 58414,
+    "lat": 35.339507899999994,
+    "lng": -97.48670279999999
+  },
+  {
+    "city": "Jupiter",
+    "state": "Florida",
+    "label": "Jupiter, Florida",
+    "population": 58298,
+    "lat": 26.934224600000004,
+    "lng": -80.09420870000001
+  },
+  {
+    "city": "Idaho Falls",
+    "state": "Idaho",
+    "label": "Idaho Falls, Idaho",
+    "population": 58292,
+    "lat": 43.491651399999995,
+    "lng": -112.0339645
+  },
+  {
+    "city": "Dubuque",
+    "state": "Iowa",
+    "label": "Dubuque, Iowa",
+    "population": 58253,
+    "lat": 42.5005583,
+    "lng": -90.6645718
+  },
+  {
+    "city": "Bartlett",
+    "state": "Tennessee",
+    "label": "Bartlett, Tennessee",
+    "population": 58226,
+    "lat": 35.204532799999996,
+    "lng": -89.8739753
+  },
+  {
+    "city": "Rowlett",
+    "state": "Texas",
+    "label": "Rowlett, Texas",
+    "population": 58043,
+    "lat": 32.9029017,
+    "lng": -96.56388000000001
+  },
+  {
+    "city": "Novi",
+    "state": "Michigan",
+    "label": "Novi, Michigan",
+    "population": 57960,
+    "lat": 42.48059,
+    "lng": -83.47549129999999
+  },
+  {
+    "city": "White Plains",
+    "state": "New York",
+    "label": "White Plains, New York",
+    "population": 57866,
+    "lat": 41.0339862,
+    "lng": -73.76290970000001
+  },
+  {
+    "city": "Arcadia",
+    "state": "California",
+    "label": "Arcadia, California",
+    "population": 57639,
+    "lat": 34.139729200000005,
+    "lng": -118.0353449
+  },
+  {
+    "city": "Redmond",
+    "state": "Washington",
+    "label": "Redmond, Washington",
+    "population": 57530,
+    "lat": 47.6739881,
+    "lng": -122.12151200000001
+  },
+  {
+    "city": "Lake Elsinore",
+    "state": "California",
+    "label": "Lake Elsinore, California",
+    "population": 57525,
+    "lat": 33.668077200000006,
+    "lng": -117.3272615
+  },
+  {
+    "city": "Ocala",
+    "state": "Florida",
+    "label": "Ocala, Florida",
+    "population": 57468,
+    "lat": 29.187198600000002,
+    "lng": -82.14009229999999
+  },
+  {
+    "city": "Tinley Park",
+    "state": "Illinois",
+    "label": "Tinley Park, Illinois",
+    "population": 57282,
+    "lat": 41.5731442,
+    "lng": -87.7932939
+  },
+  {
+    "city": "Port Orange",
+    "state": "Florida",
+    "label": "Port Orange, Florida",
+    "population": 57203,
+    "lat": 29.1383165,
+    "lng": -80.9956105
+  },
+  {
+    "city": "Medford",
+    "state": "Massachusetts",
+    "label": "Medford, Massachusetts",
+    "population": 57170,
+    "lat": 42.4184296,
+    "lng": -71.10616390000001
+  },
+  {
+    "city": "Oak Lawn",
+    "state": "Illinois",
+    "label": "Oak Lawn, Illinois",
+    "population": 57073,
+    "lat": 41.719978000000005,
+    "lng": -87.7479528
+  },
+  {
+    "city": "Rocky Mount",
+    "state": "North Carolina",
+    "label": "Rocky Mount, North Carolina",
+    "population": 56954,
+    "lat": 35.938210299999994,
+    "lng": -77.7905339
+  },
+  {
+    "city": "Kokomo",
+    "state": "Indiana",
+    "label": "Kokomo, Indiana",
+    "population": 56895,
+    "lat": 40.486427,
+    "lng": -86.13360329999999
+  },
+  {
+    "city": "Coconut Creek",
+    "state": "Florida",
+    "label": "Coconut Creek, Florida",
+    "population": 56792,
+    "lat": 26.2517482,
+    "lng": -80.17893509999999
+  },
+  {
+    "city": "Bowie",
+    "state": "Maryland",
+    "label": "Bowie, Maryland",
+    "population": 56759,
+    "lat": 39.0067768,
+    "lng": -76.77913649999999
+  },
+  {
+    "city": "Berwyn",
+    "state": "Illinois",
+    "label": "Berwyn, Illinois",
+    "population": 56758,
+    "lat": 41.8505874,
+    "lng": -87.79366850000001
+  },
+  {
+    "city": "Midwest City",
+    "state": "Oklahoma",
+    "label": "Midwest City, Oklahoma",
+    "population": 56756,
+    "lat": 35.4495065,
+    "lng": -97.39670190000001
+  },
+  {
+    "city": "Fountain Valley",
+    "state": "California",
+    "label": "Fountain Valley, California",
+    "population": 56707,
+    "lat": 33.7091847,
+    "lng": -117.95366969999999
+  },
+  {
+    "city": "Buckeye",
+    "state": "Arizona",
+    "label": "Buckeye, Arizona",
+    "population": 56683,
+    "lat": 33.370319699999996,
+    "lng": -112.58377659999998
+  },
+  {
+    "city": "Dearborn Heights",
+    "state": "Michigan",
+    "label": "Dearborn Heights, Michigan",
+    "population": 56620,
+    "lat": 42.3369816,
+    "lng": -83.2732627
+  },
+  {
+    "city": "Woodland",
+    "state": "California",
+    "label": "Woodland, California",
+    "population": 56590,
+    "lat": 38.6785157,
+    "lng": -121.7732971
+  },
+  {
+    "city": "Noblesville",
+    "state": "Indiana",
+    "label": "Noblesville, Indiana",
+    "population": 56540,
+    "lat": 40.0455917,
+    "lng": -86.0085955
+  },
+  {
+    "city": "Valdosta",
+    "state": "Georgia",
+    "label": "Valdosta, Georgia",
+    "population": 56481,
+    "lat": 30.8327022,
+    "lng": -83.2784851
+  },
+  {
+    "city": "Diamond Bar",
+    "state": "California",
+    "label": "Diamond Bar, California",
+    "population": 56449,
+    "lat": 34.028622600000006,
+    "lng": -117.81033670000001
+  },
+  {
+    "city": "Manhattan",
+    "state": "Kansas",
+    "label": "Manhattan, Kansas",
+    "population": 56143,
+    "lat": 39.1836082,
+    "lng": -96.5716694
+  },
+  {
+    "city": "Santee",
+    "state": "California",
+    "label": "Santee, California",
+    "population": 56105,
+    "lat": 32.8383828,
+    "lng": -116.97391670000002
+  },
+  {
+    "city": "Taunton",
+    "state": "Massachusetts",
+    "label": "Taunton, Massachusetts",
+    "population": 56069,
+    "lat": 41.900101,
+    "lng": -71.08976740000001
+  },
+  {
+    "city": "Sanford",
+    "state": "Florida",
+    "label": "Sanford, Florida",
+    "population": 56002,
+    "lat": 28.802861199999995,
+    "lng": -81.269453
+  },
+  {
+    "city": "Kettering",
+    "state": "Ohio",
+    "label": "Kettering, Ohio",
+    "population": 55870,
+    "lat": 39.6895036,
+    "lng": -84.16882740000001
+  },
+  {
+    "city": "New Brunswick",
+    "state": "New Jersey",
+    "label": "New Brunswick, New Jersey",
+    "population": 55831,
+    "lat": 40.4862157,
+    "lng": -74.4518188
+  },
+  {
+    "city": "Decatur",
+    "state": "Alabama",
+    "label": "Decatur, Alabama",
+    "population": 55816,
+    "lat": 34.605925299999996,
+    "lng": -86.9833417
+  },
+  {
+    "city": "Chicopee",
+    "state": "Massachusetts",
+    "label": "Chicopee, Massachusetts",
+    "population": 55717,
+    "lat": 42.14870429999999,
+    "lng": -72.6078672
+  },
+  {
+    "city": "Anderson",
+    "state": "Indiana",
+    "label": "Anderson, Indiana",
+    "population": 55670,
+    "lat": 40.1053196,
+    "lng": -85.6802541
+  },
+  {
+    "city": "Margate",
+    "state": "Florida",
+    "label": "Margate, Florida",
+    "population": 55456,
+    "lat": 26.244526300000004,
+    "lng": -80.206436
+  },
+  {
+    "city": "Weymouth Town",
+    "state": "Massachusetts",
+    "label": "Weymouth Town, Massachusetts",
+    "population": 55419,
+    "lat": 42.2180724,
+    "lng": -70.94103559999999
+  },
+  {
+    "city": "Hempstead",
+    "state": "New York",
+    "label": "Hempstead, New York",
+    "population": 55361,
+    "lat": 40.706212799999996,
+    "lng": -73.6187397
+  },
+  {
+    "city": "Corvallis",
+    "state": "Oregon",
+    "label": "Corvallis, Oregon",
+    "population": 55298,
+    "lat": 44.5645659,
+    "lng": -123.2620435
+  },
+  {
+    "city": "Eastvale",
+    "state": "California",
+    "label": "Eastvale, California",
+    "population": 55191,
+    "lat": 33.952463,
+    "lng": -117.5848025
+  },
+  {
+    "city": "Porterville",
+    "state": "California",
+    "label": "Porterville, California",
+    "population": 55174,
+    "lat": 36.06523,
+    "lng": -119.0167679
+  },
+  {
+    "city": "West Haven",
+    "state": "Connecticut",
+    "label": "West Haven, Connecticut",
+    "population": 55046,
+    "lat": 41.2705484,
+    "lng": -72.94697109999998
+  },
+  {
+    "city": "Brentwood",
+    "state": "California",
+    "label": "Brentwood, California",
+    "population": 55000,
+    "lat": 37.931868,
+    "lng": -121.6957863
+  },
+  {
+    "city": "Paramount",
+    "state": "California",
+    "label": "Paramount, California",
+    "population": 54980,
+    "lat": 33.8894598,
+    "lng": -118.15979109999998
+  },
+  {
+    "city": "Grand Forks",
+    "state": "North Dakota",
+    "label": "Grand Forks, North Dakota",
+    "population": 54932,
+    "lat": 47.9252568,
+    "lng": -97.0328547
+  },
+  {
+    "city": "Georgetown",
+    "state": "Texas",
+    "label": "Georgetown, Texas",
+    "population": 54898,
+    "lat": 30.633261800000003,
+    "lng": -97.67798420000001
+  },
+  {
+    "city": "St. Peters",
+    "state": "Missouri",
+    "label": "St. Peters, Missouri",
+    "population": 54842,
+    "lat": 38.7874699,
+    "lng": -90.6298922
+  },
+  {
+    "city": "Shoreline",
+    "state": "Washington",
+    "label": "Shoreline, Washington",
+    "population": 54790,
+    "lat": 47.7556531,
+    "lng": -122.3415178
+  },
+  {
+    "city": "Mount Prospect",
+    "state": "Illinois",
+    "label": "Mount Prospect, Illinois",
+    "population": 54771,
+    "lat": 42.066416700000005,
+    "lng": -87.9372908
+  },
+  {
+    "city": "Hanford",
+    "state": "California",
+    "label": "Hanford, California",
+    "population": 54686,
+    "lat": 36.3274502,
+    "lng": -119.64568440000001
+  },
+  {
+    "city": "Normal",
+    "state": "Illinois",
+    "label": "Normal, Illinois",
+    "population": 54664,
+    "lat": 40.514202600000004,
+    "lng": -88.99063120000001
+  },
+  {
+    "city": "Rosemead",
+    "state": "California",
+    "label": "Rosemead, California",
+    "population": 54561,
+    "lat": 34.0805651,
+    "lng": -118.072846
+  },
+  {
+    "city": "Lehi",
+    "state": "Utah",
+    "label": "Lehi, Utah",
+    "population": 54382,
+    "lat": 40.3916172,
+    "lng": -111.8507662
+  },
+  {
+    "city": "Pocatello",
+    "state": "Idaho",
+    "label": "Pocatello, Idaho",
+    "population": 54350,
+    "lat": 42.8713032,
+    "lng": -112.4455344
+  },
+  {
+    "city": "Highland",
+    "state": "California",
+    "label": "Highland, California",
+    "population": 54291,
+    "lat": 34.1283442,
+    "lng": -117.2086513
+  },
+  {
+    "city": "Novato",
+    "state": "California",
+    "label": "Novato, California",
+    "population": 54194,
+    "lat": 38.107419799999995,
+    "lng": -122.5697032
+  },
+  {
+    "city": "Port Arthur",
+    "state": "Texas",
+    "label": "Port Arthur, Texas",
+    "population": 54135,
+    "lat": 29.884950399999997,
+    "lng": -93.939947
+  },
+  {
+    "city": "Carson City",
+    "state": "Nevada",
+    "label": "Carson City, Nevada",
+    "population": 54080,
+    "lat": 39.1637984,
+    "lng": -119.76740339999999
+  },
+  {
+    "city": "San Marcos",
+    "state": "Texas",
+    "label": "San Marcos, Texas",
+    "population": 54076,
+    "lat": 29.8832749,
+    "lng": -97.9413941
+  },
+  {
+    "city": "Hendersonville",
+    "state": "Tennessee",
+    "label": "Hendersonville, Tennessee",
+    "population": 54068,
+    "lat": 36.304773499999996,
+    "lng": -86.6199957
+  },
+  {
+    "city": "Elyria",
+    "state": "Ohio",
+    "label": "Elyria, Ohio",
+    "population": 53956,
+    "lat": 41.36837979999999,
+    "lng": -82.10764859999999
+  },
+  {
+    "city": "Revere",
+    "state": "Massachusetts",
+    "label": "Revere, Massachusetts",
+    "population": 53756,
+    "lat": 42.408430200000005,
+    "lng": -71.0119948
+  },
+  {
+    "city": "Pflugerville",
+    "state": "Texas",
+    "label": "Pflugerville, Texas",
+    "population": 53752,
+    "lat": 30.4393696,
+    "lng": -97.62000429999999
+  },
+  {
+    "city": "Greenwood",
+    "state": "Indiana",
+    "label": "Greenwood, Indiana",
+    "population": 53665,
+    "lat": 39.6136578,
+    "lng": -86.10665259999999
+  },
+  {
+    "city": "Bellevue",
+    "state": "Nebraska",
+    "label": "Bellevue, Nebraska",
+    "population": 53663,
+    "lat": 41.154362299999995,
+    "lng": -95.9145568
+  },
+  {
+    "city": "Wheaton",
+    "state": "Illinois",
+    "label": "Wheaton, Illinois",
+    "population": 53648,
+    "lat": 41.8661403,
+    "lng": -88.1070127
+  },
+  {
+    "city": "Smyrna",
+    "state": "Georgia",
+    "label": "Smyrna, Georgia",
+    "population": 53438,
+    "lat": 33.883992600000006,
+    "lng": -84.51437609999999
+  },
+  {
+    "city": "Sarasota",
+    "state": "Florida",
+    "label": "Sarasota, Florida",
+    "population": 53326,
+    "lat": 27.3364347,
+    "lng": -82.5306527
+  },
+  {
+    "city": "Blue Springs",
+    "state": "Missouri",
+    "label": "Blue Springs, Missouri",
+    "population": 53294,
+    "lat": 39.0169509,
+    "lng": -94.2816148
+  },
+  {
+    "city": "Colton",
+    "state": "California",
+    "label": "Colton, California",
+    "population": 53243,
+    "lat": 34.0739016,
+    "lng": -117.3136547
+  },
+  {
+    "city": "Euless",
+    "state": "Texas",
+    "label": "Euless, Texas",
+    "population": 53224,
+    "lat": 32.8370727,
+    "lng": -97.08195409999999
+  },
+  {
+    "city": "Castle Rock",
+    "state": "Colorado",
+    "label": "Castle Rock, Colorado",
+    "population": 53063,
+    "lat": 39.372212100000006,
+    "lng": -104.8560902
+  },
+  {
+    "city": "Cathedral City",
+    "state": "California",
+    "label": "Cathedral City, California",
+    "population": 52977,
+    "lat": 33.780538799999995,
+    "lng": -116.46680359999999
+  },
+  {
+    "city": "Kingsport",
+    "state": "Tennessee",
+    "label": "Kingsport, Tennessee",
+    "population": 52962,
+    "lat": 36.548434,
+    "lng": -82.5618186
+  },
+  {
+    "city": "Lake Havasu City",
+    "state": "Arizona",
+    "label": "Lake Havasu City, Arizona",
+    "population": 52844,
+    "lat": 34.483901,
+    "lng": -114.32245479999999
+  },
+  {
+    "city": "Pensacola",
+    "state": "Florida",
+    "label": "Pensacola, Florida",
+    "population": 52703,
+    "lat": 30.421309,
+    "lng": -87.2169149
+  },
+  {
+    "city": "Hoboken",
+    "state": "New Jersey",
+    "label": "Hoboken, New Jersey",
+    "population": 52575,
+    "lat": 40.7439905,
+    "lng": -74.0323626
+  },
+  {
+    "city": "Yucaipa",
+    "state": "California",
+    "label": "Yucaipa, California",
+    "population": 52536,
+    "lat": 34.033625,
+    "lng": -117.0430865
+  },
+  {
+    "city": "Watsonville",
+    "state": "California",
+    "label": "Watsonville, California",
+    "population": 52477,
+    "lat": 36.910231,
+    "lng": -121.7568946
+  },
+  {
+    "city": "Richland",
+    "state": "Washington",
+    "label": "Richland, Washington",
+    "population": 52413,
+    "lat": 46.2856907,
+    "lng": -119.2844621
+  },
+  {
+    "city": "Delano",
+    "state": "California",
+    "label": "Delano, California",
+    "population": 52403,
+    "lat": 35.7688425,
+    "lng": -119.24705359999999
+  },
+  {
+    "city": "Hoffman Estates",
+    "state": "Illinois",
+    "label": "Hoffman Estates, Illinois",
+    "population": 52398,
+    "lat": 42.062991499999995,
+    "lng": -88.1227199
+  },
+  {
+    "city": "Florissant",
+    "state": "Missouri",
+    "label": "Florissant, Missouri",
+    "population": 52363,
+    "lat": 38.789217,
+    "lng": -90.322614
+  },
+  {
+    "city": "Placentia",
+    "state": "California",
+    "label": "Placentia, California",
+    "population": 52206,
+    "lat": 33.87223710000001,
+    "lng": -117.87033629999999
+  },
+  {
+    "city": "West New York",
+    "state": "New Jersey",
+    "label": "West New York, New Jersey",
+    "population": 52122,
+    "lat": 40.787878799999994,
+    "lng": -74.0143064
+  },
+  {
+    "city": "Dublin",
+    "state": "California",
+    "label": "Dublin, California",
+    "population": 52105,
+    "lat": 37.7021521,
+    "lng": -121.9357918
+  },
+  {
+    "city": "Oak Park",
+    "state": "Illinois",
+    "label": "Oak Park, Illinois",
+    "population": 52066,
+    "lat": 41.885031700000006,
+    "lng": -87.7845025
+  },
+  {
+    "city": "Peabody",
+    "state": "Massachusetts",
+    "label": "Peabody, Massachusetts",
+    "population": 52044,
+    "lat": 42.5278731,
+    "lng": -70.92866090000001
+  },
+  {
+    "city": "Perth Amboy",
+    "state": "New Jersey",
+    "label": "Perth Amboy, New Jersey",
+    "population": 51982,
+    "lat": 40.5067723,
+    "lng": -74.2654234
+  },
+  {
+    "city": "Battle Creek",
+    "state": "Michigan",
+    "label": "Battle Creek, Michigan",
+    "population": 51848,
+    "lat": 42.32115220000001,
+    "lng": -85.17971419999999
+  },
+  {
+    "city": "Bradenton",
+    "state": "Florida",
+    "label": "Bradenton, Florida",
+    "population": 51763,
+    "lat": 27.4989278,
+    "lng": -82.5748194
+  },
+  {
+    "city": "Gilroy",
+    "state": "California",
+    "label": "Gilroy, California",
+    "population": 51701,
+    "lat": 37.0057816,
+    "lng": -121.5682751
+  },
+  {
+    "city": "Milford",
+    "state": "Connecticut",
+    "label": "Milford, Connecticut",
+    "population": 51644,
+    "lat": 41.2306979,
+    "lng": -73.064036
+  },
+  {
+    "city": "Albany",
+    "state": "Oregon",
+    "label": "Albany, Oregon",
+    "population": 51583,
+    "lat": 44.6365107,
+    "lng": -123.10592820000001
+  },
+  {
+    "city": "Ankeny",
+    "state": "Iowa",
+    "label": "Ankeny, Iowa",
+    "population": 51567,
+    "lat": 41.7317884,
+    "lng": -93.6001278
+  },
+  {
+    "city": "La Crosse",
+    "state": "Wisconsin",
+    "label": "La Crosse, Wisconsin",
+    "population": 51522,
+    "lat": 43.8013556,
+    "lng": -91.2395807
+  },
+  {
+    "city": "Burlington",
+    "state": "North Carolina",
+    "label": "Burlington, North Carolina",
+    "population": 51510,
+    "lat": 36.0956918,
+    "lng": -79.43779909999999
+  },
+  {
+    "city": "DeSoto",
+    "state": "Texas",
+    "label": "DeSoto, Texas",
+    "population": 51483,
+    "lat": 32.589699800000005,
+    "lng": -96.8570738
+  },
+  {
+    "city": "Harrisonburg",
+    "state": "Virginia",
+    "label": "Harrisonburg, Virginia",
+    "population": 51395,
+    "lat": 38.449568799999994,
+    "lng": -78.8689155
+  },
+  {
+    "city": "Minnetonka",
+    "state": "Minnesota",
+    "label": "Minnetonka, Minnesota",
+    "population": 51368,
+    "lat": 44.9211836,
+    "lng": -93.46874890000001
+  },
+  {
+    "city": "Elkhart",
+    "state": "Indiana",
+    "label": "Elkhart, Indiana",
+    "population": 51265,
+    "lat": 41.6819935,
+    "lng": -85.9766671
+  },
+  {
+    "city": "Lakewood",
+    "state": "Ohio",
+    "label": "Lakewood, Ohio",
+    "population": 51143,
+    "lat": 41.481993200000005,
+    "lng": -81.7981908
+  },
+  {
+    "city": "Glendora",
+    "state": "California",
+    "label": "Glendora, California",
+    "population": 51074,
+    "lat": 34.136118700000004,
+    "lng": -117.86533899999999
+  },
+  {
+    "city": "Southaven",
+    "state": "Mississippi",
+    "label": "Southaven, Mississippi",
+    "population": 50997,
+    "lat": 34.9889818,
+    "lng": -90.0125913
+  },
+  {
+    "city": "Charleston",
+    "state": "West Virginia",
+    "label": "Charleston, West Virginia",
+    "population": 50821,
+    "lat": 38.3498195,
+    "lng": -81.6326234
+  },
+  {
+    "city": "Joplin",
+    "state": "Missouri",
+    "label": "Joplin, Missouri",
+    "population": 50789,
+    "lat": 37.0842271,
+    "lng": -94.513281
+  },
+  {
+    "city": "Enid",
+    "state": "Oklahoma",
+    "label": "Enid, Oklahoma",
+    "population": 50725,
+    "lat": 36.3955891,
+    "lng": -97.8783911
+  },
+  {
+    "city": "Palm Beach Gardens",
+    "state": "Florida",
+    "label": "Palm Beach Gardens, Florida",
+    "population": 50699,
+    "lat": 26.8233946,
+    "lng": -80.1386547
+  },
+  {
+    "city": "Brookhaven",
+    "state": "Georgia",
+    "label": "Brookhaven, Georgia",
+    "population": 50603,
+    "lat": 33.8651033,
+    "lng": -84.3365917
+  },
+  {
+    "city": "Plainfield",
+    "state": "New Jersey",
+    "label": "Plainfield, New Jersey",
+    "population": 50588,
+    "lat": 40.6337136,
+    "lng": -74.40737359999999
+  },
+  {
+    "city": "Grand Island",
+    "state": "Nebraska",
+    "label": "Grand Island, Nebraska",
+    "population": 50550,
+    "lat": 40.92639570000001,
+    "lng": -98.34201180000001
+  },
+  {
+    "city": "Palm Desert",
+    "state": "California",
+    "label": "Palm Desert, California",
+    "population": 50508,
+    "lat": 33.7222445,
+    "lng": -116.37445559999999
+  },
+  {
+    "city": "Huntersville",
+    "state": "North Carolina",
+    "label": "Huntersville, North Carolina",
+    "population": 50458,
+    "lat": 35.410694,
+    "lng": -80.8428504
+  },
+  {
+    "city": "Tigard",
+    "state": "Oregon",
+    "label": "Tigard, Oregon",
+    "population": 50444,
+    "lat": 45.4312294,
+    "lng": -122.7714861
+  },
+  {
+    "city": "Lenexa",
+    "state": "Kansas",
+    "label": "Lenexa, Kansas",
+    "population": 50344,
+    "lat": 38.9536174,
+    "lng": -94.7335709
+  },
+  {
+    "city": "Saginaw",
+    "state": "Michigan",
+    "label": "Saginaw, Michigan",
+    "population": 50303,
+    "lat": 43.419469899999996,
+    "lng": -83.9508068
+  },
+  {
+    "city": "Kentwood",
+    "state": "Michigan",
+    "label": "Kentwood, Michigan",
+    "population": 50233,
+    "lat": 42.8694731,
+    "lng": -85.6447492
+  },
+  {
+    "city": "Doral",
+    "state": "Florida",
+    "label": "Doral, Florida",
+    "population": 50213,
+    "lat": 25.8195424,
+    "lng": -80.3553302
+  },
+  {
+    "city": "Apple Valley",
+    "state": "Minnesota",
+    "label": "Apple Valley, Minnesota",
+    "population": 50201,
+    "lat": 44.7319094,
+    "lng": -93.21772
+  },
+  {
+    "city": "Grapevine",
+    "state": "Texas",
+    "label": "Grapevine, Texas",
+    "population": 50195,
+    "lat": 32.9342919,
+    "lng": -97.07806540000001
+  },
+  {
+    "city": "Aliso Viejo",
+    "state": "California",
+    "label": "Aliso Viejo, California",
+    "population": 50175,
+    "lat": 33.5676842,
+    "lng": -117.72560829999999
+  },
+  {
+    "city": "Sammamish",
+    "state": "Washington",
+    "label": "Sammamish, Washington",
+    "population": 50169,
+    "lat": 47.616268299999994,
+    "lng": -122.0355736
+  },
+  {
+    "city": "Casa Grande",
+    "state": "Arizona",
+    "label": "Casa Grande, Arizona",
+    "population": 50111,
+    "lat": 32.8795022,
+    "lng": -111.75735209999999
+  },
+  {
+    "city": "Pinellas Park",
+    "state": "Florida",
+    "label": "Pinellas Park, Florida",
+    "population": 49998,
+    "lat": 27.8428025,
+    "lng": -82.6995443
+  },
+  {
+    "city": "Troy",
+    "state": "New York",
+    "label": "Troy, New York",
+    "population": 49974,
+    "lat": 42.7284117,
+    "lng": -73.69178509999999
+  },
+  {
+    "city": "West Sacramento",
+    "state": "California",
+    "label": "West Sacramento, California",
+    "population": 49891,
+    "lat": 38.5804609,
+    "lng": -121.53023400000001
+  },
+  {
+    "city": "Burien",
+    "state": "Washington",
+    "label": "Burien, Washington",
+    "population": 49858,
+    "lat": 47.4703767,
+    "lng": -122.3467918
+  },
+  {
+    "city": "Commerce City",
+    "state": "Colorado",
+    "label": "Commerce City, Colorado",
+    "population": 49799,
+    "lat": 39.8083196,
+    "lng": -104.9338675
+  },
+  {
+    "city": "Monroe",
+    "state": "Louisiana",
+    "label": "Monroe, Louisiana",
+    "population": 49761,
+    "lat": 32.5093109,
+    "lng": -92.1193012
+  },
+  {
+    "city": "Cerritos",
+    "state": "California",
+    "label": "Cerritos, California",
+    "population": 49707,
+    "lat": 33.858348299999996,
+    "lng": -118.0647871
+  },
+  {
+    "city": "Downers Grove",
+    "state": "Illinois",
+    "label": "Downers Grove, Illinois",
+    "population": 49670,
+    "lat": 41.8089191,
+    "lng": -88.01117459999999
+  },
+  {
+    "city": "Coral Gables",
+    "state": "Florida",
+    "label": "Coral Gables, Florida",
+    "population": 49631,
+    "lat": 25.72149,
+    "lng": -80.2683838
+  },
+  {
+    "city": "Wilson",
+    "state": "North Carolina",
+    "label": "Wilson, North Carolina",
+    "population": 49628,
+    "lat": 35.7212689,
+    "lng": -77.91553950000001
+  },
+  {
+    "city": "Niagara Falls",
+    "state": "New York",
+    "label": "Niagara Falls, New York",
+    "population": 49468,
+    "lat": 43.0962143,
+    "lng": -79.03773879999999
+  },
+  {
+    "city": "Poway",
+    "state": "California",
+    "label": "Poway, California",
+    "population": 49417,
+    "lat": 32.9628232,
+    "lng": -117.0358646
+  },
+  {
+    "city": "Edina",
+    "state": "Minnesota",
+    "label": "Edina, Minnesota",
+    "population": 49376,
+    "lat": 44.889686600000005,
+    "lng": -93.3499489
+  },
+  {
+    "city": "Cuyahoga Falls",
+    "state": "Ohio",
+    "label": "Cuyahoga Falls, Ohio",
+    "population": 49267,
+    "lat": 41.133944899999996,
+    "lng": -81.48455849999999
+  },
+  {
+    "city": "Rancho Santa Margarita",
+    "state": "California",
+    "label": "Rancho Santa Margarita, California",
+    "population": 49228,
+    "lat": 33.640855,
+    "lng": -117.603104
+  },
+  {
+    "city": "Harrisburg",
+    "state": "Pennsylvania",
+    "label": "Harrisburg, Pennsylvania",
+    "population": 49188,
+    "lat": 40.273191100000005,
+    "lng": -76.88670079999999
+  },
+  {
+    "city": "Huntington",
+    "state": "West Virginia",
+    "label": "Huntington, West Virginia",
+    "population": 49177,
+    "lat": 38.41924960000001,
+    "lng": -82.445154
+  },
+  {
+    "city": "La Mirada",
+    "state": "California",
+    "label": "La Mirada, California",
+    "population": 49133,
+    "lat": 33.9172357,
+    "lng": -118.01200859999999
+  },
+  {
+    "city": "Cypress",
+    "state": "California",
+    "label": "Cypress, California",
+    "population": 49087,
+    "lat": 33.8169599,
+    "lng": -118.0372852
+  },
+  {
+    "city": "Caldwell",
+    "state": "Idaho",
+    "label": "Caldwell, Idaho",
+    "population": 48957,
+    "lat": 43.662938399999994,
+    "lng": -116.6873596
+  },
+  {
+    "city": "Logan",
+    "state": "Utah",
+    "label": "Logan, Utah",
+    "population": 48913,
+    "lat": 41.7369803,
+    "lng": -111.83383590000001
+  },
+  {
+    "city": "Galveston",
+    "state": "Texas",
+    "label": "Galveston, Texas",
+    "population": 48733,
+    "lat": 29.3013479,
+    "lng": -94.7976958
+  },
+  {
+    "city": "Sheboygan",
+    "state": "Wisconsin",
+    "label": "Sheboygan, Wisconsin",
+    "population": 48725,
+    "lat": 43.750828399999996,
+    "lng": -87.71453000000001
+  },
+  {
+    "city": "Middletown",
+    "state": "Ohio",
+    "label": "Middletown, Ohio",
+    "population": 48630,
+    "lat": 39.5150576,
+    "lng": -84.39827629999999
+  },
+  {
+    "city": "Murray",
+    "state": "Utah",
+    "label": "Murray, Utah",
+    "population": 48612,
+    "lat": 40.6668916,
+    "lng": -111.8879909
+  },
+  {
+    "city": "Roswell",
+    "state": "New Mexico",
+    "label": "Roswell, New Mexico",
+    "population": 48611,
+    "lat": 33.3942655,
+    "lng": -104.52302420000001
+  },
+  {
+    "city": "Parker",
+    "state": "Colorado",
+    "label": "Parker, Colorado",
+    "population": 48608,
+    "lat": 39.5186002,
+    "lng": -104.76136329999999
+  },
+  {
+    "city": "Bedford",
+    "state": "Texas",
+    "label": "Bedford, Texas",
+    "population": 48592,
+    "lat": 32.844017,
+    "lng": -97.1430671
+  },
+  {
+    "city": "East Lansing",
+    "state": "Michigan",
+    "label": "East Lansing, Michigan",
+    "population": 48554,
+    "lat": 42.7369792,
+    "lng": -84.48386540000001
+  },
+  {
+    "city": "Methuen",
+    "state": "Massachusetts",
+    "label": "Methuen, Massachusetts",
+    "population": 48514,
+    "lat": 42.7262016,
+    "lng": -71.19089240000001
+  },
+  {
+    "city": "Covina",
+    "state": "California",
+    "label": "Covina, California",
+    "population": 48508,
+    "lat": 34.0900091,
+    "lng": -117.89033970000001
+  },
+  {
+    "city": "Alexandria",
+    "state": "Louisiana",
+    "label": "Alexandria, Louisiana",
+    "population": 48426,
+    "lat": 31.3112936,
+    "lng": -92.4451371
+  },
+  {
+    "city": "Olympia",
+    "state": "Washington",
+    "label": "Olympia, Washington",
+    "population": 48338,
+    "lat": 47.0378741,
+    "lng": -122.9006951
+  },
+  {
+    "city": "Euclid",
+    "state": "Ohio",
+    "label": "Euclid, Ohio",
+    "population": 48139,
+    "lat": 41.5931049,
+    "lng": -81.5267873
+  },
+  {
+    "city": "Mishawaka",
+    "state": "Indiana",
+    "label": "Mishawaka, Indiana",
+    "population": 47989,
+    "lat": 41.6619927,
+    "lng": -86.15861559999999
+  },
+  {
+    "city": "Salina",
+    "state": "Kansas",
+    "label": "Salina, Kansas",
+    "population": 47846,
+    "lat": 38.8402805,
+    "lng": -97.6114237
+  },
+  {
+    "city": "Azusa",
+    "state": "California",
+    "label": "Azusa, California",
+    "population": 47842,
+    "lat": 34.1336186,
+    "lng": -117.90756270000001
+  },
+  {
+    "city": "Newark",
+    "state": "Ohio",
+    "label": "Newark, Ohio",
+    "population": 47777,
+    "lat": 40.0581205,
+    "lng": -82.4012642
+  },
+  {
+    "city": "Chesterfield",
+    "state": "Missouri",
+    "label": "Chesterfield, Missouri",
+    "population": 47749,
+    "lat": 38.6631083,
+    "lng": -90.5770675
+  },
+  {
+    "city": "Leesburg",
+    "state": "Virginia",
+    "label": "Leesburg, Virginia",
+    "population": 47673,
+    "lat": 39.1156615,
+    "lng": -77.5636015
+  },
+  {
+    "city": "Dunwoody",
+    "state": "Georgia",
+    "label": "Dunwoody, Georgia",
+    "population": 47591,
+    "lat": 33.9462125,
+    "lng": -84.3346473
+  },
+  {
+    "city": "Hattiesburg",
+    "state": "Mississippi",
+    "label": "Hattiesburg, Mississippi",
+    "population": 47556,
+    "lat": 31.327118900000002,
+    "lng": -89.2903392
+  },
+  {
+    "city": "Roseville",
+    "state": "Michigan",
+    "label": "Roseville, Michigan",
+    "population": 47555,
+    "lat": 42.4972583,
+    "lng": -82.93714090000002
+  },
+  {
+    "city": "Bonita Springs",
+    "state": "Florida",
+    "label": "Bonita Springs, Florida",
+    "population": 47547,
+    "lat": 26.339806,
+    "lng": -81.77869720000001
+  },
+  {
+    "city": "Portage",
+    "state": "Michigan",
+    "label": "Portage, Michigan",
+    "population": 47523,
+    "lat": 42.20115379999999,
+    "lng": -85.5800022
+  },
+  {
+    "city": "St. Louis Park",
+    "state": "Minnesota",
+    "label": "St. Louis Park, Minnesota",
+    "population": 47411,
+    "lat": 44.9597376,
+    "lng": -93.3702186
+  },
+  {
+    "city": "Collierville",
+    "state": "Tennessee",
+    "label": "Collierville, Tennessee",
+    "population": 47333,
+    "lat": 35.042035999999996,
+    "lng": -89.66452659999999
+  },
+  {
+    "city": "Middletown",
+    "state": "Connecticut",
+    "label": "Middletown, Connecticut",
+    "population": 47333,
+    "lat": 41.562320899999996,
+    "lng": -72.6506488
+  },
+  {
+    "city": "Stillwater",
+    "state": "Oklahoma",
+    "label": "Stillwater, Oklahoma",
+    "population": 47186,
+    "lat": 36.1156071,
+    "lng": -97.0583681
+  },
+  {
+    "city": "East Providence",
+    "state": "Rhode Island",
+    "label": "East Providence, Rhode Island",
+    "population": 47149,
+    "lat": 41.813711600000005,
+    "lng": -71.37005450000001
+  },
+  {
+    "city": "Lawrence",
+    "state": "Indiana",
+    "label": "Lawrence, Indiana",
+    "population": 47135,
+    "lat": 39.8386516,
+    "lng": -86.0252612
+  },
+  {
+    "city": "Wauwatosa",
+    "state": "Wisconsin",
+    "label": "Wauwatosa, Wisconsin",
+    "population": 47134,
+    "lat": 43.049457200000006,
+    "lng": -88.0075875
+  },
+  {
+    "city": "Mentor",
+    "state": "Ohio",
+    "label": "Mentor, Ohio",
+    "population": 46979,
+    "lat": 41.666157299999995,
+    "lng": -81.339552
+  },
+  {
+    "city": "Ceres",
+    "state": "California",
+    "label": "Ceres, California",
+    "population": 46714,
+    "lat": 37.5949316,
+    "lng": -120.9577098
+  },
+  {
+    "city": "Cedar Hill",
+    "state": "Texas",
+    "label": "Cedar Hill, Texas",
+    "population": 46663,
+    "lat": 32.5884689,
+    "lng": -96.9561152
+  },
+  {
+    "city": "Mansfield",
+    "state": "Ohio",
+    "label": "Mansfield, Ohio",
+    "population": 46454,
+    "lat": 40.758390000000006,
+    "lng": -82.51544709999999
+  },
+  {
+    "city": "Binghamton",
+    "state": "New York",
+    "label": "Binghamton, New York",
+    "population": 46444,
+    "lat": 42.0986867,
+    "lng": -75.9179738
+  },
+  {
+    "city": "Coeur d'Alene",
+    "state": "Idaho",
+    "label": "Coeur d'Alene, Idaho",
+    "population": 46402,
+    "lat": 47.677683200000004,
+    "lng": -116.78046640000001
+  },
+  {
+    "city": "San Luis Obispo",
+    "state": "California",
+    "label": "San Luis Obispo, California",
+    "population": 46377,
+    "lat": 35.2827524,
+    "lng": -120.6596156
+  },
+  {
+    "city": "Minot",
+    "state": "North Dakota",
+    "label": "Minot, North Dakota",
+    "population": 46321,
+    "lat": 48.23296679999999,
+    "lng": -101.2922906
+  },
+  {
+    "city": "Palm Springs",
+    "state": "California",
+    "label": "Palm Springs, California",
+    "population": 46281,
+    "lat": 33.8302961,
+    "lng": -116.54529209999998
+  },
+  {
+    "city": "Pine Bluff",
+    "state": "Arkansas",
+    "label": "Pine Bluff, Arkansas",
+    "population": 46094,
+    "lat": 34.2284312,
+    "lng": -92.00319549999999
+  },
+  {
+    "city": "Texas City",
+    "state": "Texas",
+    "label": "Texas City, Texas",
+    "population": 46081,
+    "lat": 29.383845,
+    "lng": -94.9027002
+  },
+  {
+    "city": "Summerville",
+    "state": "South Carolina",
+    "label": "Summerville, South Carolina",
+    "population": 46074,
+    "lat": 33.0185039,
+    "lng": -80.17564809999999
+  },
+  {
+    "city": "Twin Falls",
+    "state": "Idaho",
+    "label": "Twin Falls, Idaho",
+    "population": 45981,
+    "lat": 42.5629668,
+    "lng": -114.46087109999999
+  },
+  {
+    "city": "Jeffersonville",
+    "state": "Indiana",
+    "label": "Jeffersonville, Indiana",
+    "population": 45929,
+    "lat": 38.27757020000001,
+    "lng": -85.7371847
+  },
+  {
+    "city": "San Jacinto",
+    "state": "California",
+    "label": "San Jacinto, California",
+    "population": 45851,
+    "lat": 33.783908399999994,
+    "lng": -116.95863500000002
+  },
+  {
+    "city": "Madison",
+    "state": "Alabama",
+    "label": "Madison, Alabama",
+    "population": 45799,
+    "lat": 34.6992579,
+    "lng": -86.7483318
+  },
+  {
+    "city": "Altoona",
+    "state": "Pennsylvania",
+    "label": "Altoona, Pennsylvania",
+    "population": 45796,
+    "lat": 40.5186809,
+    "lng": -78.3947359
+  },
+  {
+    "city": "Columbus",
+    "state": "Indiana",
+    "label": "Columbus, Indiana",
+    "population": 45775,
+    "lat": 39.201440399999996,
+    "lng": -85.9213796
+  },
+  {
+    "city": "Beavercreek",
+    "state": "Ohio",
+    "label": "Beavercreek, Ohio",
+    "population": 45712,
+    "lat": 39.7092262,
+    "lng": -84.0632685
+  },
+  {
+    "city": "Apopka",
+    "state": "Florida",
+    "label": "Apopka, Florida",
+    "population": 45587,
+    "lat": 28.6934076,
+    "lng": -81.53221490000001
+  },
+  {
+    "city": "Elmhurst",
+    "state": "Illinois",
+    "label": "Elmhurst, Illinois",
+    "population": 45556,
+    "lat": 41.8994744,
+    "lng": -87.9403418
+  },
+  {
+    "city": "Maricopa",
+    "state": "Arizona",
+    "label": "Maricopa, Arizona",
+    "population": 45508,
+    "lat": 33.058106300000006,
+    "lng": -112.04764229999999
+  },
+  {
+    "city": "Farmington",
+    "state": "New Mexico",
+    "label": "Farmington, New Mexico",
+    "population": 45426,
+    "lat": 36.7280583,
+    "lng": -108.21868559999999
+  },
+  {
+    "city": "Glenview",
+    "state": "Illinois",
+    "label": "Glenview, Illinois",
+    "population": 45417,
+    "lat": 42.069750899999995,
+    "lng": -87.7878408
+  },
+  {
+    "city": "Cleveland Heights",
+    "state": "Ohio",
+    "label": "Cleveland Heights, Ohio",
+    "population": 45394,
+    "lat": 41.5200518,
+    "lng": -81.556235
+  },
+  {
+    "city": "Draper",
+    "state": "Utah",
+    "label": "Draper, Utah",
+    "population": 45285,
+    "lat": 40.5246711,
+    "lng": -111.8638226
+  },
+  {
+    "city": "Lincoln",
+    "state": "California",
+    "label": "Lincoln, California",
+    "population": 45237,
+    "lat": 38.891565,
+    "lng": -121.29300790000002
+  },
+  {
+    "city": "Sierra Vista",
+    "state": "Arizona",
+    "label": "Sierra Vista, Arizona",
+    "population": 45129,
+    "lat": 31.545500099999998,
+    "lng": -110.27728559999998
+  },
+  {
+    "city": "Lacey",
+    "state": "Washington",
+    "label": "Lacey, Washington",
+    "population": 44919,
+    "lat": 47.034262899999995,
+    "lng": -122.82319150000001
+  },
+  {
+    "city": "Biloxi",
+    "state": "Mississippi",
+    "label": "Biloxi, Mississippi",
+    "population": 44820,
+    "lat": 30.396031800000003,
+    "lng": -88.88530779999999
+  },
+  {
+    "city": "Strongsville",
+    "state": "Ohio",
+    "label": "Strongsville, Ohio",
+    "population": 44730,
+    "lat": 41.3144966,
+    "lng": -81.83569
+  },
+  {
+    "city": "Barnstable Town",
+    "state": "Massachusetts",
+    "label": "Barnstable Town, Massachusetts",
+    "population": 44641,
+    "lat": 41.7003208,
+    "lng": -70.3002024
+  },
+  {
+    "city": "Wylie",
+    "state": "Texas",
+    "label": "Wylie, Texas",
+    "population": 44575,
+    "lat": 33.0151201,
+    "lng": -96.53887890000001
+  },
+  {
+    "city": "Sayreville",
+    "state": "New Jersey",
+    "label": "Sayreville, New Jersey",
+    "population": 44412,
+    "lat": 40.4594021,
+    "lng": -74.360846
+  },
+  {
+    "city": "Kannapolis",
+    "state": "North Carolina",
+    "label": "Kannapolis, North Carolina",
+    "population": 44359,
+    "lat": 35.487361299999996,
+    "lng": -80.62173409999998
+  },
+  {
+    "city": "Charlottesville",
+    "state": "Virginia",
+    "label": "Charlottesville, Virginia",
+    "population": 44349,
+    "lat": 38.029305900000004,
+    "lng": -78.4766781
+  },
+  {
+    "city": "Littleton",
+    "state": "Colorado",
+    "label": "Littleton, Colorado",
+    "population": 44275,
+    "lat": 39.613321,
+    "lng": -105.0166498
+  },
+  {
+    "city": "Titusville",
+    "state": "Florida",
+    "label": "Titusville, Florida",
+    "population": 44206,
+    "lat": 28.612218699999996,
+    "lng": -80.8075537
+  },
+  {
+    "city": "Hackensack",
+    "state": "New Jersey",
+    "label": "Hackensack, New Jersey",
+    "population": 44113,
+    "lat": 40.8859325,
+    "lng": -74.0434736
+  },
+  {
+    "city": "Newark",
+    "state": "California",
+    "label": "Newark, California",
+    "population": 44096,
+    "lat": 37.5296593,
+    "lng": -122.0402399
+  },
+  {
+    "city": "Pittsfield",
+    "state": "Massachusetts",
+    "label": "Pittsfield, Massachusetts",
+    "population": 44057,
+    "lat": 42.450084499999996,
+    "lng": -73.2453824
+  },
+  {
+    "city": "York",
+    "state": "Pennsylvania",
+    "label": "York, Pennsylvania",
+    "population": 43935,
+    "lat": 39.9625984,
+    "lng": -76.727745
+  },
+  {
+    "city": "Lombard",
+    "state": "Illinois",
+    "label": "Lombard, Illinois",
+    "population": 43907,
+    "lat": 41.8800296,
+    "lng": -88.0078435
+  },
+  {
+    "city": "Attleboro",
+    "state": "Massachusetts",
+    "label": "Attleboro, Massachusetts",
+    "population": 43886,
+    "lat": 41.9445441,
+    "lng": -71.2856082
+  },
+  {
+    "city": "DeKalb",
+    "state": "Illinois",
+    "label": "DeKalb, Illinois",
+    "population": 43849,
+    "lat": 41.9294736,
+    "lng": -88.7503647
+  },
+  {
+    "city": "Blacksburg",
+    "state": "Virginia",
+    "label": "Blacksburg, Virginia",
+    "population": 43609,
+    "lat": 37.2295733,
+    "lng": -80.4139393
+  },
+  {
+    "city": "Dublin",
+    "state": "Ohio",
+    "label": "Dublin, Ohio",
+    "population": 43607,
+    "lat": 40.0992294,
+    "lng": -83.11407709999999
+  },
+  {
+    "city": "Haltom City",
+    "state": "Texas",
+    "label": "Haltom City, Texas",
+    "population": 43580,
+    "lat": 32.799573800000005,
+    "lng": -97.2691817
+  },
+  {
+    "city": "Lompoc",
+    "state": "California",
+    "label": "Lompoc, California",
+    "population": 43509,
+    "lat": 34.6391501,
+    "lng": -120.4579409
+  },
+  {
+    "city": "El Centro",
+    "state": "California",
+    "label": "El Centro, California",
+    "population": 43363,
+    "lat": 32.792,
+    "lng": -115.56305139999999
+  },
+  {
+    "city": "Danville",
+    "state": "California",
+    "label": "Danville, California",
+    "population": 43341,
+    "lat": 37.8215929,
+    "lng": -121.9999606
+  },
+  {
+    "city": "Jefferson City",
+    "state": "Missouri",
+    "label": "Jefferson City, Missouri",
+    "population": 43330,
+    "lat": 38.57670170000001,
+    "lng": -92.17351640000001
+  },
+  {
+    "city": "Cutler Bay",
+    "state": "Florida",
+    "label": "Cutler Bay, Florida",
+    "population": 43328,
+    "lat": 25.5808323,
+    "lng": -80.3468593
+  },
+  {
+    "city": "Oakland Park",
+    "state": "Florida",
+    "label": "Oakland Park, Florida",
+    "population": 43286,
+    "lat": 26.1723065,
+    "lng": -80.13198929999999
+  },
+  {
+    "city": "North Miami Beach",
+    "state": "Florida",
+    "label": "North Miami Beach, Florida",
+    "population": 43250,
+    "lat": 25.9331488,
+    "lng": -80.1625463
+  },
+  {
+    "city": "Freeport",
+    "state": "New York",
+    "label": "Freeport, New York",
+    "population": 43167,
+    "lat": 40.65760220000001,
+    "lng": -73.58318349999999
+  },
+  {
+    "city": "Moline",
+    "state": "Illinois",
+    "label": "Moline, Illinois",
+    "population": 43116,
+    "lat": 41.5067003,
+    "lng": -90.5151342
+  },
+  {
+    "city": "Coachella",
+    "state": "California",
+    "label": "Coachella, California",
+    "population": 43092,
+    "lat": 33.6803003,
+    "lng": -116.17389399999999
+  },
+  {
+    "city": "Fort Pierce",
+    "state": "Florida",
+    "label": "Fort Pierce, Florida",
+    "population": 43074,
+    "lat": 27.446705600000005,
+    "lng": -80.3256056
+  },
+  {
+    "city": "Smyrna",
+    "state": "Tennessee",
+    "label": "Smyrna, Tennessee",
+    "population": 43060,
+    "lat": 35.9828412,
+    "lng": -86.51860450000001
+  },
+  {
+    "city": "Bountiful",
+    "state": "Utah",
+    "label": "Bountiful, Utah",
+    "population": 43023,
+    "lat": 40.8893895,
+    "lng": -111.880771
+  },
+  {
+    "city": "Fond du Lac",
+    "state": "Wisconsin",
+    "label": "Fond du Lac, Wisconsin",
+    "population": 42970,
+    "lat": 43.7730448,
+    "lng": -88.44705079999999
+  },
+  {
+    "city": "Everett",
+    "state": "Massachusetts",
+    "label": "Everett, Massachusetts",
+    "population": 42935,
+    "lat": 42.408429999999996,
+    "lng": -71.0536625
+  },
+  {
+    "city": "Keller",
+    "state": "Texas",
+    "label": "Keller, Texas",
+    "population": 42907,
+    "lat": 32.9341893,
+    "lng": -97.229298
+  },
+  {
+    "city": "Danville",
+    "state": "Virginia",
+    "label": "Danville, Virginia",
+    "population": 42907,
+    "lat": 36.585971799999996,
+    "lng": -79.3950228
+  },
+  {
+    "city": "Belleville",
+    "state": "Illinois",
+    "label": "Belleville, Illinois",
+    "population": 42895,
+    "lat": 38.520050399999995,
+    "lng": -89.98399350000001
+  },
+  {
+    "city": "Bell Gardens",
+    "state": "California",
+    "label": "Bell Gardens, California",
+    "population": 42889,
+    "lat": 33.965291799999996,
+    "lng": -118.1514588
+  },
+  {
+    "city": "Cleveland",
+    "state": "Tennessee",
+    "label": "Cleveland, Tennessee",
+    "population": 42774,
+    "lat": 35.1595182,
+    "lng": -84.8766115
+  },
+  {
+    "city": "North Lauderdale",
+    "state": "Florida",
+    "label": "North Lauderdale, Florida",
+    "population": 42757,
+    "lat": 26.217305,
+    "lng": -80.2258811
+  },
+  {
+    "city": "Fairfield",
+    "state": "Ohio",
+    "label": "Fairfield, Ohio",
+    "population": 42635,
+    "lat": 39.345467299999996,
+    "lng": -84.56031870000001
+  },
+  {
+    "city": "Salem",
+    "state": "Massachusetts",
+    "label": "Salem, Massachusetts",
+    "population": 42544,
+    "lat": 42.51954,
+    "lng": -70.8967155
+  },
+  {
+    "city": "Rancho Palos Verdes",
+    "state": "California",
+    "label": "Rancho Palos Verdes, California",
+    "population": 42448,
+    "lat": 33.7444613,
+    "lng": -118.3870173
+  },
+  {
+    "city": "San Bruno",
+    "state": "California",
+    "label": "San Bruno, California",
+    "population": 42443,
+    "lat": 37.6304904,
+    "lng": -122.41108349999999
+  },
+  {
+    "city": "Concord",
+    "state": "New Hampshire",
+    "label": "Concord, New Hampshire",
+    "population": 42419,
+    "lat": 43.2081366,
+    "lng": -71.5375718
+  },
+  {
+    "city": "Burlington",
+    "state": "Vermont",
+    "label": "Burlington, Vermont",
+    "population": 42284,
+    "lat": 44.475882500000004,
+    "lng": -73.21207199999999
+  },
+  {
+    "city": "Apex",
+    "state": "North Carolina",
+    "label": "Apex, North Carolina",
+    "population": 42214,
+    "lat": 35.732652,
+    "lng": -78.85028559999999
+  },
+  {
+    "city": "Midland",
+    "state": "Michigan",
+    "label": "Midland, Michigan",
+    "population": 42181,
+    "lat": 43.6155825,
+    "lng": -84.24721159999999
+  },
+  {
+    "city": "Altamonte Springs",
+    "state": "Florida",
+    "label": "Altamonte Springs, Florida",
+    "population": 42150,
+    "lat": 28.6611089,
+    "lng": -81.36562420000001
+  },
+  {
+    "city": "Hutchinson",
+    "state": "Kansas",
+    "label": "Hutchinson, Kansas",
+    "population": 41889,
+    "lat": 38.0608445,
+    "lng": -97.9297743
+  },
+  {
+    "city": "Buffalo Grove",
+    "state": "Illinois",
+    "label": "Buffalo Grove, Illinois",
+    "population": 41778,
+    "lat": 42.1662831,
+    "lng": -87.9631308
+  },
+  {
+    "city": "Urbandale",
+    "state": "Iowa",
+    "label": "Urbandale, Iowa",
+    "population": 41776,
+    "lat": 41.6266555,
+    "lng": -93.71216559999999
+  },
+  {
+    "city": "State College",
+    "state": "Pennsylvania",
+    "label": "State College, Pennsylvania",
+    "population": 41757,
+    "lat": 40.793394899999996,
+    "lng": -77.8600012
+  },
+  {
+    "city": "Urbana",
+    "state": "Illinois",
+    "label": "Urbana, Illinois",
+    "population": 41752,
+    "lat": 40.1105875,
+    "lng": -88.2072697
+  },
+  {
+    "city": "Plainfield",
+    "state": "Illinois",
+    "label": "Plainfield, Illinois",
+    "population": 41734,
+    "lat": 41.632222999999996,
+    "lng": -88.2120315
+  },
+  {
+    "city": "Manassas",
+    "state": "Virginia",
+    "label": "Manassas, Virginia",
+    "population": 41705,
+    "lat": 38.750948799999996,
+    "lng": -77.4752667
+  },
+  {
+    "city": "Bartlett",
+    "state": "Illinois",
+    "label": "Bartlett, Illinois",
+    "population": 41679,
+    "lat": 41.9950276,
+    "lng": -88.1856301
+  },
+  {
+    "city": "Kearny",
+    "state": "New Jersey",
+    "label": "Kearny, New Jersey",
+    "population": 41664,
+    "lat": 40.7684342,
+    "lng": -74.1454214
+  },
+  {
+    "city": "Oro Valley",
+    "state": "Arizona",
+    "label": "Oro Valley, Arizona",
+    "population": 41627,
+    "lat": 32.3909071,
+    "lng": -110.96648799999998
+  },
+  {
+    "city": "Findlay",
+    "state": "Ohio",
+    "label": "Findlay, Ohio",
+    "population": 41512,
+    "lat": 41.04422,
+    "lng": -83.6499321
+  },
+  {
+    "city": "Rohnert Park",
+    "state": "California",
+    "label": "Rohnert Park, California",
+    "population": 41398,
+    "lat": 38.3396367,
+    "lng": -122.70109840000002
+  },
+  {
+    "city": "Linden",
+    "state": "New Jersey",
+    "label": "Linden, New Jersey",
+    "population": 41301,
+    "lat": 40.6220478,
+    "lng": -74.2445902
+  },
+  {
+    "city": "Westfield",
+    "state": "Massachusetts",
+    "label": "Westfield, Massachusetts",
+    "population": 41301,
+    "lat": 42.1250929,
+    "lng": -72.749538
+  },
+  {
+    "city": "Sumter",
+    "state": "South Carolina",
+    "label": "Sumter, South Carolina",
+    "population": 41190,
+    "lat": 33.9204354,
+    "lng": -80.3414693
+  },
+  {
+    "city": "Wilkes-Barre",
+    "state": "Pennsylvania",
+    "label": "Wilkes-Barre, Pennsylvania",
+    "population": 41108,
+    "lat": 41.245914899999995,
+    "lng": -75.88130749999999
+  },
+  {
+    "city": "Woonsocket",
+    "state": "Rhode Island",
+    "label": "Woonsocket, Rhode Island",
+    "population": 41026,
+    "lat": 42.0028761,
+    "lng": -71.5147839
+  },
+  {
+    "city": "Leominster",
+    "state": "Massachusetts",
+    "label": "Leominster, Massachusetts",
+    "population": 41002,
+    "lat": 42.5250906,
+    "lng": -71.759794
+  },
+  {
+    "city": "Shelton",
+    "state": "Connecticut",
+    "label": "Shelton, Connecticut",
+    "population": 40999,
+    "lat": 41.3164856,
+    "lng": -73.0931641
+  },
+  {
+    "city": "Brea",
+    "state": "California",
+    "label": "Brea, California",
+    "population": 40963,
+    "lat": 33.9166805,
+    "lng": -117.9000604
+  },
+  {
+    "city": "Covington",
+    "state": "Kentucky",
+    "label": "Covington, Kentucky",
+    "population": 40956,
+    "lat": 39.083671200000005,
+    "lng": -84.5085536
+  },
+  {
+    "city": "Rockwall",
+    "state": "Texas",
+    "label": "Rockwall, Texas",
+    "population": 40922,
+    "lat": 32.9312336,
+    "lng": -96.45970890000001
+  },
+  {
+    "city": "Riverton",
+    "state": "Utah",
+    "label": "Riverton, Utah",
+    "population": 40921,
+    "lat": 40.521893,
+    "lng": -111.9391023
+  },
+  {
+    "city": "Meridian",
+    "state": "Mississippi",
+    "label": "Meridian, Mississippi",
+    "population": 40921,
+    "lat": 32.3643098,
+    "lng": -88.70365600000001
+  },
+  {
+    "city": "St. Cloud",
+    "state": "Florida",
+    "label": "St. Cloud, Florida",
+    "population": 40918,
+    "lat": 28.2489016,
+    "lng": -81.2811801
+  },
+  {
+    "city": "Quincy",
+    "state": "Illinois",
+    "label": "Quincy, Illinois",
+    "population": 40915,
+    "lat": 39.9356016,
+    "lng": -91.40987259999999
+  },
+  {
+    "city": "Morgan Hill",
+    "state": "California",
+    "label": "Morgan Hill, California",
+    "population": 40836,
+    "lat": 37.130501200000005,
+    "lng": -121.65439009999999
+  },
+  {
+    "city": "Warren",
+    "state": "Ohio",
+    "label": "Warren, Ohio",
+    "population": 40768,
+    "lat": 41.237556899999994,
+    "lng": -80.81841659999999
+  },
+  {
+    "city": "Edmonds",
+    "state": "Washington",
+    "label": "Edmonds, Washington",
+    "population": 40727,
+    "lat": 47.8106521,
+    "lng": -122.37735520000001
+  },
+  {
+    "city": "Burleson",
+    "state": "Texas",
+    "label": "Burleson, Texas",
+    "population": 40714,
+    "lat": 32.5420821,
+    "lng": -97.32084920000001
+  },
+  {
+    "city": "Beverly",
+    "state": "Massachusetts",
+    "label": "Beverly, Massachusetts",
+    "population": 40664,
+    "lat": 42.5584283,
+    "lng": -70.880049
+  },
+  {
+    "city": "Mankato",
+    "state": "Minnesota",
+    "label": "Mankato, Minnesota",
+    "population": 40641,
+    "lat": 44.1635775,
+    "lng": -93.99939959999999
+  },
+  {
+    "city": "Hagerstown",
+    "state": "Maryland",
+    "label": "Hagerstown, Maryland",
+    "population": 40612,
+    "lat": 39.641762899999996,
+    "lng": -77.7199932
+  },
+  {
+    "city": "Prescott",
+    "state": "Arizona",
+    "label": "Prescott, Arizona",
+    "population": 40590,
+    "lat": 34.540024200000005,
+    "lng": -112.46850249999999
+  },
+  {
+    "city": "Campbell",
+    "state": "California",
+    "label": "Campbell, California",
+    "population": 40584,
+    "lat": 37.2871651,
+    "lng": -121.9499568
+  },
+  {
+    "city": "Cedar Falls",
+    "state": "Iowa",
+    "label": "Cedar Falls, Iowa",
+    "population": 40566,
+    "lat": 42.5348993,
+    "lng": -92.4453161
+  },
+  {
+    "city": "Beaumont",
+    "state": "California",
+    "label": "Beaumont, California",
+    "population": 40481,
+    "lat": 33.929460600000006,
+    "lng": -116.977248
+  },
+  {
+    "city": "La Puente",
+    "state": "California",
+    "label": "La Puente, California",
+    "population": 40435,
+    "lat": 34.0200114,
+    "lng": -117.94950829999999
+  },
+  {
+    "city": "Crystal Lake",
+    "state": "Illinois",
+    "label": "Crystal Lake, Illinois",
+    "population": 40388,
+    "lat": 42.2411344,
+    "lng": -88.3161965
+  },
+  {
+    "city": "Fitchburg",
+    "state": "Massachusetts",
+    "label": "Fitchburg, Massachusetts",
+    "population": 40383,
+    "lat": 42.583422799999994,
+    "lng": -71.8022955
+  },
+  {
+    "city": "Carol Stream",
+    "state": "Illinois",
+    "label": "Carol Stream, Illinois",
+    "population": 40379,
+    "lat": 41.9125286,
+    "lng": -88.1347927
+  },
+  {
+    "city": "Hickory",
+    "state": "North Carolina",
+    "label": "Hickory, North Carolina",
+    "population": 40361,
+    "lat": 35.7344538,
+    "lng": -81.3444573
+  },
+  {
+    "city": "Streamwood",
+    "state": "Illinois",
+    "label": "Streamwood, Illinois",
+    "population": 40351,
+    "lat": 42.02558270000001,
+    "lng": -88.1784085
+  },
+  {
+    "city": "Norwich",
+    "state": "Connecticut",
+    "label": "Norwich, Connecticut",
+    "population": 40347,
+    "lat": 41.5242649,
+    "lng": -72.07591049999999
+  },
+  {
+    "city": "Coppell",
+    "state": "Texas",
+    "label": "Coppell, Texas",
+    "population": 40342,
+    "lat": 32.954568699999996,
+    "lng": -97.01500779999999
+  },
+  {
+    "city": "San Gabriel",
+    "state": "California",
+    "label": "San Gabriel, California",
+    "population": 40275,
+    "lat": 34.0961111,
+    "lng": -118.10583329999999
+  },
+  {
+    "city": "Holyoke",
+    "state": "Massachusetts",
+    "label": "Holyoke, Massachusetts",
+    "population": 40249,
+    "lat": 42.2042586,
+    "lng": -72.61620090000001
+  },
+  {
+    "city": "Bentonville",
+    "state": "Arkansas",
+    "label": "Bentonville, Arkansas",
+    "population": 40167,
+    "lat": 36.372853799999994,
+    "lng": -94.2088172
+  },
+  {
+    "city": "Florence",
+    "state": "Alabama",
+    "label": "Florence, Alabama",
+    "population": 40059,
+    "lat": 34.79981,
+    "lng": -87.677251
+  },
+  {
+    "city": "Peachtree Corners",
+    "state": "Georgia",
+    "label": "Peachtree Corners, Georgia",
+    "population": 40059,
+    "lat": 33.9698929,
+    "lng": -84.2214551
+  },
+  {
+    "city": "Brentwood",
+    "state": "Tennessee",
+    "label": "Brentwood, Tennessee",
+    "population": 40021,
+    "lat": 36.0331164,
+    "lng": -86.7827772
+  },
+  {
+    "city": "Bozeman",
+    "state": "Montana",
+    "label": "Bozeman, Montana",
+    "population": 39860,
+    "lat": 45.676997899999996,
+    "lng": -111.04293390000001
+  },
+  {
+    "city": "New Berlin",
+    "state": "Wisconsin",
+    "label": "New Berlin, Wisconsin",
+    "population": 39834,
+    "lat": 42.9764027,
+    "lng": -88.10842240000001
+  },
+  {
+    "city": "Goose Creek",
+    "state": "South Carolina",
+    "label": "Goose Creek, South Carolina",
+    "population": 39823,
+    "lat": 32.9810059,
+    "lng": -80.03258670000001
+  },
+  {
+    "city": "Huntsville",
+    "state": "Texas",
+    "label": "Huntsville, Texas",
+    "population": 39795,
+    "lat": 30.723526300000003,
+    "lng": -95.55077709999999
+  },
+  {
+    "city": "Prescott Valley",
+    "state": "Arizona",
+    "label": "Prescott Valley, Arizona",
+    "population": 39791,
+    "lat": 34.6100243,
+    "lng": -112.315721
+  },
+  {
+    "city": "Maplewood",
+    "state": "Minnesota",
+    "label": "Maplewood, Minnesota",
+    "population": 39765,
+    "lat": 44.953021500000006,
+    "lng": -92.9952153
+  },
+  {
+    "city": "Romeoville",
+    "state": "Illinois",
+    "label": "Romeoville, Illinois",
+    "population": 39650,
+    "lat": 41.6475306,
+    "lng": -88.0895061
+  },
+  {
+    "city": "Duncanville",
+    "state": "Texas",
+    "label": "Duncanville, Texas",
+    "population": 39605,
+    "lat": 32.6518004,
+    "lng": -96.9083366
+  },
+  {
+    "city": "Atlantic City",
+    "state": "New Jersey",
+    "label": "Atlantic City, New Jersey",
+    "population": 39551,
+    "lat": 39.3642834,
+    "lng": -74.4229266
+  },
+  {
+    "city": "Clovis",
+    "state": "New Mexico",
+    "label": "Clovis, New Mexico",
+    "population": 39508,
+    "lat": 34.4047987,
+    "lng": -103.2052272
+  },
+  {
+    "city": "The Colony",
+    "state": "Texas",
+    "label": "The Colony, Texas",
+    "population": 39458,
+    "lat": 33.0806083,
+    "lng": -96.8928309
+  },
+  {
+    "city": "Culver City",
+    "state": "California",
+    "label": "Culver City, California",
+    "population": 39428,
+    "lat": 34.021122399999996,
+    "lng": -118.3964665
+  },
+  {
+    "city": "Marlborough",
+    "state": "Massachusetts",
+    "label": "Marlborough, Massachusetts",
+    "population": 39414,
+    "lat": 42.3459271,
+    "lng": -71.55228740000001
+  },
+  {
+    "city": "Hilton Head Island",
+    "state": "South Carolina",
+    "label": "Hilton Head Island, South Carolina",
+    "population": 39412,
+    "lat": 32.216316,
+    "lng": -80.752608
+  },
+  {
+    "city": "Moorhead",
+    "state": "Minnesota",
+    "label": "Moorhead, Minnesota",
+    "population": 39398,
+    "lat": 46.8737648,
+    "lng": -96.7678039
+  },
+  {
+    "city": "Calexico",
+    "state": "California",
+    "label": "Calexico, California",
+    "population": 39389,
+    "lat": 32.6789476,
+    "lng": -115.4988834
+  },
+  {
+    "city": "Bullhead City",
+    "state": "Arizona",
+    "label": "Bullhead City, Arizona",
+    "population": 39383,
+    "lat": 35.1359386,
+    "lng": -114.5285981
+  },
+  {
+    "city": "Germantown",
+    "state": "Tennessee",
+    "label": "Germantown, Tennessee",
+    "population": 39375,
+    "lat": 35.08675770000001,
+    "lng": -89.8100858
+  },
+  {
+    "city": "La Quinta",
+    "state": "California",
+    "label": "La Quinta, California",
+    "population": 39331,
+    "lat": 33.663357299999994,
+    "lng": -116.31000949999999
+  },
+  {
+    "city": "Lancaster",
+    "state": "Ohio",
+    "label": "Lancaster, Ohio",
+    "population": 39325,
+    "lat": 39.71367539999999,
+    "lng": -82.59932940000002
+  },
+  {
+    "city": "Wausau",
+    "state": "Wisconsin",
+    "label": "Wausau, Wisconsin",
+    "population": 39309,
+    "lat": 44.9591352,
+    "lng": -89.6301221
+  },
+  {
+    "city": "Sherman",
+    "state": "Texas",
+    "label": "Sherman, Texas",
+    "population": 39296,
+    "lat": 33.635661799999994,
+    "lng": -96.60888050000001
+  },
+  {
+    "city": "Ocoee",
+    "state": "Florida",
+    "label": "Ocoee, Florida",
+    "population": 39172,
+    "lat": 28.569167699999998,
+    "lng": -81.5439619
+  },
+  {
+    "city": "Shakopee",
+    "state": "Minnesota",
+    "label": "Shakopee, Minnesota",
+    "population": 39167,
+    "lat": 44.79739620000001,
+    "lng": -93.5272861
+  },
+  {
+    "city": "Woburn",
+    "state": "Massachusetts",
+    "label": "Woburn, Massachusetts",
+    "population": 39083,
+    "lat": 42.479261799999996,
+    "lng": -71.1522765
+  },
+  {
+    "city": "Bremerton",
+    "state": "Washington",
+    "label": "Bremerton, Washington",
+    "population": 39056,
+    "lat": 47.567320200000005,
+    "lng": -122.6329356
+  },
+  {
+    "city": "Rock Island",
+    "state": "Illinois",
+    "label": "Rock Island, Illinois",
+    "population": 38877,
+    "lat": 41.5094771,
+    "lng": -90.57874759999999
+  },
+  {
+    "city": "Muskogee",
+    "state": "Oklahoma",
+    "label": "Muskogee, Oklahoma",
+    "population": 38863,
+    "lat": 35.747876899999994,
+    "lng": -95.36969090000001
+  },
+  {
+    "city": "Cape Girardeau",
+    "state": "Missouri",
+    "label": "Cape Girardeau, Missouri",
+    "population": 38816,
+    "lat": 37.3058839,
+    "lng": -89.51814759999999
+  },
+  {
+    "city": "Annapolis",
+    "state": "Maryland",
+    "label": "Annapolis, Maryland",
+    "population": 38722,
+    "lat": 38.9784453,
+    "lng": -76.4921829
+  },
+  {
+    "city": "Greenacres",
+    "state": "Florida",
+    "label": "Greenacres, Florida",
+    "population": 38696,
+    "lat": 26.6276276,
+    "lng": -80.1353896
+  },
+  {
+    "city": "Ormond Beach",
+    "state": "Florida",
+    "label": "Ormond Beach, Florida",
+    "population": 38661,
+    "lat": 29.285812899999996,
+    "lng": -81.05588940000001
+  },
+  {
+    "city": "Hallandale Beach",
+    "state": "Florida",
+    "label": "Hallandale Beach, Florida",
+    "population": 38632,
+    "lat": 25.981202399999997,
+    "lng": -80.148379
+  },
+  {
+    "city": "Stanton",
+    "state": "California",
+    "label": "Stanton, California",
+    "population": 38623,
+    "lat": 33.802515500000005,
+    "lng": -117.9931165
+  },
+  {
+    "city": "Puyallup",
+    "state": "Washington",
+    "label": "Puyallup, Washington",
+    "population": 38609,
+    "lat": 47.1853785,
+    "lng": -122.29289740000002
+  },
+  {
+    "city": "Pacifica",
+    "state": "California",
+    "label": "Pacifica, California",
+    "population": 38606,
+    "lat": 37.613825299999995,
+    "lng": -122.48691940000002
+  },
+  {
+    "city": "Hanover Park",
+    "state": "Illinois",
+    "label": "Hanover Park, Illinois",
+    "population": 38510,
+    "lat": 41.9994722,
+    "lng": -88.1450735
+  },
+  {
+    "city": "Hurst",
+    "state": "Texas",
+    "label": "Hurst, Texas",
+    "population": 38448,
+    "lat": 32.82346210000001,
+    "lng": -97.1705678
+  },
+  {
+    "city": "Lima",
+    "state": "Ohio",
+    "label": "Lima, Ohio",
+    "population": 38355,
+    "lat": 40.742551,
+    "lng": -84.1052256
+  },
+  {
+    "city": "Marana",
+    "state": "Arizona",
+    "label": "Marana, Arizona",
+    "population": 38290,
+    "lat": 32.436381,
+    "lng": -111.2224422
+  },
+  {
+    "city": "Carpentersville",
+    "state": "Illinois",
+    "label": "Carpentersville, Illinois",
+    "population": 38241,
+    "lat": 42.1211364,
+    "lng": -88.2578582
+  },
+  {
+    "city": "Oakley",
+    "state": "California",
+    "label": "Oakley, California",
+    "population": 38194,
+    "lat": 37.9974219,
+    "lng": -121.71245359999999
+  },
+  {
+    "city": "Huber Heights",
+    "state": "Ohio",
+    "label": "Huber Heights, Ohio",
+    "population": 38142,
+    "lat": 39.843947,
+    "lng": -84.1246608
+  },
+  {
+    "city": "Lancaster",
+    "state": "Texas",
+    "label": "Lancaster, Texas",
+    "population": 38071,
+    "lat": 32.5920798,
+    "lng": -96.7561082
+  },
+  {
+    "city": "Montclair",
+    "state": "California",
+    "label": "Montclair, California",
+    "population": 38027,
+    "lat": 34.0775104,
+    "lng": -117.68977759999999
+  },
+  {
+    "city": "Wheeling",
+    "state": "Illinois",
+    "label": "Wheeling, Illinois",
+    "population": 38015,
+    "lat": 42.1391927,
+    "lng": -87.92895909999999
+  },
+  {
+    "city": "Brookfield",
+    "state": "Wisconsin",
+    "label": "Brookfield, Wisconsin",
+    "population": 37999,
+    "lat": 43.0605671,
+    "lng": -88.1064787
+  },
+  {
+    "city": "Park Ridge",
+    "state": "Illinois",
+    "label": "Park Ridge, Illinois",
+    "population": 37839,
+    "lat": 42.011141200000004,
+    "lng": -87.8406192
+  },
+  {
+    "city": "Florence",
+    "state": "South Carolina",
+    "label": "Florence, South Carolina",
+    "population": 37792,
+    "lat": 34.1954331,
+    "lng": -79.7625625
+  },
+  {
+    "city": "Roy",
+    "state": "Utah",
+    "label": "Roy, Utah",
+    "population": 37733,
+    "lat": 41.1616108,
+    "lng": -112.02633130000001
+  },
+  {
+    "city": "Winter Garden",
+    "state": "Florida",
+    "label": "Winter Garden, Florida",
+    "population": 37711,
+    "lat": 28.5652787,
+    "lng": -81.5861847
+  },
+  {
+    "city": "Chelsea",
+    "state": "Massachusetts",
+    "label": "Chelsea, Massachusetts",
+    "population": 37670,
+    "lat": 42.3917638,
+    "lng": -71.03282840000001
+  },
+  {
+    "city": "Valley Stream",
+    "state": "New York",
+    "label": "Valley Stream, New York",
+    "population": 37659,
+    "lat": 40.664269899999994,
+    "lng": -73.7084645
+  },
+  {
+    "city": "Spartanburg",
+    "state": "South Carolina",
+    "label": "Spartanburg, South Carolina",
+    "population": 37647,
+    "lat": 34.949567200000004,
+    "lng": -81.93204820000001
+  },
+  {
+    "city": "Lake Oswego",
+    "state": "Oregon",
+    "label": "Lake Oswego, Oregon",
+    "population": 37610,
+    "lat": 45.4206749,
+    "lng": -122.67064979999999
+  },
+  {
+    "city": "Friendswood",
+    "state": "Texas",
+    "label": "Friendswood, Texas",
+    "population": 37587,
+    "lat": 29.529399800000004,
+    "lng": -95.20104470000001
+  },
+  {
+    "city": "Westerville",
+    "state": "Ohio",
+    "label": "Westerville, Ohio",
+    "population": 37530,
+    "lat": 40.126174299999995,
+    "lng": -82.9290696
+  },
+  {
+    "city": "Northglenn",
+    "state": "Colorado",
+    "label": "Northglenn, Colorado",
+    "population": 37499,
+    "lat": 39.8961821,
+    "lng": -104.98114679999999
+  },
+  {
+    "city": "Phenix City",
+    "state": "Alabama",
+    "label": "Phenix City, Alabama",
+    "population": 37498,
+    "lat": 32.4709761,
+    "lng": -85.0007653
+  },
+  {
+    "city": "Grove City",
+    "state": "Ohio",
+    "label": "Grove City, Ohio",
+    "population": 37490,
+    "lat": 39.881451899999995,
+    "lng": -83.09296440000001
+  },
+  {
+    "city": "Texarkana",
+    "state": "Texas",
+    "label": "Texarkana, Texas",
+    "population": 37442,
+    "lat": 33.425125,
+    "lng": -94.0476882
+  },
+  {
+    "city": "Addison",
+    "state": "Illinois",
+    "label": "Addison, Illinois",
+    "population": 37385,
+    "lat": 41.931696,
+    "lng": -87.9889556
+  },
+  {
+    "city": "Dover",
+    "state": "Delaware",
+    "label": "Dover, Delaware",
+    "population": 37366,
+    "lat": 39.158167999999996,
+    "lng": -75.5243682
+  },
+  {
+    "city": "Lincoln Park",
+    "state": "Michigan",
+    "label": "Lincoln Park, Michigan",
+    "population": 37313,
+    "lat": 42.250594299999996,
+    "lng": -83.17853609999999
+  },
+  {
+    "city": "Calumet City",
+    "state": "Illinois",
+    "label": "Calumet City, Illinois",
+    "population": 37240,
+    "lat": 41.6155909,
+    "lng": -87.5294871
+  },
+  {
+    "city": "Muskegon",
+    "state": "Michigan",
+    "label": "Muskegon, Michigan",
+    "population": 37213,
+    "lat": 43.234181299999996,
+    "lng": -86.2483921
+  },
+  {
+    "city": "Aventura",
+    "state": "Florida",
+    "label": "Aventura, Florida",
+    "population": 37199,
+    "lat": 25.9564812,
+    "lng": -80.1392121
+  },
+  {
+    "city": "Martinez",
+    "state": "California",
+    "label": "Martinez, California",
+    "population": 37165,
+    "lat": 38.0193657,
+    "lng": -122.1341321
+  },
+  {
+    "city": "Greenfield",
+    "state": "Wisconsin",
+    "label": "Greenfield, Wisconsin",
+    "population": 37159,
+    "lat": 42.9614039,
+    "lng": -88.0125865
+  },
+  {
+    "city": "Apache Junction",
+    "state": "Arizona",
+    "label": "Apache Junction, Arizona",
+    "population": 37130,
+    "lat": 33.4150485,
+    "lng": -111.5495777
+  },
+  {
+    "city": "Monrovia",
+    "state": "California",
+    "label": "Monrovia, California",
+    "population": 37101,
+    "lat": 34.14426160000001,
+    "lng": -118.0019482
+  },
+  {
+    "city": "Weslaco",
+    "state": "Texas",
+    "label": "Weslaco, Texas",
+    "population": 37093,
+    "lat": 26.159519399999997,
+    "lng": -97.9908366
+  },
+  {
+    "city": "Keizer",
+    "state": "Oregon",
+    "label": "Keizer, Oregon",
+    "population": 37064,
+    "lat": 44.9901194,
+    "lng": -123.0262077
+  },
+  {
+    "city": "Spanish Fork",
+    "state": "Utah",
+    "label": "Spanish Fork, Utah",
+    "population": 36956,
+    "lat": 40.114955,
+    "lng": -111.654923
+  },
+  {
+    "city": "Beloit",
+    "state": "Wisconsin",
+    "label": "Beloit, Wisconsin",
+    "population": 36888,
+    "lat": 42.5083482,
+    "lng": -89.0317765
+  },
+  {
+    "city": "Panama City",
+    "state": "Florida",
+    "label": "Panama City, Florida",
+    "population": 36877,
+    "lat": 30.158812899999997,
+    "lng": -85.6602058
+  }
+]

@@ -104,3 +104,19 @@ class TripPlanResponseSerializer(serializers.Serializer):
 
 class HealthResponseSerializer(serializers.Serializer):
     status = serializers.CharField()
+
+
+class LocationOptionSerializer(serializers.Serializer):
+    city = serializers.CharField()
+    state = serializers.CharField()
+    state_code = serializers.CharField(allow_blank=True)
+    label = serializers.CharField()
+    population = serializers.IntegerField()
+    lat = serializers.FloatField()
+    lng = serializers.FloatField()
+
+
+class LocationSearchResponseSerializer(serializers.Serializer):
+    query = serializers.CharField()
+    count = serializers.IntegerField()
+    results = LocationOptionSerializer(many=True)
