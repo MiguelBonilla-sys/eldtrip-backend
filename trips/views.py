@@ -12,6 +12,13 @@ from .serializers import TripRequestSerializer
 logger = logging.getLogger(__name__)
 
 
+class HealthCheckView(APIView):
+    """GET /api/health/ - Simple health check endpoint for deployment verification."""
+
+    def get(self, request: Request) -> Response:
+        return Response({"status": "ok"}, status=status.HTTP_200_OK)
+
+
 class TripPlanView(APIView):
     """
     POST /api/trips/plan/
