@@ -23,6 +23,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "rest_framework",
     "corsheaders",
+    "drf_spectacular",
     "trips",
 ]
 
@@ -100,4 +101,29 @@ ORS_API_KEY = os.getenv("ORS_API_KEY", "")
 REST_FRAMEWORK = {
     "DEFAULT_RENDERER_CLASSES": ["rest_framework.renderers.JSONRenderer"],
     "DEFAULT_PARSER_CLASSES": ["rest_framework.parsers.JSONParser"],
+    "DEFAULT_SCHEMA_CLASS": "drf_spectacular.openapi.AutoSchema",
+}
+
+# OpenAPI / Swagger — always active, no ENV keys exposed
+# ORS_API_KEY is used server-side only; it never appears in client-facing schema.
+SPECTACULAR_SETTINGS = {
+    "TITLE": "ELD Trip Planner API",
+    "DESCRIPTION": (
+        "FMCSA-compliant ELD route planning API. "
+        "Accepts trip origin/destination and returns a route, HOS-compliant stops, "
+        "and pre-filled daily log sheets ready for print."
+    ),
+    "VERSION": "1.0.0",
+    "SERVE_INCLUDE_SCHEMA": False,   # schema URL not self-referential in output
+    "COMPONENT_SPLIT_REQUEST": True,
+    # No security schemes — the API is public; ORS key is server-side only
+    "SECURITY": [],
+    "SERVERS": [
+        {"url": "https://eldtrip-api.onrender.com", "description": "Production (Render)"},
+        {"url": "http://localhost:8000", "description": "Local development"},
+    ],
+    "TAGS": [
+        {"name": "trips", "description": "Trip planning and HOS log generation"},
+        {"name": "health", "description": "Service health check"},
+    ],
 }
