@@ -284,24 +284,146 @@ Managed by UV in `pyproject.toml`:
 
 ## 📚 Key Files Explained
 
-### hos_calculator.py
-- **Lines 1-100**: Imports and constants (FMCSA rules)
-- **Lines 100-250**: HOSTripCalculator class initialization and validation
-- **Lines 250-400**: Core trip planning algorithm
-- **Lines 400-500**: Daily log sheet generation and validation
+### hos_calculator.py (500+ lines)
 
-**Key Method**: `plan_trip()` — Takes total distance and cycle hours, returns stops + log sheets
+**Class**: `HOSTripCalculator`
 
-### ors_client.py
-- **geocode(location)** — Converts "Chicago, IL" → `{"lat": 41.88, "lng": -87.63, ...}`
-- **get_route(origin, pickup, dropoff)** — Returns polyline, distance, duration
-- Automatic retry on rate limits (429) and server errors (5xx)
-- In-memory cache prevents redundant API calls
+**Constructor**:
+```python
+def __init__(self, total_miles: float, current_cycle_used: float, start_time_decimal: float = 6.0):
+    self.total_miles = total_miles
+    self.current_cycle_used = current_cycle_used
+    self.start_time_decimal = start_time_decimal  # 6.0 = 6:00 AM
+    self.average_speed = 55.0  # Conservative estimate
+    self.total_driving_hours = total_miles / self.average_speed
+```
 
-### views.py
-- Validates request data with `TripRequestSerializer`
-- Chains: geocode → get_route → plan_trip
-- Handles errors gracefully with appropriate HTTP status codes
+**Core Constants** (FMCSA regulations, hardcoded, non-negotiable):
+```python
+MAX_DRIVING_HOURS = 11.0          # Federal limit per calendar day
+DRIVING_WINDOW_HOURS = 14.0        # From start of workday
+REQUIRED_REST_HOURS = 10.0         # Before resuming driving
+BREAK_REQUIRED_AFTER = 8.0         # Cumulative driving hours
+BREAK_DURATION = 0.5               # 30 minutes
+FUEL_STOP_DURATION = 0.5           # 30 minutes
+CYCLE_LIMIT = 70.0                 # In any 8 calendar days
+CYCLE_RESET_HOURS = 34.0           # Continuous off-duty/sleeper
+FUEL_STOP_INTERVAL_MILES = 1000.0  # Maximum between refuelings
+```
+
+**Main Method**: `plan_trip()`
+```python
+def plan_trip(self):
+    """
+    Orchestrates the entire trip planning algorithm.
+    
+    Returns:
+        dict: {
+            "stops": [{"type": str, "duration_hours": float, "notes": str}, ...],
+            "log_sheets": [{"date": str, "segments": [...], "totals": {...}}, ...],
+            "total_days": int
+        }
+    """
+    # 1. Calculate daily driving needs
+    # 2. Check and apply mandatory breaks
+    # 3. Check and apply fuel stops
+    # 4. Check and apply cycle resets
+    # 5. Generate log sheets (24h totals guaranteed)
+    # 6. Return complete itinerary
+```
+
+**Key Internal Methods**:
+
+1. **`_split_into_days()`** — Divides total distance into daily chunks respecting 11h cap
+2. **`_insert_mandatory_breaks()`** — Adds 30-min breaks when approaching 8h driving
+3. **`_insert_fuel_stops()`** — Places 30-min fuel stops every 1,000 miles
+4. **`_check_and_apply_cycle_reset()`** — Inserts 34h reset when cycle ≥ 70h
+5. **`_generate_log_sheets()`** — Creates daily FMCSA-compliant logs (each = 24.0h exactly)
+6. **`_convert_decimal_time_to_hhmm()`** — Converts monotonic decimal hours (e.g., 6.5) to "06:30"
+
+**Time Tracking**: Uses monotonic decimal hours (not datetime objects)
+- Day 1 runs 6.0 to 30.0 (midnight = 24.0, 6am next day = 30.0)
+- Simplifies calculations and prevents timezone issues
+
+### ors_client.py (150+ lines)
+
+**Purpose**: Encapsulates all OpenRouteService API communication
+
+**Key Functions**:
+
+1. **`geocode(location: str) -> dict`**
+   ```python
+   # Input: "Chicago, IL"
+   # Output: {"lat": 41.8781, "lng": -87.6298, "display_name": "Chicago, Illinois, USA"}
+   # Includes in-memory caching to prevent duplicate API calls
+   ```
+
+2. **`get_route(origin: dict, pickup: dict, dropoff: dict) -> dict`**
+   ```python
+   # Uses HGV (heavy goods vehicle) routing profile
+   # Returns: {
+   #   "total_miles": 542.3,
+   #   "duration_hours": 8.3,
+   #   "polyline": [[lat, lng], [lat, lng], ...],
+   #   "waypoints": [{"distance": 0}, {"distance": 200}, ...]
+   # }
+   ```
+
+**Error Handling**:
+- Automatic retry on HTTP 429 (rate limit) and 5xx errors
+- Raises `ORSError` with descriptive message on failure
+- Client code catches and converts to HTTP 502
+
+**Caching**: In-memory dict (process lifetime)
+- Key: `f"{location.lower()}"`
+- Prevents redundant API calls for same location
+- Sufficient for MVP; consider Redis for multi-process production
+
+### views.py (80+ lines)
+
+**Endpoint**: `POST /api/trips/plan/`
+
+**Request Pipeline**:
+```python
+def plan_trip(request):
+    # 1. Validate JSON with TripRequestSerializer
+    serializer = TripRequestSerializer(data=request.data)
+    if not serializer.is_valid():
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+    
+    # 2. Extract validated data
+    data = serializer.validated_data
+    
+    # 3. Geocode locations
+    origin = geocode(data['current_location'])
+    pickup = geocode(data['pickup_location'])
+    dropoff = geocode(data['dropoff_location'])
+    
+    # 4. Get route
+    route = get_route(origin, pickup, dropoff)
+    
+    # 5. Calculate HOS-compliant itinerary
+    calculator = HOSTripCalculator(
+        total_miles=route['total_miles'],
+        current_cycle_used=data['current_cycle_used'],
+        start_time_decimal=6.0  # 6:00 AM start
+    )
+    result = calculator.plan_trip()
+    
+    # 6. Combine and return
+    response = {
+        "route": route,
+        "stops": result['stops'],
+        "log_sheets": result['log_sheets'],
+        "total_days": result['total_days']
+    }
+    return Response(response)
+```
+
+**Error Responses**:
+- `400` → Invalid request (missing/bad fields)
+- `502` → OpenRouteService API down
+- `500` → HOS calculation error (should not happen if inputs valid)
 
 ## ❌ What We Didn't Do (and Why)
 
