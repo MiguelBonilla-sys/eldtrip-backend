@@ -19,9 +19,49 @@ _geocode_cache: dict[str, dict] = {}
 
 
 class ORSError(Exception):
-    def __init__(self, message: str, status_code: int = 0) -> None:
+    def __init__(
+        self,
+        message: str,
+        status_code: int = 0,
+        ors_error_code: int | None = None,
+    ) -> None:
         super().__init__(message)
         self.status_code = status_code
+        self.ors_error_code = ors_error_code
+
+
+def _extract_ors_error(resp: requests.Response) -> tuple[str, int | None]:
+    """Extract ORS error message/code from JSON payload when available."""
+    fallback_message = resp.text[:200]
+
+    try:
+        payload = resp.json()
+    except ValueError:
+        return fallback_message, None
+
+    if not isinstance(payload, dict):
+        return fallback_message, None
+
+    error_data = payload.get("error")
+    if not isinstance(error_data, dict):
+        return fallback_message, None
+
+    message_raw = error_data.get("message")
+    code_raw = error_data.get("code")
+
+    ors_error_code = None
+    if isinstance(code_raw, int):
+        ors_error_code = code_raw
+    elif isinstance(code_raw, str):
+        try:
+            ors_error_code = int(code_raw)
+        except ValueError:
+            ors_error_code = None
+
+    if isinstance(message_raw, str) and message_raw.strip():
+        return message_raw.strip(), ors_error_code
+
+    return fallback_message, ors_error_code
 
 
 def _get(url: str, params: dict) -> dict:
@@ -45,9 +85,11 @@ def _get(url: str, params: dict) -> dict:
         if resp.status_code >= 500 and attempt == 0:
             time.sleep(1)
             continue
+        error_message, ors_error_code = _extract_ors_error(resp)
         raise ORSError(
-            f"ORS returned {resp.status_code}: {resp.text[:200]}",
+            f"ORS returned {resp.status_code}: {error_message}",
             status_code=resp.status_code,
+            ors_error_code=ors_error_code,
         )
     raise ORSError("ORS request failed after retries.")
 
@@ -73,9 +115,11 @@ def _post(url: str, body: dict) -> dict:
         if resp.status_code >= 500 and attempt == 0:
             time.sleep(1)
             continue
+        error_message, ors_error_code = _extract_ors_error(resp)
         raise ORSError(
-            f"ORS returned {resp.status_code}: {resp.text[:200]}",
+            f"ORS returned {resp.status_code}: {error_message}",
             status_code=resp.status_code,
+            ors_error_code=ors_error_code,
         )
     raise ORSError("ORS request failed after retries.")
 

@@ -3,6 +3,7 @@ import json
 from functools import lru_cache
 from pathlib import Path
 
+from drf_spectacular.types import OpenApiTypes
 from drf_spectacular.utils import (
     OpenApiExample,
     OpenApiParameter,
@@ -22,7 +23,6 @@ from .serializers import (
     LocationSearchResponseSerializer,
     TripPlanResponseSerializer,
     TripRequestSerializer,
-    ValidationErrorResponseSerializer,
 )
 
 logger = logging.getLogger(__name__)
@@ -30,6 +30,11 @@ logger = logging.getLogger(__name__)
 LOCATIONS_DATASET_PATH = Path(__file__).resolve().parent / "data" / "locations_us.json"
 DEFAULT_LOCATION_LIMIT = 12
 MAX_LOCATION_LIMIT = 25
+ORS_ROUTE_DISTANCE_LIMIT_CODE = 2004
+ORS_ROUTE_DISTANCE_LIMIT_MESSAGE = (
+    "Route too long for a single request (ORS max 6000 km). "
+    "Split the trip into smaller legs."
+)
 
 STATE_CODE_TO_NAME = {
     "AL": "Alabama",
@@ -85,6 +90,13 @@ STATE_CODE_TO_NAME = {
     "DC": "District of Columbia",
 }
 STATE_NAME_TO_CODE = {name.lower(): code for code, name in STATE_CODE_TO_NAME.items()}
+
+
+def _is_ors_route_distance_limit_error(exc: ORSError) -> bool:
+    return (
+        exc.status_code == status.HTTP_400_BAD_REQUEST
+        and exc.ors_error_code == ORS_ROUTE_DISTANCE_LIMIT_CODE
+    )
 
 
 def _to_int(value: object, default: int = 0) -> int:
@@ -197,8 +209,11 @@ class TripPlanView(APIView):
         responses={
             200: OpenApiResponse(response=TripPlanResponseSerializer),
             400: OpenApiResponse(
-                response=ValidationErrorResponseSerializer,
-                description="Validation error in request payload.",
+                response=OpenApiTypes.OBJECT,
+                description=(
+                    "Validation error in request payload or unsupported route distance. "
+                    "May return field-level validation details or an {'error': '...'} message."
+                ),
             ),
             502: OpenApiResponse(
                 response=ErrorResponseSerializer,
@@ -246,6 +261,13 @@ class TripPlanView(APIView):
         try:
             route = get_route(origin, pickup, dropoff)
         except ORSError as exc:
+            if _is_ors_route_distance_limit_error(exc):
+                logger.warning("Route exceeds ORS distance limit: %s", exc)
+                return Response(
+                    {"error": ORS_ROUTE_DISTANCE_LIMIT_MESSAGE},
+                    status=status.HTTP_400_BAD_REQUEST,
+                )
+
             logger.error("Routing failed: %s", exc)
             return Response(
                 {"error": f"Routing failed: {exc}"},
