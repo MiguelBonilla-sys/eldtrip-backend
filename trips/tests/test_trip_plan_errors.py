@@ -29,7 +29,7 @@ def _geo(display_name: str) -> dict:
     return {"lat": 41.0, "lng": -87.0, "display_name": display_name}
 
 
-def test_trip_plan_returns_400_for_ors_distance_limit_code_2004() -> None:
+def test_trip_plan_returns_400_for_ors_distance_limit_if_route_still_fails() -> None:
     with patch(
         "trips.views.geocode",
         side_effect=[

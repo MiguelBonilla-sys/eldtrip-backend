@@ -262,7 +262,7 @@ class TripPlanView(APIView):
             route = get_route(origin, pickup, dropoff)
         except ORSError as exc:
             if _is_ors_route_distance_limit_error(exc):
-                logger.warning("Route exceeds ORS distance limit: %s", exc)
+                logger.warning("Route exceeds ORS distance limit after auto-split: %s", exc)
                 return Response(
                     {"error": ORS_ROUTE_DISTANCE_LIMIT_MESSAGE},
                     status=status.HTTP_400_BAD_REQUEST,
